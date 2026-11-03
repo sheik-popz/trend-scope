@@ -1,334 +1,397 @@
 {
- "updated": "2026-11-03T10:08:06.014943+00:00",
+ "updated": "2026-11-03T17:54:10.342447+00:00",
  "sections": {
   "Tamil Nadu": [
+   {
+    "title": "Southern India has grown wetter over seven decades, finds IMD study",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/southern-india-has-grown-wetter-over-seven-decades-finds-imd-study/article71661697.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "The peninsula’s hot semi-arid zone has nearly halved, with much of it turning into a tropical savannah climate, while north-west India has become drier and hotter",
+    "time": "2026-11-03T17:47:33+00:00"
+   },
+   {
+    "title": "Number of polling stations in Tamil Nadu rises to 75,088",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/number-of-polling-stations-in-tamil-nadu-rises-to-75088/article71662066.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "134 new polling stations were created during the rationalisation, while 78 polling stations were merged, resulting in a net increase of 56 polling stations",
+    "time": "2026-11-03T17:29:35+00:00"
+   },
+   {
+    "title": "Meeting held to improve air cargo volume from Coimbatore",
+    "link": "https://www.thehindu.com/news/cities/Coimbatore/meeting-held-to-improve-air-cargo-volume-from-coimbatore/article71662148.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "",
+    "time": "2026-11-03T17:23:39+00:00"
+   },
+   {
+    "title": "Collect sarees, dhotis before Nov. 7, pensioners told",
+    "link": "https://www.thehindu.com/news/cities/chennai/collect-sarees-dhotis-before-nov-7-pensioners-told/article71662144.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "",
+    "time": "2026-11-03T17:09:07+00:00"
+   },
+   {
+    "title": "Special camps for electoral roll revision to be held in Cuddalore",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/special-camps-for-electoral-roll-revision-to-be-held-in-cuddalore/article71660679.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "",
+    "time": "2026-11-03T17:06:51+00:00"
+   },
+   {
+    "title": "Former Minister Anita Radhakrishnan, 6 others acquitted in disproportionate assets case",
+    "link": "https://www.thehindu.com/news/cities/Madurai/former-minister-anita-radhakrishnan-6-others-acquitted-in-disproportionate-assets-case/article71661145.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "The Principal District and Sessions Judge held that the prosecution had failed to establish the charge that when he was the Minister in the Jayalalithaa-led AIADMK government between 2001 and 2006, Mr. Radhakrishnan had amassed wealth dispr",
+    "time": "2026-11-03T17:00:28+00:00"
+   },
+   {
+    "title": "Bursting of firecrackers permitted only for two hours in Tamil Nadu on Deepavali",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/bursting-of-firecrackers-permitted-only-for-two-hours-in-tamil-nadu-on-deepavali/article71661399.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "The TNPCB urges members of the public to burst firecrackers only between 6 a.m. and 7 a.m. and 7 p.m. and 8 p.m. on Deepavali",
+    "time": "2026-11-03T15:29:20+00:00"
+   },
+   {
+    "title": "Home textile exporters to get subsidy to participate in Germany fair in 2027",
+    "link": "https://www.thehindu.com/news/cities/Coimbatore/home-textile-exporters-to-get-subsidy-to-participate-in-germany-fair-in-2027/article71661421.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "",
+    "time": "2026-11-03T15:00:11+00:00"
+   },
+   {
+    "title": "Vijay launches ₹1,110-crore bank credit linkages for 9,000 SHGs in Erode",
+    "link": "https://www.thehindu.com/news/cities/Coimbatore/vijay-launches-1110-crore-bank-credit-linkages-for-9000-shgs-in-erode/article71660687.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "This is part of a State-wide initiative to extend ₹3,000 crore in bank credit to 26,000 SHGs to promote women’s entrepreneurship. The Chief Minister also distributes livelihood assistance and issues sanction orders for skill development pro",
+    "time": "2026-11-03T14:53:29+00:00"
+   },
+   {
+    "title": "Thunivu movie release: 19-year-old fan of actor Ajith dances on moving lorry, falls and dies in Chennai",
+    "link": "https://www.thehindu.com/news/cities/chennai/19-year-old-ajith-fan-dances-on-moving-lorry-falls-and-dies-in-chennai/article66363997.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "Actor Ajith’s film, Thunivu was released on Thursday; actor Vijay’s Varisu too, was released; hundreds of fans gathered at Rohini theatre in Koyambedu where glass panes were broken, leading to police intervention",
+    "time": "2026-11-03T14:51:06+00:00"
+   },
+   {
+    "title": "Bombay HC Rebukes BMC for Politicizing Pollution Awareness Video Featuring Dia Mirza | Brass Tacks - News18",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWDJkV3NocGRGcEtHYWdoT0x2dzZnVzBsb29qVHVRc0hSci1mMTRNNHNYTk0tQUV1SkF0ZGZQN2JDVExNaHlrLVRSQjRuYmFZNTBiWWlDTG9KcDlYbmRMX3ZrQXpoMlEwTjRIei1mSV81Mi1xUlRsLTZlY0NHcWRHVUYwZDViTnZ6WEJmQUJkSzFlMm9zVHFvd3dfOEYtVjQtOXZiMkJoRWdGUTVMLWozOXo3Y05KVkFDSkY5RlNTejJxUFN4UVJxajh5TXRibHZIVWgwdDVCT0lDaUM1aXZFMVJwRjZabW9VSmJTTNIB7AFBVV95cUxOWDJkV3NocGRGcEtHYWdoT0x2dzZnVzBsb29qVHVRc0hSci1mMTRNNHNYTk0tQUV1SkF0ZGZQN2JDVExNaHlrLVRSQjRuYmFZNTBiWWlDTG9KcDlYbmRMX3ZrQXpoMlEwTjRIei1mSV81Mi1xUlRsLTZlY0NHcWRHVUYwZDViTnZ6WEJmQUJkSzFlMm9zVHFvd3dfOEYtVjQtOXZiMkJoRWdGUTVMLWozOXo3Y05KVkFDSkY5RlNTejJxUFN4UVJxajh5TXRibHZIVWgwdDVCT0lDaUM1aXZFMVJwRjZabW9VSmJTTA?oc=5",
+    "source": "News18",
+    "summary": "Bombay HC Rebukes BMC for Politicizing Pollution Awareness Video Featuring Dia Mirza | Brass Tacks News18",
+    "time": "2026-11-03T14:41:00+00:00"
+   },
+   {
+    "title": "Tamil Nadu government permits six shows a day in theatres for new Tamil films for a week since release",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-permits-six-shows-a-day-for-new-tamil-films-for-a-week-from-release-date/article71660886.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "The decision was taken following representations from various film producers’ associations to the State government",
+    "time": "2026-11-03T14:38:28+00:00"
+   },
    {
     "title": "Theni jail warders thrashed 17 escapees after recapture, alleges mother of prisoners at Madras High Court",
     "link": "https://www.thehindu.com/news/national/tamil-nadu/theni-jail-warders-thrashed-17-escapees-after-recapture-alleges-mother-of-prisoners-at-madras-high-court/article71660084.ece",
     "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
     "summary": "Justices A.D. Jagadish Chandira and B. Karthikeyan order medical examination of four recaptured prisoners by a team of three government doctors.",
-    "time": "2026-11-03T09:59:54+00:00"
+    "time": "2026-11-03T14:34:27+00:00"
    },
    {
-    "title": "Tasmac workers shut shops in Namakkal, Salem",
-    "link": "https://www.thehindu.com/news/cities/Coimbatore/tasmac-workers-shut-shops-in-namakkal-salem/article71656053.ece",
-    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "",
-    "time": "2026-11-03T09:37:50+00:00"
-   },
-   {
-    "title": "Three including drivers injured after omnibus hits lorry on Chennai-Bengaluru Highway in Vellore",
+    "title": "Three injured after omnibus hits lorry on Chennai-Bengaluru Highway in Vellore",
     "link": "https://www.thehindu.com/news/national/tamil-nadu/three-including-drivers-injured-after-omnibus-hits-lorry-on-chennai-bengaluru-highway-in-vellore/article71659619.ece",
     "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "An omnibus that was headed to Chennai with 22 passengers onboard hit a lorry laden with over 40,000 empty TASMAC liquor bottles, from behind",
-    "time": "2026-11-03T09:34:24+00:00"
+    "summary": "An omnibus that was headed to Chennai with 22 passengers onboard hit a lorry laden with over 40,000 empty TASMAC liquor bottles, from behind.",
+    "time": "2026-11-03T14:31:02+00:00"
    },
    {
-    "title": "Public consultation on new T.N. Secretariat at Pattinapakkam postponed as residents threaten boycott",
-    "link": "https://www.thehindu.com/news/cities/chennai/public-consultation-on-new-secretariat-postponed-as-residents-threaten-boycott/article71657491.ece",
+    "title": "T.N. Fire Service Dept. issues NOCs for over 10,000 firecracker shops",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-fire-service-dept-issues-nocs-for-over-10000-firecracker-shops/article71660733.ece",
     "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "The consultation, which was originally scheduled for November 3, has been rescheduled to November 5. The TNHB has floated a tender for demolishing 96 houses in Foreshore Estate",
-    "time": "2026-11-03T09:20:49+00:00"
-   },
-   {
-    "title": "Chennai Rain Forecast: Next Spell Expected from November 6 to 8 - LiveChennai",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EU3RUWGo2MzJzOTh6N2hnc3pJelZfZXF1X25JNDNqWlZybW5uY0dnYzRIRW1NNm5RR3ZCcHkzdk84dnlERXhCNnRram50d2ZVQXUzdG9GcUxrb1l6NlhKbnpNMlA4S19PTU8tVVUtcw?oc=5",
-    "source": "LiveChennai",
-    "summary": "Chennai Rain Forecast: Next Spell Expected from November 6 to 8 LiveChennai",
-    "time": "2026-11-03T09:10:03+00:00"
-   },
-   {
-    "title": "Cyclone Murasu: floodwater recedes, but damaged roads remain a concern in Chennai",
-    "link": "https://www.thehindu.com/news/cities/chennai/cyclone-murasu-damaged-roads-remain-a-concern-after-rainwater-recedes-in-chennai/article71656375.ece",
-    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "Chennai recorded an average of 2.08 mm rain between 6 a.m. and 2 p.m. During this eight-hour period, 47 stations recorded very light rain and 16 recorded light rain. Ennore recorded the highest rainfall at 5.6 mm.",
-    "time": "2026-11-03T09:09:06+00:00"
-   },
-   {
-    "title": "What is ‘Guidance’, Tamil Nadu’s nodal agency for investments? | Explained",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/what-is-the-controversy-about-guidance-losing-its-way-explained/article71660086.ece",
-    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "Guidance, earlier known as the Tamil Nadu Guidance and Export Promotion Bureau, was established as a non-profit registered society on July 15, 1992, with the objective of attracting investment proposals into Tamil Nadu",
-    "time": "2026-11-03T09:08:31+00:00"
-   },
-   {
-    "title": "ZEE Tamil News. . கோரிக்கை வைத்த பெண்... குறித்து வைத்த சி.எம்.! #CMVijay #TVKGovernment #perundurai #ZeeTamilNews #Shorts - Facebook",
-    "link": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxPR0V0RUtVSnJvRGdMbGMyQjJ6OUUwdkhub3EzWUVXNFNHTDJTaGZ3R2dYeGF4LUN5ZVFiTTZpTnY5Y1VmaWwyVG1zU0RmUzJ0WlpOMDBXZ0I5TlZTTnRRSllEMFJEWkFYVzc3bm1wbWRORm90VGVpZy1wM1dUcUpkdnVKMllSZUpSOG55V1pSdUVBT3M3VTIwUWNxY3NkV0NvcEdQeWtCZXRsSExzU29VMVRrLVZoRWh6c0JuY2Q0MVhGTnU2UWh3Y2NPZTNXWk9GdFhYZzRfQVlScVBXVm5Ob1lhMDFYQ3RvYnhtR2xpWXZFNjYzcGFzR2RwRXhtN21VSy11Q3Z4S1U2a2s5NldPMW55YlJ2QTZJeHdKMnBBOF9VLWtCdWVqaXVZbFIzS1RiNkxid3V1VkJVWk1NLWNNd1lVSTExU0JGd3dtQmVfU2U4N1hBUlUzc0JWVmRMaVZtM1UzMkhEV3I0ZkJUSnRMLVRDWkIzZWs0Q1hkRjI2WDRWcjE4TWdVZm10LWdTamVnMG9QOWpnZFAtQVVOQWFtUVl6NHZVNm9HX0JTWWtNZm9KYmtxaV9RYzdXSDBfdVFZWDRDbEVQWnR3OFltRkV2M3c2ZUtfRFU1Qzlaa25TZ1ktRjdOaTRHQzg4Y3R3cnBfTGFCZW1iX3lWY3BJYW1JTU1fc2dydmthdU9RWTZNQnRic280MTAzRmpnZ3h1WF9TQ29HM2dMWWJUSG1YWlA1ZnpLMXRyU0MtVlMyMW9EZ3hzcXBkNzE5TTVSd3hxZ1B4?oc=5",
-    "source": "Facebook",
-    "summary": "ZEE Tamil News. . கோரிக்கை வைத்த பெண்... குறித்து வைத்த சி.எம்.! #CMVijay #TVKGovernment #perundurai #ZeeTamilNews #Shorts Facebook",
-    "time": "2026-11-03T08:54:33+00:00"
-   },
-   {
-    "title": "Queues and chaos at many Tasmac outlets amid ₹10 price hike, shop closure rumours in Tamil Nadu",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/queues-and-chaos-at-tasmac-outlets-as-10-price-hike-bottle-buyback-scheme-trigger-confusion/article71657895.ece",
-    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "On November 1, many Tasmac shops pulled shutters down without informing the management as the Tasmac had said last week that it will increase the MRP of all liquor variants in the State by ₹10 with effect from Nov. 1 by adding an environmen",
-    "time": "2026-11-03T08:51:26+00:00"
-   },
-   {
-    "title": "Man who escaped from Coimbatore district police’s custody arrested",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/man-escaped-from-coimbatore-district-police-custody-arrested/article71658193.ece",
-    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "On November 2, a special team arrested Raghavan, who escaped from the custody of police who were escorting him to Coimbatore Central Prison for judicial remand on October 31, reportedly from his native at Bhavani in Erode district.",
-    "time": "2026-11-03T08:31:29+00:00"
-   },
-   {
-    "title": "CM Vijay’s District Tours Ahead Of Bypolls In 5 Tamil Nadu Seats Put TVK’s Electoral Strategy In Focus - ABP Live English",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPY2JlSHA2aVIyN3ZVc3FQN3Jqemp3UjhDR01yZ1JSUS1KekJBVVVUX0xmZ3RRU2J1NWUxRjV3bFEwM1F2STJHeVY0UGRZM0NSUHJuN2dzRlcxRGcxRDBtMngxMWFMRjJyM3VfOXA0X0NScXNNUXpHSGdVclFNbGg2ZzBHR1I2SmFGUUY2SGdwUVdHU3lfNlBuWXZsZHlSaWhwOWZBX0o5Y2RDRDI0eFM0b3JzQXpMV2hrMF9TekJ1RE5WN0NOeHZJdFNTQjZsNkxMRzUzVTY0TEdxMlV5eHhKdlIwNFY4Z9IB6wFBVV95cUxQZ3k2R2pCNEQ2TWpkb1NKbGJqUVlFT1VuVjJpajdfZzhKZkZyRVRETGJ6bWQ4X0gzSFh3aUxiWF9VSV9FMTZoNkxOV1ZQSDZVRHJWNTFmMzYxa3psbi16cUQ0T1Z4OFBhVDFJVnY0YWpLN1Y3OXZGSGtMTmxnVDZVblViMk1GcmVwaTFZYWE5c25NU0NkSThCeXMwb0VzbU9rX3BBR2NOUlZZODFYdHhvOU9MTGJaVlp6RF9oWXNBaEdaSUdNRk1rMU8zOThNemlrX2l3ZmVNc1lmOFl2XzJvZ1ZkZmFiaV93Y1ZZ?oc=5",
-    "source": "ABP Live English",
-    "summary": "CM Vijay’s District Tours Ahead Of Bypolls In 5 Tamil Nadu Seats Put TVK’s Electoral Strategy In Focus ABP Live English",
-    "time": "2026-11-03T08:10:56+00:00"
-   },
-   {
-    "title": "DMK seeks DVAC inquiry into Minister Rajmohan’s allegation of being offered bribery for post",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-seeks-dvac-inquiry-into-minister-rajmohans-allegation-of-being-offered-bribery-for-post/article71656918.ece",
-    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "‘The Minister did not report the offer to the DVAC or any other law enforcement agency; he made it public only on November 1, without disclosing the identity of the person who made the offer,’ said I. Paranthamen",
-    "time": "2026-11-03T07:53:53+00:00"
-   },
-   {
-    "title": "I was offered ₹5 crore to make someone Iyal Isai Nataka Mandram president: Tamil Nadu Minister Rajmohan",
-    "link": "https://www.thehindu.com/news/cities/chennai/i-was-offered-5-crore-to-make-someone-iyal-isai-nataka-mandram-president-rajmohan/article71653205.ece",
-    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "According to him, for the first time in Tamil Nadu, every Minister in the Cabinet hates bribery and corruption",
-    "time": "2026-11-03T07:53:05+00:00"
-   },
-   {
-    "title": "Man escapes from police custody before being lodged in Coimbatore Central Prison",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/convict-escapes-from-police-custody-before-being-lodged-in-coimbatore-central-prison/article71648346.ece",
-    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "This is the second time Raghavan, a theft case convict, has escaped from police custody; four personnel suspended",
-    "time": "2026-11-03T07:48:06+00:00"
-   },
-   {
-    "title": "Chennai Weather LATEST Update: IMD Issues Forecast for 11 Tamil Nadu Districts; Check - Asianet Newsable",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGcwcDBEYXNlcHhZMHB1bkNJNm5Wc0ZKVzBIM0hwOGt5MTIwakxyU2d5RkJnVGZnbGNwLVl6VEkwWk10X2F0Y3RUcFctTzlnclBJQkxQc1pvZlR5b1lQNTdrNVZ4ZnVzb0lkZ1ZPckIzUncwQk1RNndzZGpjYlB3OUxFN1lQczJ6aGIxa3lxOVJwT2I4VU9EZmRIWmFHeWtEYkQ0YzRtZEd0elJkaWstd1VPQ3RSa0RDSjR2N010SG1IdUlqcXdzWXVsc3R4WUFBQmQ4YdIB2gFBVV95cUxOLWR5eW5Xek1QZXRVcWNfYkJtLXFsSXhrc3hvb2xzdXFLQlAtYmZsaUt0eGU1bmpWSGtqOUlMTkZxcTZCU25meTk4SmN3c1lZQ25tWHFLNFdLWTV0TXNOMjRiLUdZOG5WMW1DRnhrVUxaYV9OdG10WThRcFZIWHdIRXRlQmJ4SXpxaEVHRmRvckp2T2RVb2FyZHRKTTRkZ0VPbnU5cGlPUy1Od1QwT0tQclA0bGJKdzAtRGVkYlNrSk9NQ2t2Y1VjUC1TbzRkQjQydC1jMGpjV3JpZw?oc=5",
-    "source": "Asianet Newsable",
-    "summary": "Chennai Weather LATEST Update: IMD Issues Forecast for 11 Tamil Nadu Districts; Check Asianet Newsable",
-    "time": "2026-11-03T07:44:51+00:00"
+    "summary": "The applicants will have to approach competent authority such as District Revenue Officer in districts and Commissioner of Police in cities for obtaining a licence based on NOC",
+    "time": "2026-11-03T14:24:26+00:00"
    }
   ],
   "India": [
    {
-    "title": "Indian seafarer killed in attack on ship near Oman; 13 others rescued: MEA",
-    "link": "https://www.thehindu.com/news/national/india-seafarer-killed-in-attack-on-ship-near-oman-mea-west-asia-conflict/article71659910.ece",
+    "title": "Southern India has grown wetter over seven decades, finds IMD study",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/southern-india-has-grown-wetter-over-seven-decades-finds-imd-study/article71661697.ece",
     "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "The deceased seafarer was identified as Gandhar Nahim Ajij from Gujarat; India reiterates call for immediate de-escalation of tensions in the region",
-    "time": "2026-11-03T10:00:35+00:00"
+    "summary": "The peninsula’s hot semi-arid zone has nearly halved, with much of it turning into a tropical savannah climate, while north-west India has become drier and hotter",
+    "time": "2026-11-03T17:47:33+00:00"
    },
    {
-    "title": "Mamata, Rahul fighting for infiltrators to keep them in India: Bengal CM",
-    "link": "https://www.thehindu.com/news/national/west-bengal/mamata-rahul-fighting-for-infiltrators-to-keep-them-in-india-bengal-cm/article71660098.ece",
+    "title": "AIDWA-led women protesters in Mumbai seek disbursal of pending assistance",
+    "link": "https://www.thehindu.com/news/national/maharashtra/aidwa-led-women-protesters-in-mumbai-seek-disbursal-of-pending-assistance/article71661979.ece",
     "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "\"The ECI and the Centre have taken up the task of driving out infiltrators from the country, whereas Mamata Banerjee and Rahul Gandhi are fighting together to keep them in India,\" says Mr. Adhikari",
-    "time": "2026-11-03T10:00:27+00:00"
+    "summary": "Women seek streamlining of e-KYC process; Maharashtra govt. has deceived women, says CPI(M) leader Brinda Karat; State promises action",
+    "time": "2026-11-03T17:45:53+00:00"
    },
    {
-    "title": "Theni jail warders thrashed 17 escapees after recapture, alleges mother of prisoners at Madras High Court",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/theni-jail-warders-thrashed-17-escapees-after-recapture-alleges-mother-of-prisoners-at-madras-high-court/article71660084.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "Justices A.D. Jagadish Chandira and B. Karthikeyan order medical examination of four recaptured prisoners by a team of three government doctors.",
-    "time": "2026-11-03T09:59:54+00:00"
-   },
-   {
-    "title": "Cyclone Murasu LIVE updates: No loss of life in Andhra Pradesh due to Cyclone Murasu, says NDRF",
-    "link": "https://www.thehindu.com/news/national/cyclone-murasu-landfall-live-updates-november-3-2026-rain-andhra-pradesh-telangana-odisha-weather/article71659195.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "The Cyclone is expected to subside into a deep depression by Tuesday (November 3, 2026) midnight with wind speeds reaching up to 75 kmph",
-    "time": "2026-11-03T09:58:52+00:00"
-   },
-   {
-    "title": "ST seat reservation: Goa to move Supreme Court against High Court order stalling the process",
-    "link": "https://www.thehindu.com/news/national/goa/st-seat-reservation-goa-to-move-supreme-court-against-high-court-order-stalling-the-process/article71660108.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "The Panaji Bench of the HC had last week restrained the Census Commissioner from notifying ST population estimates, observing that such figures could not be determined on any basis other than the first official Census conducted after 2026",
-    "time": "2026-11-03T09:58:32+00:00"
-   },
-   {
-    "title": "Cyclone Murasu train cancellations: Full list of affected trains in Andhra Pradesh",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-train-cancellations-full-list-of-affected-trains-andhra-pradesh/article71659863.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "Check the list of cancelled, diverted and rescheduled trains on Tuesday (November 3, 2026) due to Cyclone Murasu",
-    "time": "2026-11-03T09:52:34+00:00"
-   },
-   {
-    "title": "Excise department’s 'hasty granting' of bar licenses wrong-foots UDF government",
-    "link": "https://www.thehindu.com/news/national/kerala/excise-departments-hasty-granting-of-bar-licenses-wrong-foots-udf-government/article71660246.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "The contentious granting of licences, which reportedly angered the UDF’s “prohibitionist base” comprising Christian and Muslim social organisations, occurred as the Cabinet formulated the State’s liquor policy for the current fiscal year",
-    "time": "2026-11-03T09:52:15+00:00"
-   },
-   {
-    "title": "PM Modi launches Pune Metro projects, says India’s metro network increased from 248 km to 1,200 km in 12 years",
-    "link": "https://www.thehindu.com/news/national/maharashtra/pm-modi-pune-metro-line-inauguration-india-network-nov-3-2026/article71660288.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "The Prime Minister inaugurated Pune Metro Line 3 (Pink Line) and laid the foundation stone of four new metro corridors under Phase-II, via video conferencing",
-    "time": "2026-11-03T09:43:13+00:00"
-   },
-   {
-    "title": "Runners from Belagavi finish Goa Ironman event",
-    "link": "https://www.thehindu.com/news/national/karnataka/runners-from-belagavi-finish-goa-ironman-event/article71660062.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "Tejas Patil recorded the fastest finish among participants from Belagavi, completing the event in 6 hours, 20 minutes, and 8 seconds",
-    "time": "2026-11-03T09:42:16+00:00"
-   },
-   {
-    "title": "India has never allowed import of genetically modified products, will never open dairy sector: Piyush Goyal",
-    "link": "https://www.thehindu.com/business/Industry/india-has-never-allowed-import-of-genetically-modified-products-will-never-open-dairy-sector-piyush-goyal/article71660272.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "Addressing students of Kirori Mal College in Delhi, Piyush Goyal said India has never compromised on any sensitive item and has always protected its farmers, fishermen, and MSMEs in trade pacts",
-    "time": "2026-11-03T09:38:28+00:00"
-   },
-   {
-    "title": "Tasmac workers shut shops in Namakkal, Salem",
-    "link": "https://www.thehindu.com/news/cities/Coimbatore/tasmac-workers-shut-shops-in-namakkal-salem/article71656053.ece",
+    "title": "Three arrested for abusing woman, smashing her car in Koramangala over road rage",
+    "link": "https://www.thehindu.com/news/national/karnataka/three-arrested-for-abusing-woman-smashing-her-car-in-koramangala-over-road-rage/article71662226.ece",
     "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
     "summary": "",
-    "time": "2026-11-03T09:37:50+00:00"
+    "time": "2026-11-03T17:45:38+00:00"
    },
    {
-    "title": "Amit Shah-led foot march aimed to expose Congress ‘misinformation’, says BJP Telangana chief",
-    "link": "https://www.thehindu.com/news/national/telangana/amit-shah-led-foot-march-to-expose-congress-misinformation-says-bjp-telangana-chief/article71660158.ece",
+    "title": "ACB finds ₹4.75 crore assets in searches against MEPMA Additional Director",
+    "link": "https://www.thehindu.com/news/national/telangana/acb-finds-475-crore-assets-in-searches-against-mepma-additional-director/article71662065.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "Searches at 10 locations uncover properties, gold, silver, vehicles, bank balances and electronic gadgets; the ACB says the market value of these properties is expected to be much higher than their official value",
+    "time": "2026-11-03T17:43:27+00:00"
+   },
+   {
+    "title": "AMU Women’s College students ask Education Minister to reinstate voting rights; university denies disenfranchisement",
+    "link": "https://www.thehindu.com/news/national/amu-womens-college-students-ask-education-minister-to-reinstate-voting-rights-university-denies-disenfranchisement/article71662207.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "Students say the exclusion of undergraduate women from the November 5 AMUSU election is a question of equal representation, while the university says all of them will vote in the Women’s College union election the same day",
+    "time": "2026-11-03T17:38:48+00:00"
+   },
+   {
+    "title": "Two bodies found on trekking route in Uttarakhand; six team members untraced",
+    "link": "https://www.thehindu.com/news/national/uttarakhand/two-bodies-found-on-trekking-route-in-uttarakhand-six-team-members-untraced/article71661186.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "Trekking suspended at altitudes of 4,000 metres and above owing to heavy snowfall",
+    "time": "2026-11-03T17:37:05+00:00"
+   },
+   {
+    "title": "Won’t allow illegal immigrants to exercise voting rights, says Bandi Sanjay",
+    "link": "https://www.thehindu.com/news/national/telangana/wont-allow-illegal-immigrants-to-exercise-voting-rights-says-bandi-sanjay/article71662299.ece",
     "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
     "summary": "",
-    "time": "2026-11-03T09:37:00+00:00"
+    "time": "2026-11-03T17:36:45+00:00"
    },
    {
-    "title": "Moneycontrol Pro Panorama | The unenviable state of India’s airlines - Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ2FSczBEMUU1S2pZeXdrU21DNDlKRWVzc29aQVFIUEtNUnVmem5LY2pEVi1lWVlOMkRZQVp1R0ZodkdqNWg2TGhHSlBnNEVucWxTaDBqT01vMmkxTnc4SXVyNjdxQXJnaEZkdkRKdEJnU0hiTnd2X3FHV2w0VjRkNkRvazNZOU56Q1lBeWlyRUxwRjB6d2hmWEh0eDR5VTE0M1lyUlc2SHJiQTU4S19rSnZjZnZPMnVBeWxTRVRQdEZuWVktODNGb2tyc9IB0AFBVV95cUxNZEduMXpZWUF0Zk9mblZMaExzSy1ESjBjc1A1MkFMZjRIYjRTTUtRblZVUG9rUGRYeDJRNzZURGVUZWdDYndOYWFqTTJSQmFPcy1JQ2c1RVFEcnljTFVZVTVkVFhGcDh3OVpWSE1DY1lmTHF0U0xsUGszbDktN3UtMG1vNHJFQUxlWTNwWEZnQUcyU0ppZDFXSzNGd3J3VDByeGxETG9HTC13ajhYaERfWjFESVJqQTVURVFBR2k3QzltRDVzU0NDbVo1bzJPTHFm?oc=5",
-    "source": "Moneycontrol.com",
-    "summary": "Moneycontrol Pro Panorama | The unenviable state of India’s airlines Moneycontrol.com",
-    "time": "2026-11-03T09:35:09+00:00"
-   },
-   {
-    "title": "Three including drivers injured after omnibus hits lorry on Chennai-Bengaluru Highway in Vellore",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/three-including-drivers-injured-after-omnibus-hits-lorry-on-chennai-bengaluru-highway-in-vellore/article71659619.ece",
+    "title": "Emphatic win for Jana Sena Party in Pithapuram Municipality",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/emphatic-win-for-jana-sena-party-in-pithapuram-municipality/article71662197.ece",
     "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "An omnibus that was headed to Chennai with 22 passengers onboard hit a lorry laden with over 40,000 empty TASMAC liquor bottles, from behind",
-    "time": "2026-11-03T09:34:24+00:00"
+    "summary": "Its Chairman contestant Daanam Lazar Babu wins by a majority of 9,235 votes; this apart, the party emerges victorious in 19 wards, while the TDP bags five and the BJP one",
+    "time": "2026-11-03T17:34:06+00:00"
    },
    {
-    "title": "Ladakh admin directs Sonam Wangchuk-founded school to halt activities pending High Court verdict",
-    "link": "https://www.thehindu.com/news/national/ladakh/ladakh-admin-directs-sonam-wangchuk-founded-school-to-halt-activities-pending-high-court-verdict/article71659827.ece",
+    "title": "What's behind new India-China border tensions in Arunachal Pradesh state? - DW.com",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOERHVkJMTW1halVNbkpfWWVFN21CRE05SjBIZk9va2xSTFNVYVAwWS1BU0FXRWUwOXRyZFU3elQ2VC1UOFpuQ1BLQTJzTUVTbTVOQnQ4dUh1MFU1S094UEpSWDRKTmY2bWxvLS16YnFmcWJYWVphWWVhTldMYTZXOVNiUnBoc0NyNU9kSjFWQXBZcUNZZm1FZ05aZTNtemJ0cThXT9IBpAFBVV95cUxNa3BaNmp3UVY4RkdSRElzMHU1RHFlSERuckFTaWxtNTUyTUlteVNBenR0aTJqZUNKd0tUUmFTelMtSlRWcnJNMlo1M2NRT2VXenM2V0NlMl9hUWNZY0llNnNXWFdiS2sxb0FSX1BKOHBLaEl3NG1ycWJnQUxlSWZldHF0akJLZDJRZ240c3JSRkIwMlZPS0IwNi12a1pvMU9mb3J1Zw?oc=5",
+    "source": "DW.com",
+    "summary": "What's behind new India-China border tensions in Arunachal Pradesh state? DW.com",
+    "time": "2026-11-03T17:30:45+00:00"
+   },
+   {
+    "title": "Number of polling stations in Tamil Nadu rises to 75,088",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/number-of-polling-stations-in-tamil-nadu-rises-to-75088/article71662066.ece",
     "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "According to the notice, the administration received information that classes and other activities at Desert Flower School Phyang, Leh, had started without obtaining the requisite consent, clearances or approvals from competent authorities",
-    "time": "2026-11-03T09:33:01+00:00"
+    "summary": "134 new polling stations were created during the rationalisation, while 78 polling stations were merged, resulting in a net increase of 56 polling stations",
+    "time": "2026-11-03T17:29:35+00:00"
+   },
+   {
+    "title": "Telangana Chief Minister Revanth Reddy seeks CPI, TJS support for MLC polls",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-chief-minister-revanth-reddy-seeks-cpi-tjs-support-for-mlc-polls/article71662441.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "",
+    "time": "2026-11-03T17:26:07+00:00"
+   },
+   {
+    "title": "Rahul again challenges Modi to debate, dares him to prove Opposition is anti-national",
+    "link": "https://www.thehindu.com/news/national/rahul-gandhi-now-dares-pm-modi-to-an-open-debate-on-anti-national-charge-against-opposition/article71661172.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "Setting the stage for the proposed debate, the Opposition leader said there would be the media, the country’s youth, and a table",
+    "time": "2026-11-03T17:25:54+00:00"
+   },
+   {
+    "title": "Meeting held to improve air cargo volume from Coimbatore",
+    "link": "https://www.thehindu.com/news/cities/Coimbatore/meeting-held-to-improve-air-cargo-volume-from-coimbatore/article71662148.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "",
+    "time": "2026-11-03T17:23:39+00:00"
+   },
+   {
+    "title": "Jantar Mantar is a road, not a site, says Delhi Police chief",
+    "link": "https://www.thehindu.com/news/national/jantar-mantar-is-a-road-not-a-site-says-delhi-police-chief/article71661716.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "In an affidavit in the Supreme Court, Delhi Police Commissioner says none can insist on a right to protest only at a specific site and the State has power to change venue",
+    "time": "2026-11-03T17:23:23+00:00"
+   },
+   {
+    "title": "Licences of 138 medical shops suspended across Telangana over illegal sale of habit-forming drugs",
+    "link": "https://www.thehindu.com/news/national/telangana/licences-of-138-medical-shops-suspended-across-telangana-over-illegal-sale-of-habit-forming-drugs/article71661808.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "",
+    "time": "2026-11-03T17:22:30+00:00"
    }
   ],
   "World": [
    {
-    "title": "Ghalibaf affirms Iran’s readiness for battle and places the decision to avoid war in the hands of the Trump administration - صوت الإمارات",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPX1R6NmQycklSd0hod1ZUeGlNMzFOOGJuS2xqcDZvdWpPbm1FZm1DQVBtSFpWUDhWS2xERVF4b3FzUjBKRzhPR1NUNmxCVnhtQ2xFTGNNdGVOMTVnTnplRFFsRF94WFIyZFNvYnB6dGJhbkRacWF1OG1vSEZLVjZkV1J3MHFfRkl3OHp5ZllJdmxycFhaZVlnb2t2NDNCSl84OTNlWjFtb2loc3VIMW1FMTB2ZVEyemtfOHRhdnNYZEttcEVzVy14b0hyWExEN0lmR1JtYlZzYTJOcl9iZUk3Q3E1T1dNOUNlZ1hhN2xsVW8yNGVpYUotWTZibGpNcG53NW1KNXRVMzU?oc=5",
-    "source": "صوت الإمارات",
-    "summary": "Ghalibaf affirms Iran’s readiness for battle and places the decision to avoid war in the hands of the Trump administration صوت الإمارات",
-    "time": "2026-11-03T09:50:23+00:00"
+    "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTk5HV0lxVUVFaFJENXVwV1BiX0x4X2FxbFRQYXBMN3Z5VzFLaHgxNkxuMjFxWkFrMjh0akZHSHpKcFE1VEh5UkFKTUhzWWpOYk9UeHVlTHNhMW0yWFhmZ3B6VW5JLTZ4dEE3eHNPNDlNcGpfbEJCMXFxX3F4S3Ricm9HeWZhTDJlazhvdVhJbE90QUFMVHZkUEJsUGdkZ2VMamNEX2lzOHU?oc=5",
+    "source": "The New York Times",
+    "summary": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials The New York Times",
+    "time": "2026-11-03T17:48:03+00:00"
    },
    {
-    "title": "Americans head to the polls for elections that could define Trump's closing chapter",
-    "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+    "title": "Analysis • U.S. midterms may alter Trump's stance on Iran – but they won't change reality - Haaretz",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWmZGZ1JhcEpRbTMzbXdmT0pSRTNFT3Yyc1VhRFpDREp1b2tPaDdiT3RqaFBiRmtsdXFxVFZITVlFckxhM0R2cWpna3dzaVFackRFMWNhbU1Va0llbDhkZ0hGa1hTQmtyVXowSklJdnkzNlVOZ0JOeE9oY015dDh3TGcxcWFxVy1obzZXRVNhcmlseHNiak03TmZtQVkxRm8xQVZOeGFIcTZtNHJjcTF0LVhCbV9lazM1NVhQSGIwUmRNRGNuM3Y5MDZSVDR0aUd5dzZPcjBMZTkwUGwwSE1QdU42OTVYUlJYMzdSaVZvOTBLUVQ0cDBTa2FTc2xoSlBkcU00?oc=5",
+    "source": "Haaretz",
+    "summary": "Analysis • U.S. midterms may alter Trump's stance on Iran – but they won't change reality Haaretz",
+    "time": "2026-11-03T17:23:00+00:00"
+   },
+   {
+    "title": "Bomb threats target seven flights across Europe",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
-    "time": "2026-11-03T09:29:32+00:00"
+    "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+    "time": "2026-11-03T17:21:26+00:00"
    },
    {
-    "title": "Tenerife striker De Miguel dies after on-field collision",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+    "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+    "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match.",
-    "time": "2026-11-03T09:09:18+00:00"
+    "summary": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+    "time": "2026-11-03T17:07:28+00:00"
    },
    {
-    "title": "US carries out ‘defensive’ strikes on Iran’s Qeshm island in Strait of Hormuz - The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOW0tRlhmb3AtbjI2TGE0dGJjWURQVHN6RVNoLUlfYkJ5a1VFc2JhYlR2Q1BndmFNYXJoaWZYRVdYaDdVNUJlUTluSEV3YXJaY2g1Z0N5T2JvNTFITHRheF9vRkhwT3QzaHZ1TGpSMUdmMkRPQVJsNXVLdHdMSmpXVHhUeWxMaWNJR3VuQzJOQ3pEVDVHdXFWZnNpWkVxZDFwX3MzNnpwUG3SAa4BQVVfeXFMUDcyeGVGUHVlbXlUejZrcU9IMnlpdlpKcW9IZjV5VzgwWERlWHJ1cVZHbHF3TGRLU0J5bVNVQTRmSnF6UUJWVmpVbFR2MkdfREZQeHotbnljdzU1b3Z4RVo1c0tIeWloTWotZnFsa3o0LXdtaGg5TVJaR0NhWm14UGhpOG1rQllwUnFZVVhvT200b2tVYnlqSHFTd1JMSmQ2NlMxR3l2dVVwenZyS3BB?oc=5",
-    "source": "The Times of Israel",
-    "summary": "US carries out ‘defensive’ strikes on Iran’s Qeshm island in Strait of Hormuz The Times of Israel",
-    "time": "2026-11-03T09:07:54+00:00"
-   },
-   {
-    "title": "North Korea denies being behind record $6.3bn Binance hack",
-    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+    "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+    "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-    "time": "2026-11-03T08:33:20+00:00"
+    "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+    "time": "2026-11-03T16:57:41+00:00"
    },
    {
-    "title": "Major test for Australia's social media ban begins in High Court",
-    "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
-    "time": "2026-11-03T07:53:38+00:00"
+    "title": "As Americans vote, Trump says US will stop $4 billion in aid to Israel - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
+    "source": "Reuters",
+    "summary": "As Americans vote, Trump says US will stop $4 billion in aid to Israel Reuters",
+    "time": "2026-11-03T16:55:20+00:00"
    },
    {
-    "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-    "source": "Britannica",
-    "summary": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica",
-    "time": "2026-11-03T07:50:37+00:00"
-   },
-   {
-    "title": "Iran's 81,700 Missiles & Drones Put Israel On Alert After Trump Jets Strike Qesham | Firstpost Live - Firstpost",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNXp1VUZZYzFzXzlfYVNtaThnQU1PSHhSdXNiUDZJLXVRMXJTVTh5UzU5NTJkQktxcjJ0Y1VPSnpFQ3BCSEdfdVdhbFIzR0hhSnVHekItQ1NOVGllY1ZianRjV3RLMnA1VF92RE1ZcW9zZk9MRUhOaHBxc1MzblA2c2V6YUhnblM5aWxpeVVYcm1mQjJnS0hrSnRqaUxPQ2FWOExBbFF0NGJuWUxwSW82YXFCUTB2UTJRVWY1UXpKbmxZZTZFUDN6U3lRbC1NbGZnTXdmRjZaYmVVRTduaFpoYjlsSHM3MG9aeGfSAe8BQVVfeXFMTk04bGJvN1NwUWlMY0prTzFmYV9EZThBODVsaS1fdi11dmMxSWd6UmJNYXN4a1RlVk1qMkN5aUVWVXhuUy1BRlpQanBsVGdhNEljd1dGYjUtbjFHS1M0QXJldE9QRHFKSmtrYjNCeUFDQ3FPOXlXYVJCcHBJdGhSc0dQa0pwVDh3QXIxWURUMGloVXRqaEJjdXFsMUFkak5CRHpqNldmYzFINE9COFlfMFUwT1JmSkFnSHo0MjV1aFBBczBKcVFXbU1jcmk2M3VIdXpWOGNrUENXc3QzNS1kV2dRcjZELXVVOE5XbEw5Y3c?oc=5",
+    "title": "'Take This Israel': Iran Saving 1,700 Missiles and 80,000 Drones Against Israel? | Vantage - Firstpost",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQWpOcUV4eUc5bHcwTE9kLWU4cW5zLXMwZWpGVlR2ZmV2eXdMMzE4NEVqcUZOZFBGYkFQMXNoSXY2NGxobVVmOXRtWXBDTF9uaVpybVl5OUpfUmQ2QTJDTE1NRmRIX2NWMXJpUkZpV3hKZG9UWVVVRW1hb1pVSXAwR2JIal84ZVcyOHduamhZUV9aWjZ0TkViVUJiMmgzV0JrM2tRRnF5UnA2S1d6ZkttUHpKQVJFZ3FVdXJKdFF5TVVuWFZIRVHSAcsBQVVfeXFMUGw5aTJqdjZCNGpwdzVWbGR6Ul9tX29vc0FfUDY3NWFGaWRpcTByQTlhOTllWHRLOTJVdUc5ZUZibGtubGEzNVdvLWpSbjFuQXczd0oyb202SjBVU3VPU2FoSzB6NDJwMElnWlpid0VtdFBGSkcyaWZLNWxlZGRzbERZNXBKTTZUSDEzY2tielg1QjJ3VEltNkpKSmJFRWVHYzVGMWFpdkRPRkF6SHZkel95akdsdHdkYS1tQW9EQTctdzBKODRLVVNuQzQ?oc=5",
     "source": "Firstpost",
-    "summary": "Iran's 81,700 Missiles & Drones Put Israel On Alert After Trump Jets Strike Qesham | Firstpost Live Firstpost",
-    "time": "2026-11-03T07:46:21+00:00"
+    "summary": "'Take This Israel': Iran Saving 1,700 Missiles and 80,000 Drones Against Israel? | Vantage Firstpost",
+    "time": "2026-11-03T16:53:32+00:00"
    },
    {
-    "title": "Iran delivers ‘firm, rational’ response to US, says ‘ball in America’s court to prevent war’ - Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcG93amIyUW9MT2NDUGVDVno5Q0JNNnhTSzYtVXZYV2NMdlZycTBKbER2NDJzRTR3XzNjcmp0Nk1jYUZLTFEwYWJzUFZSaFloZklHazhFcGtkck5hWkhDRm16alJJVGxDX1gzRTRZOHhVWWhEOENWeWJRVGlmOE52REhlcFR1cnlfcVRIdXQ1VmdoRUFlMDJwQmlFNDdQamtQc0huaXBYb3E4WUxTcmtqOTVkUTdQc1FLQW9EOFFzYWl6SmQ0ZGRvbHdROFg?oc=5",
-    "source": "Anadolu Ajansı",
-    "summary": "Iran delivers ‘firm, rational’ response to US, says ‘ball in America’s court to prevent war’ Anadolu Ajansı",
-    "time": "2026-11-03T07:41:09+00:00"
-   },
-   {
-    "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
-    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+    "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-    "time": "2026-11-03T07:24:12+00:00"
+    "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+    "time": "2026-11-03T16:19:29+00:00"
    },
    {
-    "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+    "title": "'All we can do is wait': Netanyahu's push for Iran strikes hangs on Trump’s post-midterm call - Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQTVYS01qekJuM1UzSV9PLXNIRWFKTVRVVDB1dzdnVjFfNlg3NWp0dGx1Qy13WUJOVk9qRDB5TVdLMURsaVhiT0ZOSHNYMktMV0xvN0RXc0VQSDA1eTZtXzFTYnNvUGJMbHRMa0N6R2NVcks1ZDdGUnU1eWtxYm5jbzdqdkdkOFNpQlRYZVF2VkRlc3BMZFMwbl9CQVRaS3hIUVd1SzRUbWh5VC1YQUpnYXBMd0Z2Y0syYjZyd0c1RjY?oc=5",
+    "source": "Al-Monitor",
+    "summary": "'All we can do is wait': Netanyahu's push for Iran strikes hangs on Trump’s post-midterm call Al-Monitor",
+    "time": "2026-11-03T16:02:32+00:00"
+   },
+   {
+    "title": "Trump says US to end $4 billion Israel aid in 2027; jokes he ‘could become Israeli PM’ - The Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmg3aE55N2xPcm54V3drT0s4TC1DUk5SMExkRXp3Z2xRNXEwYWc0S2lYR3VmTXp0VGIzQkxyMXh6QV91X3NJdEd2b29qV1gtS2JsWHdNTUw5QWNsQWNhbGZ4eUFoLXNLeFpGRTBTNV81dGRxUi1FU3k3UDcydW9XTHNSMmc1M0o0cnBWcGhxb0tJR1g1S1BNX0hncDN2cU1YbjhoNGpHdlpxcDDSAbIBQVVfeXFMTmxGZEQzaTJzWTNibGFacmFIOGY3NHA3dnI0ZTdwdjczdUtvb29fTmVpM0hWVDhkcFpuQXFKV2JDTzlsVllVTlVvWnltdGZaR3BLVEgweG1UbkRFbnpTM0RBMEZjQ1E1QkJrSHAyR0l0WVZTS3VIbHVZZm9LRUFxUVd5NWlFcjlEQWpOVVJSLVN2MmFacTdHUUYxU2xCT3RIRU55NzlnMi1lQ1lQQjUzS2NQUQ?oc=5",
+    "source": "The Indian Express",
+    "summary": "Trump says US to end $4 billion Israel aid in 2027; jokes he ‘could become Israeli PM’ The Indian Express",
+    "time": "2026-11-03T15:56:20+00:00"
+   },
+   {
+    "title": "Iran commander sets out five conditions for regional security - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXFkQnJ5U3l2WU9GN09nSWlKaUZ0ZVRzWlNpZXBOMm4xN1pvYUpnNG5NU2ZBeFV3dTRiM1Q5MDBBTnZpdndVdXcxM3E4LUVwRWJmUWg0SXlZQUpXamFUdUdNNXZwbmVTYnBrSVA3RVZsSmRybGtZYzJ5WWZLWTBaUkdON0RvaEhhRFJwUnoyYUNZVFhJZWJWM0d6V3hvMU9RM3NVWNIBqgFBVV95cUxQbk0wZW9zWTVydEhvTUJBVFBCcFNJMUZNWk5qQWw0UkV5RjVpbDlldXVQSjYtUFdHY25rTlNFU3VfNm9zaFFQLXExRjFialZ2eWRmWXB1QXhSN3FVYTYwRm1lRDhIckV1N19QbFRiZTlqRDRsNFRFdjVnYWFxUlk5LW5aWF96SW80RDF0WHFtX3VkeEZSUDFsVDh6Uk85MmJjMnNLU05xU2Q3QQ?oc=5",
+    "source": "Al Jazeera",
+    "summary": "Iran commander sets out five conditions for regional security Al Jazeera",
+    "time": "2026-11-03T15:33:49+00:00"
+   },
+   {
+    "title": "U.S. launches new attacks on Iranian targets days after Netanyahu pressed Trump for more strikes - PBS",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTRLaEl5M0lIVGl0V3RQNExrMk1vQW5iOTRxUi1NdFRpbDkwSm1icXpsZXBQbXFpdjM4SjFWd0I0VEFIT2RDUm5mQWtzbmlaSTlFYXFpbUlHTktINVB4WDVuNmdRWGtmYUlOQW92OGhJc2NweWoyZ3RJbU9VT0ZlN3FvaHdLaU5rSDJHMXBEZi1tNHJXUjJXRF9weFJIRUlPOW5aaTM5eEFFRjkxa2QtQ3RtSkVWdGx5SU9JU2JVQ2JYT3BqSjMtVGZ30gHPAUFVX3lxTFBLelpzanoyMy01cGRURlBiNloyMmVGdF92enpCTDZBMzJQNXNObzI1bGVXa2Y3THBYbS1aRnU1RXJlV213MUo0bm9DWTVIcDUwZzdpX0llOUNnOWwtN0d2STlIZnU2ZWxVUElUMDVJcVBqM2RneFFNTU9DQ2NaVHNXUjRKQW1GR0o1OURmQk1FVEtsbDN5ZUQybTktcl9vQjQtbGFDUkxpS0dkWGxGMXFFX21tZkFObFV5dlVnYWtRV2ZCemNXSkxGQnVJSnF3bw?oc=5",
+    "source": "PBS",
+    "summary": "U.S. launches new attacks on Iranian targets days after Netanyahu pressed Trump for more strikes PBS",
+    "time": "2026-11-03T15:07:24+00:00"
+   },
+   {
+    "title": "Mining giant joins fight to stop killer toad march across Australia",
+    "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-    "time": "2026-11-03T07:15:17+00:00"
+    "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+    "time": "2026-11-03T15:05:01+00:00"
    },
    {
-    "title": "Iran-US deal still out of reach, senior Iranian official says - The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNjMzMndwUXVFWkc4ZFFobGhnYWlUWURFVGFXSWpzblBUVUZIV0ZUWFgtVVlhS3lfZXBBZEY2cmlCekNEOHVQem1IMHFzd2ZpUHpuRFVNMUVjTDFlZ0FGWmtleUFtcGNUMklMd3hwUmlaT0Q5VE9IcDBZRmhoY2VDOVEwMXR4R2p3TEVROUIyYlU4TGYwSUs3VldUR1pheVdQeTFpOW9xUDRzdw?oc=5",
-    "source": "The Times of Israel",
-    "summary": "Iran-US deal still out of reach, senior Iranian official says The Times of Israel",
-    "time": "2026-11-03T06:59:38+00:00"
+    "title": "Libya's top religious authority rules against wearing Nike clothes",
+    "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+    "time": "2026-11-03T14:56:46+00:00"
    },
    {
-    "title": "US Strikes Iran’s Strategic Qeshm Island Despite Trump Ruling Out Immediate War Renewal - Pragativadi",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDd3aVp4OU1Ob3I4eG9JTGRjMWpJQ0REZ0lLdVBrU0xyWjJRUmxhOFpIQzhtb2tfWEU3WWp4NlZfNWNKcWpBMnc4Ry1BcjkwbzNOTE5EbjJEajNJZzJBa250M01qVzUyZ0dZdy0zbnNiT2tpS1BmN25mT0V6TS0zS2FiNlNYUHVXX09PQzkwaDhuekRKWmc3MnB3Sjd5UXFQc1hURXMycmVIOWVCU3UzZw?oc=5",
-    "source": "Pragativadi",
-    "summary": "US Strikes Iran’s Strategic Qeshm Island Despite Trump Ruling Out Immediate War Renewal Pragativadi",
-    "time": "2026-11-03T06:20:39+00:00"
-   },
-   {
-    "title": "Israel asks Lebanon to prevent Hezbollah from entering the war if the conflict with Iran resumes - report - i24NEWS",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVU5vdUFWekRNeTg4SUp6cHNOUG11Z2g5MHhpVTc3NVU1dW1rdnUwUU9MMDQ4aVlOYWh2UTlVTWw2T054RWtfMGVxMHVZRGU2TnNkaGUwQko4cTZ4Rl9Udkd5TnRFUm1zMldhM3FZM3FveFRKX0U4QlJvTUoxdm9xdjdkUWIwVWcyRTlzQlRSN2JEMFBXM2Q5TWJoeXdJemRKV0szeTI1dWJtRmE4blFsZW1KSDg3cFNNSnJidnVGTlVHSnJBckRGanZnaTRSWkR2Zm5JdW1HXzNZOHkxUUF5czJlR09oNHR5dEE?oc=5",
-    "source": "i24NEWS",
-    "summary": "Israel asks Lebanon to prevent Hezbollah from entering the war if the conflict with Iran resumes - report i24NEWS",
-    "time": "2026-11-03T05:53:00+00:00"
-   },
-   {
-    "title": "'Israel Real Threat To Peace': Top U.S. Ally Shocks Netanyahu Amid Iran War | Jordan King Speech - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSkNkS18tR1BYMnlkWmdfUDZqY1RSSXAxUWN4N0FNek9rSVhpU1FNSkZQbUdWRmI3cE9RNl9DdVhyMFpoaC0wckFwQWJ2Mnl3WDYtUmZldXV4OE9PV0MzYkFWaDNBaHBSOWdzQm1HNWJhMHdpQ0t6ZlRqQmJ6UGJQcmtWejNEZDJjMkwxclFmT2k3YWRPRWl1NHJzU1FBbmcxUDd1d1ZlckN6UFlsNjlKNm1fNFJnZy0zS1ZfaFU2cm1UNjF0aUl4b1dPUnFZUV9Ld21kanBrNHVkT2VLVzQ4azY3REt3V2cwT1FTM0V0UmhQdXVoN1Y2aTlXaDlJVEFR0gGGAkFVX3lxTE40alpjVkN4RERMRUNwQzdzd1NzUHgxUVZjLXpHNkJNM3AxRDFjV3RLYkFLNDd2ZmhNREkwV01OVEFsVm45Q085Y0xLd0p5bk5KUG5LVkF0NmtrWXQ3WFRkVTdkeEhUZlJhWklCX1RYZjR6Z1pTRV9GZ1U1M0I4QnFxNzVYcTBDX2VpMUZkeGY4OTVic1d5OGd1Y3VmTklpTzk4S1NMd0NpMVF1WHktQmdveGdpOGF5U3BOdXo5cllPZ3dMZU03cXphSU1JMmNSUkpSX3lnb1lRclF3V25kSnVNUzZud0FNYTdlWTJjWGwxQnQ1SGFIbWE4MlExcmZkb2tUdDRBUnc?oc=5",
-    "source": "The Times of India",
-    "summary": "'Israel Real Threat To Peace': Top U.S. Ally Shocks Netanyahu Amid Iran War | Jordan King Speech The Times of India",
-    "time": "2026-11-03T05:51:06+00:00"
+    "title": "Rubio warning of Israeli escalation if Hezbollah backs Iran, says report - Arab News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek16ZVM4OURGOGQ2UVpSdTFsNU9TLVFCZGVCWExCVHdlQkVPMUs1VGJXbV9pNU1zODlzV1ZwclFDSERBN2R6VG9VeXNEak8zU2V1WTVlYjNucmgycFNvV25YSEhyZjdMZ2tIeUlYTDBJbGVSbVhNTXE0WkRvTzlSQUdmeUtVVWFDTWRfQktYZXlNMW96Q1FPaC1rdnZUb0VkTDJWNGZ0WDViT3ZFNW4wdHlLdkwyTTg?oc=5",
+    "source": "Arab News",
+    "summary": "Rubio warning of Israeli escalation if Hezbollah backs Iran, says report Arab News",
+    "time": "2026-11-03T14:43:00+00:00"
    }
   ],
   "Technology": [
    {
-    "title": "UK also affected by cyber-attack which hit European supermarket fridges",
+    "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+    "time": "2026-11-03T16:19:29+00:00"
+   },
+   {
+    "title": "Major US State Just Got a Flying Police Car - Wide Open Country",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUtzeTVWc051RU1BMzY1bnVGQkhSVzlYVTJWTFV4b3lpZnVRYUJYWFlRWUFZS2VoWG05T3RwcU5Ra0dqY1hLbnZvMUh0eVdkWlFzWmhrMjRwYjBfdFdEQTRZYnphOWxyZkM4SFBfcXQwRy1xZExDUWxrc0xjajR2ZUJB?oc=5",
+    "source": "Wide Open Country",
+    "summary": "Major US State Just Got a Flying Police Car Wide Open Country",
+    "time": "2026-11-03T14:53:16+00:00"
+   },
+   {
+    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
     "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
-    "time": "2026-11-03T09:43:44+00:00"
+    "time": "2026-11-03T13:07:00+00:00"
+   },
+   {
+    "title": "Guest commentary: Tariffs expose the auto industry’s real blind spot - Automotive News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdlBJY25QRWdTZTdFcm9qaTJOTjBTbGhnN19oSG1PMnZoSmdpc2RnMkt4NVdmQ0NSMXE4bE9fVWFiRjh4VFdSQmU2UnNfVm5SUmUwZmpqSlBFWlN1Yi1jNkVsWXRZS29FQXpiRFdWdmRyLTZxTEVWMTNlNW8wMDhTN3Zja21IUFNHYWlkR1lUakc0TXo3MHBnUUxWa0o?oc=5",
+    "source": "Automotive News",
+    "summary": "Guest commentary: Tariffs expose the auto industry’s real blind spot Automotive News",
+    "time": "2026-11-03T13:00:00+00:00"
+   },
+   {
+    "title": "Ashanti Regional Minister proposes plan to Elon Musk after tragic plane crash - Yen News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWE9MQVlBOEt5UXY1MExLWWFORXAxYUxBVVdyU1UwdU5SNmJrNm9hc1ZOMDVrZ1pLc2p6TUFGbWMwRGdKRndtSGcwT0l0VVJFMGFyR2U3Ni15SHNoa3FmQmMycjZaX056Y2VncTM3LTByRkxWVFFSTHNVTGJYTV9mV21RZGxPUXBYN1VmSFBQZGdMam1OekRsRkFJaXpPeVFpVnVmSkVYVFp3WTM1VmNOWUlTUGdDV1U?oc=5",
+    "source": "Yen News",
+    "summary": "Ashanti Regional Minister proposes plan to Elon Musk after tragic plane crash Yen News",
+    "time": "2026-11-03T12:51:09+00:00"
+   },
+   {
+    "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+    "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
+    "time": "2026-11-03T11:10:37+00:00"
+   },
+   {
+    "title": "India did it 5000 years back: Ranbir - Ahmedabad Mirror",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjJRd0tLbWtDeWlmbEQ5d3NSWE1WMHBKTnBwOU1Hb2xXRGlQSkxza25sMVg5VThLRmtmZHp1ekozY0xfRDFnT1diV0g3QW5qVGJjMGhHRVZXWTBfejZHOUNKM2o2aGUyWWExUFl1M3pZblV0LXFMOXBKQ0FTbUFHcno2VUxqRVhI?oc=5",
+    "source": "Ahmedabad Mirror",
+    "summary": "India did it 5000 years back: Ranbir Ahmedabad Mirror",
+    "time": "2026-11-03T10:38:58+00:00"
+   },
+   {
+    "title": "‘Musk recently made flying car. India did it 5000 yrs ago': Ranbir - Madhyamam",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGhVcGxyZkd3dGVwdU1BSlRqbmNxdTFTN3ZTb0FoV1liS0MzcHVFYUZkZ3BMdW5NbDg5NWF1eDlOQUE3WDZtbUFUWmVUYkNHdGtZOEU2MGE2R0gtZUc3S1pPLVdzelFpV0JaM1RkV3JVLWxaNXppY0pkeWhKYllNbWVXLW5QZ2VLUVdCZktpV0JfNEw0TEIwbzZUYWZ4MlJfX2ZkNmRDUFFSX2Jn0gGsAUFVX3lxTE00aFVwbHJmR3d0ZXB1TUFKVGpuY3F1MVM3dlNvQWhXWWJLQzNwdUVhRmRncEx1bk1sODk1YXV4OU5BQTdYNm1tQVRaZVRiQ0d0a1k4RTYwYTZHSC1lRzdLWk8tV3N6UWlXQlozVGRXclUtbFo1emljSmR5aEpiWU1tZVctblBnZUtRV0JmS2lXQl80TDRMQjBvNlRhZngyUl9fZmQ2ZENQUVJfYmc?oc=5",
+    "source": "Madhyamam",
+    "summary": "‘Musk recently made flying car. India did it 5000 yrs ago': Ranbir Madhyamam",
+    "time": "2026-11-03T10:38:34+00:00"
+   },
+   {
+    "title": "\"Oh Awesome A Flying Car\" Says Man Who Just Paid 190 Bucks To Fill Up Non-Flying Car - The Betoota Advocate",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGY3aGtCS2dEZHVfSmFoU1B4VnhEWlFCOE9jdGRfRk1pZU9SSmlSNnFTOS1CSVkyTmpEc1ZqVWRSV3BNZmt5enZuci1WSEZYUjd0VTdZUF9ubUtFUmE1eGEteXNqX3ZaVnpteXI3SEhYVzJTTDBVX2F2RUdJakpSRnJlSkVBN2s4dTd0aUFuS1RFeU1pRUVrMWx0UXRIOWVaQkFLQm95T21GYUprTmIwM1d1bjczQQ?oc=5",
+    "source": "The Betoota Advocate",
+    "summary": "\"Oh Awesome A Flying Car\" Says Man Who Just Paid 190 Bucks To Fill Up Non-Flying Car The Betoota Advocate",
+    "time": "2026-11-03T09:49:51+00:00"
+   },
+   {
+    "title": "'The Raavan-Jatayu fight sequence in Ramayana alone took six and a half years to complete,' says Nitesh T - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPUzZLbXk4SGdVN3dVY1paYnBTSVJzeWwtZXl4VnRINkJvWGFMTDN1bDEyWnRHdXdTY2xhclYySTRjd3E4U3pLTThyejY4QWwzbkFhSHNvNk9HZjFLT3FPSnhuV1A4TXlZSThiTkNEaElwc0dyd0F0NXhzSzlyZTNFRnd2dmw4Qlp3RXpibHZBekQ1SXM1QkRrUElwWlhoVDk1UjlodFh0Mi1yVDhmd2NCMTRsS2c4V09nQ2g3aWZZWFBTZ3hHbXRzYVZBdEVNRmZmSnl2dnpQbVFKUW91SkhVRjFRUVgzcFg2TkdBU1ZEZUI1bkxuejJROXlOZ2YzSW1qc3hVMkhHT00zc0xIS1lsQ00xbENhYWU5Q25hWlA5bnhQR3JUWlJoMmJ5VG95bnB3cXhPd2pzc25JSHM5dTRQZlByV2EyOXRBbVU4ZTNMd0F3amswWHVPeHpEa3NxLWtGZ2xSNNIB5AJBVV95cUxPUzZLbXk4SGdVN3dVY1paYnBTSVJzeWwtZXl4VnRINkJvWGFMTDN1bDEyWnRHdXdTY2xhclYySTRjd3E4U3pLTThyejY4QWwzbkFhSHNvNk9HZjFLT3FPSnhuV1A4TXlZSThiTkNEaElwc0dyd0F0NXhzSzlyZTNFRnd2dmw4Qlp3RXpibHZBekQ1SXM1QkRrUElwWlhoVDk1UjlodFh0Mi1yVDhmd2NCMTRsS2c4V09nQ2g3aWZZWFBTZ3hHbXRzYVZBdEVNRmZmSnl2dnpQbVFKUW91SkhVRjFRUVgzcFg2TkdBU1ZEZUI1bkxuejJROXlOZ2YzSW1qc3hVMkhHT00zc0xIS1lsQ00xbENhYWU5Q25hWlA5bnhQR3JUWlJoMmJ5VG95bnB3cXhPd2pzc25JSHM5dTRQZlByV2EyOXRBbVU4ZTNMd0F3amswWHVPeHpEa3NxLWtGZ2xSNA?oc=5",
+    "source": "The Times of India",
+    "summary": "'The Raavan-Jatayu fight sequence in Ramayana alone took six and a half years to complete,' says Nitesh T The Times of India",
+    "time": "2026-11-03T09:14:00+00:00"
    },
    {
     "title": "North Korea denies being behind record $6.3bn Binance hack",
@@ -338,11 +401,11 @@
     "time": "2026-11-03T08:33:20+00:00"
    },
    {
-    "title": "Apple unsure when more foldable iPhones will be available after selling out",
-    "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
-    "time": "2026-11-03T07:03:03+00:00"
+    "title": "What’s buzzing on Gen Z’s feed today? Hardik Pandya wins Rs. 95 lakh in MrBeast’s baseball challenge and donates it; Indian Navy’s daring rescue operation in the Arabian Sea & more - Indiatimes",
+    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOSmFkR3FuWWFxNWpNZnFkV3FQUU9PcnJuZmQ5WFhWMWZEbXdOUzNIN2lWYmlHR3RvWnlSZkg5OHhxU1plcGdDUWxzYlc3UFRLR3hqVDQ1VmNxYkY0X0NoU2pDdDZFaTdwWEVKbGo5QkhqLXJCcENqN2xuZEF2OFRESlZ4Vk85aDhvREY0amdwOGZac1piblRvZENjY01iRlZZUkZIOUFVOHJZblk2eElEUG83OElxRWprRDg0MHJ5YlVNcGs3ZjhXVXRGN3hXTUNSQ19kT3BCVTZwamNGLVFvRVZNOWxFYXUtWWY0WjludkY2R1JNbXpvX0RQOXF6YV9zbjFjWEJwaFVESUZGaWNTN0JDNEZGR3V5bVE5SnhMT2RZWDJyTmFFUGVrcWpiZFA3VkhzQkQ5ZmVITklpa3dPWk41T25XMXJEOVl4QmhKN1EyejdtWGxSZnJR0gHaAkFVX3lxTE5KYWRHcW5ZYXE1ak1mcWRXcVBRT09ycm5mZDlYWFYxZkRtd05TM0g3aVZiaUdHdG9aeVJmSDk4eHFTWmVwZ0NRbHNiVzdQVEtHeGpUNDVWY3FiRjRfQ2hTakN0NkVpN3BYRUpsajlCSGotckJwQ2o3bG5kQXY4VERKVnhWTzloOG9ERjRqZ3A4ZlpzWmJuVG9kQ2NjTWJGVllSRkg5QVU4clluWTZ4SURQbzc4SXFFamtEODQwcnliVU1wazdmOFdVdEY3eFdNQ1JDX2RPcEJVNnBqY0YtUW9FVk05bEVhdS1ZZjRaOW52RjZHUk1tem9fRFA5cXphX3NuMWNYQnBoVURJRkZpY1M3QkM0RkZHdXltUTlKeExPZFlYMnJOYUVQZWtxamJkUDdWSHNCRDlmZUhOSWlrd09aTjVPblcxckQ5WXhCaEo3UTJ6N21YbFJmclE?oc=5",
+    "source": "Indiatimes",
+    "summary": "What’s buzzing on Gen Z’s feed today? Hardik Pandya wins Rs. 95 lakh in MrBeast’s baseball challenge and donates it; Indian Navy’s daring rescue operation in the Arabian Sea & more Indiatimes",
+    "time": "2026-11-03T06:19:34+00:00"
    },
    {
     "title": "Ranbir Kapoor Compares Ramayana's Pushpak Viman to Tesla Flying Car as Nitesh Tiwari Reveals 6.5 Years of Work - Sacnilk",
@@ -352,197 +415,183 @@
     "time": "2026-11-03T05:11:45+00:00"
    },
    {
-    "title": "Tech Twitter’s monster mash - Gazetteer SF",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Xa2QyLUpyd19XYjlwU09MUlpYQ3pESXJTU0tQUWpzNkRtd2RfR2VpVTdfVDlpZXNTa3R0dFhNa2Q2STc2clVWdG9yYXZXSGdtcGh0eHBTNXM3bUxDRnpR?oc=5",
-    "source": "Gazetteer SF",
-    "summary": "Tech Twitter’s monster mash Gazetteer SF",
-    "time": "2026-11-02T22:00:00+00:00"
-   },
-   {
-    "title": "Wright State Instagram Posts Campus Photos Edited with New Flying Tesla - Wright State Guardian",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdEtrUDBGdXk3WGc4bk9jMV9pN2pCX3RFMm1MRnAzNkZwYUJ1dVAyX29NUVdtOG5HNHpuNEpIX2tVZXQ5V09KdlkzUTJYUV9VYnVOWlJ4LUZ3czlyNkRsc0FxUzRoSlFIS3ktLVhYRmJHNmItMXd6Y0lLWlJ1ODMyUW9iUFA1YXhjNFlyMmVQT2xqb0JyVnVNZHlFZFVncE0?oc=5",
-    "source": "Wright State Guardian",
-    "summary": "Wright State Instagram Posts Campus Photos Edited with New Flying Tesla Wright State Guardian",
-    "time": "2026-11-02T21:30:59+00:00"
-   },
-   {
-    "title": "SWA Connect heads to Chandigarh - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUkFEYUZhNjVIRFRnQVNFZWM1Y2xCc1pMMnZvdGNhdXpFbUZ1Q00yY1V1dGxYZkw0S3ItWWl0T3VETVZKLUdxX0RUX0IwQ1F0NkRJZnBLN3c5U2NWSW9tRjJiMVY3QnlQeHRmOVZxQ3M4bmtPdW5PQXpQS0xja0ZKbDludVhJQzQxX3RPZFV1X2JqWUQ0ck9tZ3dnaUFWdFRLSlJYazAyUDdZN2FFN3Z6WmRLM3FSbUl5ZUEtWVJMRHJnbWM0OHNBZEhndULSAcwBQVVfeXFMUFJBRGFGYTY1SERUZ0FTRWVjNWNsQnNaTDJ2b3RjYXV6RW1GdUNNMmNVdXRsWGZMNEtyLVlpdE91RE1WSi1HcV9EVF9CMENRdDZESWZwSzd3OVNjVklvbUYyYjFWN0J5UHh0ZjlWcUNzOG5rT3VuT0F6UEtMY2tGSmw5bnVYSUM0MV90T2RVdV9iallENHJPbWd3Z2lBVnRUS0pSWGswMlA3WTdhRTd2elpkSzNxUm1JeWVBLVlSTERyZ21jNDhzQWRIZ3VC?oc=5",
+    "title": "'Ramayana': Yash, Sai Pallavi and Ranbir Kapoor promote film in London; overseas advance bookings near US - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQdk1sNVY5NHFOemJlQ0Jnc2NNUTVnc09kX3lPR3ZlSk5GZ3c1T1JjZ0ZZbEZiZGh6LWFlQjFOaFhKNUlYSGxuZFA3bWNPU2cyR1VwRDNQekhEckw0VGo1Mk5yNHdBYnQ3LUhzZFN6akpnZVNMT1BXdFM5M2pwTGMtZFZnMDhFeDVlazNubUptalF6RUVGWlpZb2dXV3FwWVk5cklXRlRBaEUxQUFHS0ptUUpXM2t4S3VTMlZ6c2xoQlVFc3I4REdYaUdoN05seURpRGwtVzFWX1A1S29UTnZpYjBwT29za1RsRXdZQlo2R1A0OG1HUDZaOXYySjRKR1gxQ2ZBamFsOVRkenRMVkFORm9TVjdvX2JOQjdVWGJRQW1SbzdrTkoxSktickt1bGZPZGZPc3FFbGhJNC14WjU2YzFIQUZJY2swb01GS01hRTFaOXZjb2xB0gHcAkFVX3lxTE5aYzctSmFfeFByZWpJdkdhbDB2WkZ1MEVkdlBHQXF4RENoeVgzSEJMaWU1YVVibmtnLXBldjFZV0pjMVVEYVVQbkNSWEZJYkVqMzk0RWtBTEdnekMtclpyaEVtbFpBUFhmcllDYlJUbGNrVjhZRUQzSUFmXzVTYkFUM1IxNnhCbVdQWF9UQ0k4Q2ZOUEc2RmlSajB3UzJkemJLa0pfbU9LUmd1d3pTT3pmbjZWTnhBTkxaRmxDemRsbjdNU1lDaFlQNE5JaTdlZDg3QmFHM1QxQ0hDTUFYWG5hVDV6aWFSTlhHSENGSTYtbnhVQW9NelMwdmU0X2cxS3hnUGtxRFhvamV4eUxHUHM4OVp6d2c4QW5zOVA2RXZDU3R2VXpNRXQtOEVDa2FjcU4wbmd4TExXSHJ2c1dERWxBZHdYQm1yQUcwSHFpVVN3bnVVQ0dOQl9CbWZxMw?oc=5",
     "source": "The Times of India",
-    "summary": "SWA Connect heads to Chandigarh The Times of India",
-    "time": "2026-11-02T19:54:00+00:00"
+    "summary": "'Ramayana': Yash, Sai Pallavi and Ranbir Kapoor promote film in London; overseas advance bookings near US The Times of India",
+    "time": "2026-11-03T00:17:00+00:00"
    },
    {
-    "title": "Exclusive: You can’t help but be intimidated by Sylvester Stallone, says Anthony Ippolito - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdjBweVV0cFdMWms1VVpEU1pMRWFnNk9kcTV6cFpOVnB6ekNucko4WGkwX1pqMnFnVHBTUmRnN1ZYc3FQSmxlWDA2R1duaFBKZ2dQSlQtdFJsb0dxdWprTVhxcUhjOVFNRndlWlVHSFRQakxmbU9jSmt2eGhvcnduVmtKeWtQV0ZBekprXzBUQnVsSkF2Zk9aTVJjS1RTdGw4MGZjRDJZWlYySUlDSG9HcUV1SzZjSnRSQUJCV1gzVE5PellvV0k0dk1GdWhMeE1nWDkzcFdXclcxMnZ4ZmFBMlB5b2hLdXhDM1R1TWtOZ0F0QUx4QTF4YU5tdWNwTUFqVC1fTEl1NXRIQnpKdW5fazNMTENtZVpR0gGYAkFVX3lxTE52MHB5VXRwV0xaazVVWkRTWkxFYWc2T2RxNXpwWk5WcHp6Q25ySjhYaTBfWmoycWdUcFNSZGc3VlhzcVBKbGVYMDZHV25oUEpnZ1BKVC10UmxvR3F1amtNWHFxSGM5UU1Gd2VaVUdIVFBqTGZtT2NKa3Z4aG9yd25Wa0p5a1BXRkF6SmtfMFRCdWxKQXZmT1pNUmNLVFN0bDgwZmNEMllaVjJJSUNIb0dxRXVLNmNKdFJBQkJXWDNUTk96WW9XSTR2TUZ1aEx4TWdYOTNwV1dyVzEydnhmYUEyUHlvaEt1eEMzVHVNa05nQXRBTHhBMXhhTm11Y3BNQWpULV9MSXU1dEhCekp1bl9rM0xMQ21lWlE?oc=5",
+    "title": "'The Batman Part II' cast member RUN OVER by Batmobile; filming halted after stunt mishap - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRlh3ZjhlRnJvRG9TNmhaYUVyVnVMUHllUmNxZm5XYUJ2X0RZQXgtUy1uQi0tekY0M3lEdWUteHJWMTMxaXJTVHd2OEtwTkQxQm5BVnE5RUluQTB2S0RLbW5fdDllajdrb25oRzk2U3JIMGRPT0hLMmNUeG1hTU4xQ0ROMjRqSFVYM3ZsUDNISGhjUVhzcUJNRm5Vc05oM0JlanEzRzZicmtZUHNtVUxJRlFEbDc4MkdDLXFJWE9SbnVEaTB2d0plWjlRdGNaU2ROUjJGYXZMY0liUWFXZk53Y3lFRlFwckd0cmZ2SkN3ajllM1lKYS1HQ2ZUWVRwTVFhWGJHMWp1cnZlbkEzVjJ0RGI1b9IBmAJBVV95cUxQc1ZPbGhaZHBpdEJaTUF0MU4xSzY5SHpleURzM3lCc0IxSlhMcTgwaU93a2ZFNEhNMGJoUnJ3aGpiNXhla1hBZ0VxQnZ6TWlhNWxOeHRDdFRfdGh3cUhtaWowUHJ0a3FHMVhxNzRjbGlPSGpaMWNmUFRacjd5ZWtINFliR1dackREMnpmU2xKR3E2ZFJwZWEtSXFxQUk4aEtfdzFRQ0RPVTJLS0s3VXFhamRZWkxUSzhOczBUVUszNEhZOVNROFBWV3lvRGhsOTNXVDVfUWJkNjd3cEZhSGk3YTc2SXFuZGpTTFVPQVNyQmpmRFRIOGF3Q0E0Y2I1VVo4ODRBamtRY0xxQmZkanNhSGtDZHE2eVU2?oc=5",
     "source": "The Times of India",
-    "summary": "Exclusive: You can’t help but be intimidated by Sylvester Stallone, says Anthony Ippolito The Times of India",
-    "time": "2026-11-02T19:26:00+00:00"
-   },
-   {
-    "title": "Creative work should be open to review and criticism: AR Rahman - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaXNKdWNmMURrTWREYk4zaURCSC1QbTJILXpkVWdBeGVnTXE5R05DNWN2NlV6cXVNYUR0M0VYOFNBWlMzZEQ3WnlsQWx3VzdQV2VYYnE5TjFzRnFRdDJZX1RZd1F4MTk5M2VaWGtWUV9VeDJaQzFzbXNaUWtWUS1oUjVYSDRjeGR3SmRlN0Q4Zm9uVW1QdHVuQWFabDdHUmpXcEtiRkFhbXdTWEp4M1RGZjRqclhHVGJnQWhOdVBTSnhtM1hwYjhkMVR6QjU2aGpBak9vY05nY2xvS19WV1Z1V1QyZkdSZ09jWFNVR2tqVC3SAfABQVVfeXFMUGlzSnVjZjFEa01kRGJOM2lEQkgtUG0ySC16ZFVnQXhlZ01xOUdOQzVjdjZVenF1TWFEdDNFWDhTQVpTM2REN1p5bEFsd1c3UFdlWGJxOU4xc0ZxUXQyWV9UWXdReDE5OTNlWlhrVlFfVXgyWkMxc21zWlFrVlEtaFI1WEg0Y3hkd0pkZTdEOGZvblVtUHR1bkFhWmw3R1JqV3BLYkZBYW13U1hKeDNURmY0anJYR1RiZ0FoTnVQU0p4bTNYcGI4ZDFUekI1NmhqQWpPb2NOZ2Nsb0tfVldWdVdUMmZHUmdPY1hTVUdralQt?oc=5",
-    "source": "The Times of India",
-    "summary": "Creative work should be open to review and criticism: AR Rahman The Times of India",
-    "time": "2026-11-02T18:47:00+00:00"
-   },
-   {
-    "title": "Ranbir Kapoor brings Elon Musk into 'Ramayana' conversation with bold claim about Pushpak Viman - India Weekly",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkNOYTVOcDZDYjNKSDBUc1p6cC1nSzZ1bGZFSFU2eDdBc1RCWE5lNHZHcFdzQjZzQ0hUYUNudGQxNWRFS0g3Y3JYWlNFS0JXRzd3M3VaTTJEOW9VdVZQQi1jZVhBeXh1YWF0ZEt5VFM3R0JVUTQxWEhhdm0wWE9ES212ZW5FQWNIN3doYmp5V3d3S1gxTkJpaW93dWFGQklNX19fZlBlSXZzZmFlaC05MkowX2k1ZVJmWFZVWF9Ydw?oc=5",
-    "source": "India Weekly",
-    "summary": "Ranbir Kapoor brings Elon Musk into 'Ramayana' conversation with bold claim about Pushpak Viman India Weekly",
-    "time": "2026-11-02T18:25:44+00:00"
-   },
-   {
-    "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-    "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
-    "time": "2026-11-02T18:25:01+00:00"
-   },
-   {
-    "title": "Amit Sadh opens up about box office pressure ahead of ‘Pratap’ - MillenniumPost",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2VaeVBrcF9SUk40ZDJpUnNtcE1aazZwUGdQWDBLUFh3U0xHdXZUQkFKUS1iSmJHRlVwcDYwc2tGTllldzh3eG12bUg1RVgxRFp4ZmpyZmdqeU8taldsMVY1UFVNTkxJY202ZnpxbmFFdEZsYWFlYWxfTjRiM2xhTi12WWVRZ18yWmZGa1Jyd3JJQUotZk1lT0M1dHdVMmJFaGZpN24yVW83X3F1TEpvUmZtZk1BZ9IBtgFBVV95cUxQQ2VaeVBrcF9SUk40ZDJpUnNtcE1aazZwUGdQWDBLUFh3U0xHdXZUQkFKUS1iSmJHRlVwcDYwc2tGTllldzh3eG12bUg1RVgxRFp4ZmpyZmdqeU8taldsMVY1UFVNTkxJY202ZnpxbmFFdEZsYWFlYWxfTjRiM2xhTi12WWVRZ18yWmZGa1Jyd3JJQUotZk1lT0M1dHdVMmJFaGZpN24yVW83X3F1TEpvUmZtZk1BZw?oc=5",
-    "source": "MillenniumPost",
-    "summary": "Amit Sadh opens up about box office pressure ahead of ‘Pratap’ MillenniumPost",
-    "time": "2026-11-02T17:50:23+00:00"
-   },
-   {
-    "title": "Mammootty & Dhanush to share stage - MillenniumPost",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMlV3aV9WdktuMHREaXRSSTJYS0JBMEpqSmw2cDBDVXp2RnFUZ1A1OF9yT1llQVQtbnJzRjJhSkZUdEFjeU5qLUM3U0ExelJlRUtFTXBld1dLUjlqSFNvQmhGRVVyUk9XX0dxdmp0RjBQZDZPYVBzbXdTWndWRG84TzRkX3Q0aHYzRnVkVjlZRnnSAZABQVVfeXFMTTJVd2lfVnZLbjB0RGl0UkkyWEtCQTBKakpsNnAwQ1V6dkZxVGdQNThfck9ZZUFULW5yc0YyYUpGVHRBY3lOai1DN1NBMXpSZUVLRU1wZXdXS1I5akhTb0JoRkVVclJPV19HcXZqdEYwUGQ2T2FQc213U1p3VkRvOE80ZF90NGh2M0Z1ZFY5WUZ5?oc=5",
-    "source": "MillenniumPost",
-    "summary": "Mammootty & Dhanush to share stage MillenniumPost",
-    "time": "2026-11-02T17:47:23+00:00"
-   },
-   {
-    "title": "Krithi Shetty’s Bollywood debut comes with a 1990s flavour - MillenniumPost",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFZ2NUhTUzV2S2dEUW5vUXRUcXBTdWxlWmtIUWV0Yi0yWWhJUlk1eHFEMGd6UFV2OUxKU3dhcGQ1MWdyWkc5UE1CaW8yRlBkVWpCYTlFZTJOV0RtUDcxcWJ0UEMya3JURWhjTkh3cFdGb1Y3T0JMc0FIcDV6cDVLbzNmX0Rvdk04Z2F3a2VuY3NoM3p0dkZMblVrVVFZTWFPSUVKNFplcTZqdVY5R0s3MkhR0gGyAUFVX3lxTFBQVnY1SFNTNXZLZ0RRbm9RdFRxcFN1bGVaa0hRZXRiLTJZaElSWTV4cUQwZ3pQVXY5TEpTd2FwZDUxZ3JaRzlQTUJpbzJGUGRVakJhOUVlMk5XRG1QNzFxYnRQQzJrclRFaGNOSHdwV0ZvVjdPQkxzQUhwNXpwNUtvM2ZfRG92TThnYXdrZW5jc2gzenR2RkxuVWtVUVlNYU9JRUo0WmVxNmp1VjlHSzcySFE?oc=5",
-    "source": "MillenniumPost",
-    "summary": "Krithi Shetty’s Bollywood debut comes with a 1990s flavour MillenniumPost",
-    "time": "2026-11-02T17:45:31+00:00"
-   },
-   {
-    "title": "Ranbir Kapoor on 'Ramayana': ‘Elon Musk invented flying car now; India did it 5,000 years ago’ - MillenniumPost",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa2NadXVSd0dJUlBYSS1VN0tZSjdWLXVEVTlwb0JxV1dwbkM1MzdZeFRWakhaNFlTdE1uTjVRTUVJemJ1UzJMOFM3dnlaOFhzd1VQa1F4aEJ1Qy03bmljdndQMkN6LVdYd2lUMVhkeXpId0Y0UnhEbDVWeFp4QmJ6VVVEUDF5OEZfbVBubFJpc1VRWWlvVjlWRUMwRDMyb0J2MFhISS1OM3JxOG9XdGxCZzVYdklsdDF6UHNicW02SUhfbEpnZEZraEhiVDFJb0xnMmE0TtIB2gFBVV95cUxQNVhIR3NWek01QVN4STRuNGJrdEV2RmtlWndXd1N1U252dzdZdndGVUlST2kzV0NhTFdMS1VJSVhuTVVTaS1DNTdPVW9DeUdud2h4cnRfOUlacXRyTTBaNjhGMUhrYXJoN0YtMnM5QkVPd2FnOFBnU2NOOG5LY01XSTNaaTN3SHRlTkowU3JOYWp5U1UxRi1sbzlXeU1iRGE3RmNQdmZDbVVsdFZVeHFSMmJ4cGc1RDRDSU9wRHJIUHhrU3NPUmpSRHhpeWlFOWROMGZpbUQzVGQxQQ?oc=5",
-    "source": "MillenniumPost",
-    "summary": "Ranbir Kapoor on 'Ramayana': ‘Elon Musk invented flying car now; India did it 5,000 years ago’ MillenniumPost",
-    "time": "2026-11-02T17:42:57+00:00"
+    "summary": "'The Batman Part II' cast member RUN OVER by Batmobile; filming halted after stunt mishap The Times of India",
+    "time": "2026-11-02T23:21:00+00:00"
    }
   ],
   "Cricket": [
    {
-    "title": "India, New Zealand switch to World Cup prep at bouncy Eden Park",
-    "link": "https://www.cricinfo.com/ci/content/story/1561179.html?ex_cid=OTC-RSS",
+    "title": "\"Sourav Ganguly and MS Dhoni at the top\": Tendulkar names his favourite captains to play under - ANI News",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQkM3b1Q1S0RiM2psUHZDT0dzTmg4cDlfWEhfREI2SFZiUlRNRTgtTUs5LWRsQlZ1bVlrUFh3TzNsd3Fad0dCWk0yZ0hNRGVlU20tRlp0RV9nRWVyWE5XSUxnZUtwVDlOdEhKdG9TVWJLakZxSXh4SmhFQno4aFp5WUNBZjRmaU4td1hvZGowY3hwNmhkZjVDWm5hYUtad0x1bFppTE5rWDYzYm1SU29yemVRVlZVb0ZqUzhPLXRkckFZV2VoeFR2Q1dIdjJJUHgtZ2JybS15dHEyRWZMVGxPaElR?oc=5",
+    "source": "ANI News",
+    "summary": "\"Sourav Ganguly and MS Dhoni at the top\": Tendulkar names his favourite captains to play under ANI News",
+    "time": "2026-11-03T17:44:00+00:00"
+   },
+   {
+    "title": "India Women search for new fielding coach as Munish Bali faces growing criticism - India Today",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS0dMbTkzVUJLVFAzVTAxRjh3allGdFFicUQ4bW9WSkxidnRqd2tVTkg2eXV5cjlCOTBTY09TU2pCdHVoc1BxTTF2TUluSVlYQnhjYjFkLW1kSUR4Y0Z2cGNEaXZNRTZpNFY0cEpnNEh3Q1hMek5uRzRpMEoxODF3emVWNThzZWd2WEZCY21RakVaRWdRV0wyRE05V1MtZFJ5SXlXWjZfZVR3LXRGN2xocXU5c2VkR2UwV2NibHdMVU1XWUo4OFp1SF9YSXE4VGdRODU4NkVR0gHbAUFVX3lxTFBMVV9NZWplLU1CVFhyb0pMMjR1WHBkMWM3NUk0SXZGbjJjeGVRVGFQTm15c1RxVlZscnhUdm1EQkt6OHRaN2o1cTZQcjhOXy1MaGlpVVZHRl9fTDlNcWN1b3FWVGpkOHkxRHlUQ2QzcGo0T0QtNUl0LTFlUVppVWViSDJZd2NWaDZTYUZnM0VWRXVPbk8tdF84RmVLbUc0ZG1RSlBNQ0J0MmxDdnU4d3hWb0dHZFcwTl8yZ3NCUUQ4aFpOYmVBaFZ6b0lJRWJ3V3FkZnktU0QxdGJIdw?oc=5",
+    "source": "India Today",
+    "summary": "India Women search for new fielding coach as Munish Bali faces growing criticism India Today",
+    "time": "2026-11-03T17:25:28+00:00"
+   },
+   {
+    "title": "Pratika Rawal, Shafali Verma recall India’s Women’s World Cup triumph - Telangana Today",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkhJQnBjbmdTU2Zrczg1aUVQSTFXaHQ3MUxxYUJUM0Z3N3V2ZTMySTJFMHZROWdZaFN1NkJ6WFJCRk5iOHJYdEJqTDNSQ1RGSEJnbkxIV2xHTFhIQmxYT01wVTlXX0JtUjQ1alZMbkU1eDFBM1pJX2JkR1J6U0xzeGo4MGxRemNBdUQ3SVY3dENTVEF6RU41Vg?oc=5",
+    "source": "Telangana Today",
+    "summary": "Pratika Rawal, Shafali Verma recall India’s Women’s World Cup triumph Telangana Today",
+    "time": "2026-11-03T17:06:49+00:00"
+   },
+   {
+    "title": "Rohit, Kohli's return headlines India's 2027 ODI World Cup preparations in New Zealand - ANI News",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM1lpOXJZN253enB3ZjUwVnpfcExMT3hSRmVVQ2tiQkNYVWZCSHBuSWtXS0RTR25JTU1fWG1FcUlKdUw4a0k2bGlnM1BUcnhVU3R1LVUxMEhSWVQ2R3BNQk5DWEZNSDBSVjhzbERqTXRobGJETHlIajhJRzR4Y3lOWDdQT2FrNlZFZTltcU9IbV96QVc5ang1QlQ3bng4REViOVpyZnFWc3JhOEtfRzlmOU5KbERqbEFVYWlmMkFlZ0lxU3VCQV9FMVZpV1VLVTNfX3VLRHF5TQ?oc=5",
+    "source": "ANI News",
+    "summary": "Rohit, Kohli's return headlines India's 2027 ODI World Cup preparations in New Zealand ANI News",
+    "time": "2026-11-03T15:34:00+00:00"
+   },
+   {
+    "title": "Deitz steps down as WI head coach; Coley takes interim charge",
+    "link": "https://www.cricinfo.com/ci/content/story/1561308.html?ex_cid=OTC-RSS",
     "source": "Cricket news from Cricinfo.com",
-    "summary": "Four days after playing a high-scoring T20I at Eden Park, the two teams are back here for the ODIs, but the conditions could be a lot different",
-    "time": "2026-11-03T09:57:06+00:00"
+    "summary": "During Deitz's tenure, West Indies reached the semi-finals of consecutive Women's T20 World Cups in 2024 and 2026",
+    "time": "2026-11-03T15:19:37+00:00"
    },
    {
-    "title": "India keep CWC27 goals in mind ahead of New Zealand series - ICC",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRWFrNzJKLUV2VUthT0VvdEhBek5oQUZHTFJDLXhPMHZxMC1BWXl1bFdpMWhqQTV0SmxxZmU3d3FYZFF6dlFpeHVsc0ZpcnZGeWhFdUFIelpVQUdIRDVqSTlpYjdGaFZwQXl0cElnb2N4N3Uyd1g1OG1MS3A2ZmcyWEJ4QVRhWFY2TG4tX0V1X2RuQXgyR3JQTlhYb01idHptR2ozcXVJbmo4OUs4MktuT0JfMlFURWptS0I3bm44eDJENi05VzE3UmFR?oc=5",
-    "source": "ICC",
-    "summary": "India keep CWC27 goals in mind ahead of New Zealand series ICC",
-    "time": "2026-11-03T09:30:17+00:00"
+    "title": "Eden Park, Auckland pitch report, ODI records and average scores ahead of New Zealand vs. India 1st match - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzlOY2FMbzNCR3c2cmVMT1lKcVZVMUZSR3VReTRXY01iRHdQRGU3SmtSc0ZTTkhOcXMwc0xjTU0tZE91NkVfbmxOaldwWmtNNXBqYTVJb201RmRnMDR6b1BMZXpVVWFuLUtnZWtIMlJUMXNWd0hMYWlJVlQyelpvbnE2RVJaRHM?oc=5",
+    "source": "Yahoo Sports",
+    "summary": "Eden Park, Auckland pitch report, ODI records and average scores ahead of New Zealand vs. India 1st match Yahoo Sports",
+    "time": "2026-11-03T15:03:39+00:00"
    },
    {
-    "title": "Cricket World Cup: India vs Pakistan gets more ticket requests than final - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjVwSW5sb2x6WnlyV0VzVW9EM2IwQUN6WFg5eEFXYmQ2anBORjF2VVVYd3ZFTnVhM2QwOXRRcVVyeDZVUlVMRUJwQmlFZllPTWJ2QUhIVEt6UU02aFlOXzR6QjdBRGpnODY5WG8xd2VfVWdPQ2tMRzQ1SndON0xfYi1uWDFsVUZZeGVEaGFBZ3BoWWVCWFZOM1JWMlZHdWZGellkSnQ0UmtQMU9UVU43V3FlZ0ZyZ9IBuwFBVV95cUxOME9iaUNzdDRSblJ4OFpCU3plRThKRnpkOFBhelNJQk9kdC15RzdxTGNnaWdJdjR3MlNtWGhwT2tHTy1jdlNqM0RucTEyY0ExTXIxLWUxb2dIMDk0dy1WZWFxdktFbVpmUU1WekZXVjloZVdKUG1HWl9xTUh6VDRlSkVOTDVZWHltcHFfejdVQy11eGRiLVlqMDJGY2ZjcVRrSHl5WlItLUFxTHZwT19IMi05ZS05QVVMdElJ?oc=5",
-    "source": "Al Jazeera",
-    "summary": "Cricket World Cup: India vs Pakistan gets more ticket requests than final Al Jazeera",
-    "time": "2026-11-03T09:13:04+00:00"
+    "title": "NCL round-up: Chattogram win a thriller; Khulna consolidate top spot",
+    "link": "https://www.cricinfo.com/ci/content/story/1561311.html?ex_cid=OTC-RSS",
+    "source": "Cricket news from Cricinfo.com",
+    "summary": "Defending champions Rangpur, meanwhile, picked up their first win of the season",
+    "time": "2026-11-03T14:50:51+00:00"
    },
    {
-    "title": "India vs New Zealand 1st ODI Live Streaming: When and where to watch, toss time, pitch report and TV channel details - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQdHNPcU13RWNYRG5EZWVkVklTTG9vYWNuU2xBYWFIUGdQVHNTYVdMUlh2Ynl6SzVRRlVMUGVFZHV1dUZZUXdwZGlNVldRVzJLcEFqNnROY0pvbFlaN1JoVUh0eDhRZE9qM3FJNG9RLWREUkV5T1lfZ0RhaF9nYWt4WjY4RUhieWRnem9GX0d1c2VYbjczQ1pVT3JkNFFRWjlPcXBRbTBBZGFRMnRqY2E2cHBFZHFkeWowWlpQUjVQSEV1emdnQXJ5dkxWdlhRb1k5X0xWZjRlUGpHaG50SGkxaHB4RkVPaFNvMWx0Ry1CejROVW1FZnFLY01CMFJEb2hnZGRLalRMWjBaWW40TnE4X1h3VnNsejJPZkxBQ3lDSmNRWFpZVnN3MVF4bkFYVTB4WF9wMmFR?oc=5",
-    "source": "The Times of India",
-    "summary": "India vs New Zealand 1st ODI Live Streaming: When and where to watch, toss time, pitch report and TV channel details The Times of India",
-    "time": "2026-11-03T09:12:00+00:00"
+    "title": "New Zealand vs India 1st ODI prediction, lineups and Eden Park pitch report — who will win? - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yN2ltZEJicEd5bW1NSEVBU0ppLWF2UXN2ZGw4VXRCNFlEc1hzckFUQmY5YWEwR2xsUWJzeVVlY0JMRFFiNmJ3VWJBVUk5RWxPVkY1MDEtR1hwWDRoY0pUdmc1SmJHdkZCWmp6eXBBY0VpemwzazFYVVhOWEpEQQ?oc=5",
+    "source": "Yahoo Sports",
+    "summary": "New Zealand vs India 1st ODI prediction, lineups and Eden Park pitch report — who will win? Yahoo Sports",
+    "time": "2026-11-03T12:16:42+00:00"
    },
    {
-    "title": "How South Africa beating Australia enhances India’s WTC final prospects - The Indian Express",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnJtTWljSGJid1NyRVY4amo1VW1VRF9zSnk5OGVLNFJuZXhGaW1lSXBubUo5QzU1OUNKcjIwRzZZUGQ0SEVQWUtFdmwwLUF1X2xqa2ZqYlRGWWhvV0hySlVraTFLQVVFZncxcTBycXl3UzRIeTFFSEdXSHJVdUg2U0tBYXV6eWphSXhuV1A1V3NvZnFoSS1PZkkxa3hIajQwWVR3YUhpenZYekthMlM3WUFlU1czUF9w0gG_AUFVX3lxTFBwWDdLZlN5SFdLVWhOVm5PNlVrbHNmMk1HTm42N3VjX2tBVWdKdnNkeGV2TnVjb0l6ZTh0eU5aUC02Q0twcGRrUjZJRDRCY3BkRml5cG1kb3VNRzJsa1hWbHVQZ1pVY2J4MlNRU3haODF4ZG9ZMnhBNXZoeFdTcTB0Rkw4SVJvSWwzY0lxdU5uWE8yUWNFSEVkb1Q1TnRDN1VwWDdyQnVLWmE4S3k4UFcyclc4T0p6R0tXMlliVkU4?oc=5",
+    "title": "Prema Rawat registers fastest fifty in women's T20s",
+    "link": "https://www.cricinfo.com/ci/content/story/1561285.html?ex_cid=OTC-RSS",
+    "source": "Cricket news from Cricinfo.com",
+    "summary": "Batting at No. 4 against Hyderabad, Rawat struck six boundaries and four sixes to lift her team to 187 for 2",
+    "time": "2026-11-03T11:56:36+00:00"
+   },
+   {
+    "title": "T20 cricket: Three things that can bring bowlers back into the game | Cricket - Hindustan Times",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbTh6NXB4azN2OWRESnNSZGdaNWo4c0ZaZU5Oc0pwU3k0dWxkUUZYSjRTTzd1TmlydHpDSC1HVXhvRVk5YmI1XzZMX2xKU0NoRG1lRmdEVm1ZNGJnSDhlMm52VlktRlM2MkJmOWVyZW1oTUtUaDdfWlRSdy1zSVhtZ09xRi1tU1M5ZjBISWV3Y3NBN1FLWmx4T3gxRmtrVFlPVnpNYTdxX2RUemxlTGQ1cEE0NXh5dmdfbHBvZUVEQm00Wjgx0gHKAUFVX3lxTE0wbGlOS1JPd3VXNGgyODFfa0hMcEd5clFkcjhfQjJYLWozQjlQR0RvZ2Jnd1BLenVPVTVkSmFVdlI4TjU4ckc3anpZWEhLbGY0am9HaDhQTWFlY0dIXzlFVlo2TGdnSzdPRHNBdUdrSW9KRk14dWxGNnpNQXBlbmw4bTd0ZHp3UGVremNXbXNxYUF3S2hLS05jWmlwdm43RXlMUGlwSkhQemdHdXVmMmZBVlg2Sk93SEFwNy1QbGxxdDA4eW5nMG9SUlE?oc=5",
+    "source": "Hindustan Times",
+    "summary": "T20 cricket: Three things that can bring bowlers back into the game | Cricket Hindustan Times",
+    "time": "2026-11-03T11:49:00+00:00"
+   },
+   {
+    "title": "India vs New Zealand 1st ODI Live Streaming: When, where to watch IND vs NZ match? - The Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmY2clBVWjFBbG04Z2FhYkkzNDBiQ1ZvUUZ4c093S3o4YUo3VVZ5MWJPdS1FU0VpM251YjFHVVZzUVRwbDJvZ1RlWmxxZnpHdGY2ZFhoN1B3U3ZzaGJZRFk4WHVRSWluNTNYYk1yNVZncmtkOWlxUVBnbDJBSDhUWXMzVVNyMDZZem1WcTJESk9aaGwwWHRxTW5nY2xDbjFHOFo0ck03SGZYU1ZiN0xSQ0NiekRvOFh6ODhaNTlB0gHEAUFVX3lxTE5QV1ZVQnN5UlhFT3AtT29YUTQtaUktbnBxOURFOEdfLXc1S0lOTkd1SHlJaUVBNU5qbTlMSmRuV3VRUlZuUlBTMHppZkJ2eXgtRnNQeURqTVZSb01BZEREQ1I3aEl6U0UwMTFGMzlFeGotMVMyVjFhd2VDOHZUWUhtMHFQNlpvNlptSEt1NTEtQzBWT2dDc3lYWjFsbkxwQUNNMjZMbzc3LThpekdveW9EOFpNb2FESkFHSWVaWTVYTkdsVmw?oc=5",
     "source": "The Indian Express",
-    "summary": "How South Africa beating Australia enhances India’s WTC final prospects The Indian Express",
-    "time": "2026-11-03T09:01:04+00:00"
+    "summary": "India vs New Zealand 1st ODI Live Streaming: When, where to watch IND vs NZ match? The Indian Express",
+    "time": "2026-11-03T11:26:30+00:00"
    },
    {
-    "title": "Gill would have preferred ODIs before T20Is on New Zealand tour",
-    "link": "https://www.cricinfo.com/ci/content/story/1561177.html?ex_cid=OTC-RSS",
+    "title": "Harmer calls on 'genius' Carl Crowe to boost English spin prowess",
+    "link": "https://www.cricinfo.com/ci/content/story/1561282.html?ex_cid=OTC-RSS",
     "source": "Cricket news from Cricinfo.com",
-    "summary": "India captain Shubman Gill says playing the ODIs at the start would have given them the chance to play a full-strength squad to prepare for the World Cup",
-    "time": "2026-11-03T08:56:30+00:00"
+    "summary": "South Africa and Essex spinner believes Jack Leach remains England's best bet for Test role",
+    "time": "2026-11-03T11:14:16+00:00"
    },
    {
-    "title": "Samad to lead Pakistan Shaheens in Rising Stars Asia Cup",
-    "link": "https://www.cricinfo.com/ci/content/story/1561195.html?ex_cid=OTC-RSS",
-    "source": "Cricket news from Cricinfo.com",
-    "summary": "The 15-member squad features players with international exposure, including Hasan Nawaz, Mohammad Hasnain and Maaz Sadaqat",
-    "time": "2026-11-03T08:53:35+00:00"
-   },
-   {
-    "title": "Beyond cricket: can non-cricket sporting leagues add value to platforms' entertainment mix? - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVzE5SFNuTlVUaDByejRocUYtOFoyRlFnUWhBek1FWlZZaEJaNU5LWF9XMUUtTUJ0SjNYUlFJckJVaWFpUUdEcU9JS0dEX2lMNmEwX090Qm5CRUFWQkRoZjk1ak5iNGg1VW1qblI0NUUxUGdwS29Id1BNQ19XYWhXVk53UTMyWWxlM20xRWNWV0NGTW9nWFZvWUwxb2JsTjV4N2Z1ZU92RUU0cUxHX1NFX1R5MFhQTzZvbDVGZGV0NWR3WDVEeFY1WVhVN2JyTkNNWG85S2RMQXNtTk9hMFE?oc=5",
-    "source": "TradingView",
-    "summary": "Beyond cricket: can non-cricket sporting leagues add value to platforms' entertainment mix? TradingView",
-    "time": "2026-11-03T08:48:00+00:00"
-   },
-   {
-    "title": "India tour of New Zealand: New Zealand vs India first ODI in Auckland preview - The Hindu",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbThCcUFncFRHNjlucTA2QkI4U0lPb0Y4cGxzal9TR0YxOWxuQVk5U2lUbW12QS1HZUwtR1dlSGZhWl83UUFERk5YQzhJOFdlNXpsaURtQlktMjlzUEswSmlvTVNjZXg4cmxmNjE3M3V3U3QyUmc2cnNlVGxLVGttVXNmekNyU29ZY2VLREZOMDRYZ2ZjT3RaeXhLck9ob29YcV8xeURLODExd1BNSGfSAbQBQVVfeXFMT2xseXR0aFRScGRqNFoyNktUY1N6aTBCMGZmVDJuWVFMMjZsRk5RWF8zbWlPc3czbDQ1WHozY3FDeG9QSVdCVUhqMjZJUHViU1VIT1NXNWtjN2pLaHRwS1hmZkZCeHVjMnRVMmhWamZEWFpCRVBFY1ZuMHVtWWFoanNBT2NDVjFZa3JWUFRxM1BCaDdUV3pDb25KWjIwaXlmNkJDT09Id1I2d2tRWDhoVklxWm1F?oc=5",
-    "source": "The Hindu",
-    "summary": "India tour of New Zealand: New Zealand vs India first ODI in Auckland preview The Hindu",
-    "time": "2026-11-03T08:41:48+00:00"
-   },
-   {
-    "title": "Jaiswal 155*, Rathod 100* the highlights for India A in draw",
-    "link": "https://www.cricinfo.com/ci/content/story/1561174.html?ex_cid=OTC-RSS",
-    "source": "Cricket news from Cricinfo.com",
-    "summary": "The duo put on an unbroken 247-run partnership after India A lost Sai Sudharsan and Padikkal early on the fourth day",
-    "time": "2026-11-03T08:23:47+00:00"
-   },
-   {
-    "title": "India spinner earns major rankings boost after Zimbabwe series - ICC",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGtaRjhfc05HUVJsbzh2eFd0eU4wYld6TFUwdlRkR2J6TWF2N0lBTjJURDBjS0FRenY2aUM1b19IMWdXNHlNcDEyREhqLWdKbGVvanlzUTA0N1JGVFE4SXRrUWRUcm5kVnF1YUw4QzRMOGUzVFR2MksySHYxeUV4V3NObzhIakJHMlVzOVBvaVBsV2N1NFhQOEduVQ?oc=5",
-    "source": "ICC",
-    "summary": "India spinner earns major rankings boost after Zimbabwe series ICC",
-    "time": "2026-11-03T08:10:38+00:00"
-   },
-   {
-    "title": "Eden Park: The dos and don'ts at a weirdly-shaped cricket ground - Cricinfo",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGJJcVlqZmFLXzE3OVptZXNQQUFpZjlWRWRDZDJtSmNFREZhMTZnMFVDNHJEYXFJS2VNcU5kMHhzWDN3QklEMzIzRERDZl9OYUZvSFlvM3Q4VlRJLTFKSWZNbW1YNkllODRFbmxBNm11VEZpLUJnUkdNTnNCTEtRaXVjOU9tbC1RSkZva3dHSzB4NVBNYUxlbHFieF8za2FRcnfSAbMBQVVfeXFMT3hpTjFfenlrbjVfRlBVUjhobTBVbXdieXdIZm82NHZ6NUJ1cDRpMVFjYzdRZXRtM195b1pGOU5CSHhJR0lLbjJWd2N1aEpOR0MzQUdEYmllai1DNVM4d1E2bUNvVldNZVBDaC1PRDN1LUN4SW94c09TazVvS0xjUGx6dW1XeWxfNk9pZy1qRmFDZlhQNzAyWXgwTWVoQmZRV3E2V3NfWlFwejhYWXdwYUIzaE0?oc=5",
-    "source": "Cricinfo",
-    "summary": "Eden Park: The dos and don'ts at a weirdly-shaped cricket ground Cricinfo",
-    "time": "2026-11-03T07:56:36+00:00"
-   },
-   {
-    "title": "India vs New Zealand | Santner wary of 'Ro-Ko' threat, still determined to stop free flow of runs from the duo's willow - Deccan Herald",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOM3FhTDdTd0dXQUJLektxVTBJLUJncjMtelZFY1pyTlhhVHhtTU5nUVN5QmhjM2JMVGU2alVkNEtWeS1kSmF3OTlDTVZjVjZNWE5TM1M2dDc0c1FwNjgxTFdHZUlWYkRhTEdrWWNoRkRYd0ttMXk3OHkxWXpiZ0tVVngyMVpXRERkSjJvNlEwbXRWNTdMNHF3aFNmam9MZnhBWjFfa1ZkX2lHWElpdmJvekNPSGh2SXlvT3YtQTFvUFJQTExMRFpWZlpZTnNIc193T3dWUndRcjJCd1VrdzV5ckYxdVZSWjNXMW1DOEVKQ3BWY0hON3g1dA?oc=5",
-    "source": "Deccan Herald",
-    "summary": "India vs New Zealand | Santner wary of 'Ro-Ko' threat, still determined to stop free flow of runs from the duo's willow Deccan Herald",
-    "time": "2026-11-03T07:55:30+00:00"
-   },
-   {
-    "title": "Santner: India series 'taxing', players 'jarred' ahead of ODIs - Rediff",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNM2o3eE0tdW9obmtNRnFKMlVBUkxoN2pOUmU4NEljckp3VHY2eXJYZVRSRzhGR0dZcGVPYUt6c3B5aGFXNEZZNWRqdUcwS1g4WHFOUTVOSHVSUGZGT05EZGdTeVBZbklBandpYld3a0FSN3NLQlU5NHRUUGM3Qks5UVJRTUhtcWlPbDhrTXFCaGh3QmZLaVNieFdNQ1JXWFFZWkN0REVURE5yMktOZHNyaEZSdXVYVkNKLU1sSXlPUkVieEMyc2k0T1ByLWtNZUVEZ3lrNW5iT3RCbW5kRTg5OEdUZjNpSml3Q1hVSGtvZWZCei1jU0JISmVB0gH8AUFVX3lxTE5fT3pjNk5QajNWVEJuaHgwNi0wOVd3OUNzRVA0NC1yQkUtU2UxN3hQYWxhTXBqZUlRYzFkak01S0o5Q25XT294d0dkR2x4UTlBWm9KOGVkSmMtS0RNZmlyWEpNVTVIREtYZXJRaGZwY3M2dTJBaW1FUFhmc2wtOE5KQUgyN2F6S3d0dmd6T0F3Q3lTQUtpa1hJUWZkdFhIc0luR0ZPY0pMandHdXp3MUJ0NDNuMVpmNmpZckYtMG85YjZHNERPajBqc2l2MGhBbm5xMUtwVk1LWFhrcS0zeU5DNWtRc1VzZHN5MThuamtpcmE4Zjg2ZjUtb2x4eQ?oc=5",
+    "title": "Prema Rawat smashes fastest fifty in women's T20 cricket - Rediff",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSDhTOU1xVzNDREYtdkZybHhfSEFzQkV1Tmp2X2V3SmVHaGV1U1pNZlBOcGhva1BpSHp4NU5ERlZLUGwzRl9DOVJzUzAtWTE5am9ubHJ2Mk8xTS16MUNHN2k1Y2tKZkdGWGNpQ1Z5Y05peTRzTThtcXo4RjV2dm5PYl9KOXpsMGZ3QjNpS2xTYXBjbWlFSUhXME80a0owczFUcC03U2NlSjhTXzRrakdNYTBXdXd6aWl0Sk16T1FZYUN2VHUz0gHHAUFVX3lxTE9IVWpvSXJXaTNPODZpN1dVc09aYlI1ckJBVU5yX3pLQ0g4dDVaLVQyOUp2eDhCMGU5T2lZdGVGREVzUGFOY0ZKVEF5UzZlN1J5ZHd1Zk52cEZSSDhyWkZrSWVtSjFxNVpoOUs4aE92WmFSX25udkZzZ2VpcW5EWGNjY0RhWmFJeHY5ODNiMDNRemp5TnFBRTlSTkl0TVlGZktUQ3JnOG14MFdvTE81VkQ4VUpOdGJIbUpJcUtiOWNtdzN6RFJVOUU?oc=5",
     "source": "Rediff",
-    "summary": "Santner: India series 'taxing', players 'jarred' ahead of ODIs Rediff",
-    "time": "2026-11-03T07:26:04+00:00"
+    "summary": "Prema Rawat smashes fastest fifty in women's T20 cricket Rediff",
+    "time": "2026-11-03T11:01:30+00:00"
    },
    {
-    "title": "Cutting the angles: India's key to fielding success in Auckland - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWEhpMFJKMkJCcTZXcGp2akpLVTVKbmgyRzR0dTloeDRucmJ2ZGkzb3gtSUxEbS1kNTlfMnB0eWhlUjVOdldvTVh6YWRsWDg5OUtSSHJkNEZQVDJ3VXFzZW1WdkdCU1lianVwdW5aakluTU5vaEwwMzc0b1BGLUxuSTBSOGgtdjYwYU8xV1I4YmJCZlU1aU5HZU9vbHBPaEhCV01KNDlmM1lLTHBjWjBzZHk0bk9BVUM1S0s2MW5Od1NTMkhwYURtVm5nRWMySW5BelExeVlfR3lSZ1BKeWRSQTNMZVVlWTZhLWJDVXhZVkTSAfYBQVVfeXFMTUpuRldheFpVUWdYblNnWVU3WURBYXlUN0gyVHp1ZDRtMGdFQTdLVGJPYWRRWTZWTG9MY3h5UjJobWtXTEZKSktNd2N4MHJOVHBzSG1uelc2R0g2dUh4SlFsNXBkOU5EdG92VWg0dlc5OVNBXy1FMlFwbkpiMlZUMFRpS2tVSVlaakwwcU1waTMwaEpVR29PWjRvUlhjVnB6SnQ2SkdEbUp2blhNek8tMHVyZXoyYjFaZEx4aXFSQWgtb2xsZm5Fb1JtblZsMzlSZzBTcXd0WWUxS0NnM201YzVpQmF2SFdxMl9zcFYxWThYR3g3bG1B?oc=5",
+    "title": "India vs New Zealand 1st ODI Playing 11: Rohit-Kohli return, but will Kuldeep get a game? - The Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWl5MHJwTDAzTHllWjZhUlF4elpOano5NklLT09sZHZGSFc3LUJ5Rnc4OHZSZENJdzRsUm1UZjhRZklLb1F4XzRTVXRIcktJQVM4aXpEaXd3bS1Ea2JTbEhDQUE2NjM2OHdMM1p3ck0tQ2NrYUwxTVllOFl2eUJxaW5DLUlVRHJjLUNBVVB5XzB6MVJndTRwd3d0elVyYkpIV25CT0tCSmZXeWZZb2RSaFB1d25HMFlyTzMzVnhWc2J0bVBMV2hV0gHOAUFVX3lxTE5WMURpY0xKVDA2ckZIeDJMS2g4MmpnVUtNcE9OSmhQM0E5UU9tLXZqbHFHaUhoZWR0Wm1MemdVY1dTdzlzRV9NU00zelJpRkJYOGRqR2UwNzZ3MmFidXY4UHMwZkVHc3V6UEZHQkpuOFZJMFd1SWZ6UzYzclZVWVpRZ2NSNkFRTW1IOHg0VUxmVkxhWDVsbjlGTjJaTzNQS3NOQ0ZpdUJPaEE0ZFBEY3FjZDJaWS1uZThYR0RPSWFqazhYeTNHQVZiQWoxRTVB?oc=5",
+    "source": "The Indian Express",
+    "summary": "India vs New Zealand 1st ODI Playing 11: Rohit-Kohli return, but will Kuldeep get a game? The Indian Express",
+    "time": "2026-11-03T10:46:03+00:00"
+   },
+   {
+    "title": "IND vs NZ 1st ODI Weather: Will rain interrupt India vs New Zealand Auckland match? - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNb3pZcHR1VjhIZjFiTWxiVndCVi1fRU1zMTBHUUtma2lCWEx5LXdUZkxLVnVXQm0yZmlNS2RCTUN5X2x2OWdfUDBLNGR0bUoxd3V1bDQxSnNQMWVGcWtqd2R6Vy12WUtxZGc1dWF3ZjhlRlBsVzVYWHF1V0o5aFJfbllYekVrMGg4QTBsVks0TEx6UVF0WGp2X2FrVF9TUDlNTHZTRS1oVVdOT1JSMkJaZTc3YkNJS09SZHZZd0ZUOV9rbWYzSWlmMjAzRjBOeV9uMmhGRW81eFp2ZG9WZjJEOUY3ME5hZzBRRWhlWjBCV2VKSjJxa0NxQ0VHdXdXUXRtTElBelV2TGR1MVXSAZACQVVfeXFMT0xWeUdDWGpZcXU1TGtNb2tSaHVMSFNmdHloXzFNVzVha3pkVER0dW5HN2ktVmxnZm1ZQjZQNjg4ME5RSFJtWkxNRnFDZmR0RzFXaFQwTEN5bDREbm5vWjdCZVBxS1A1bGQzZDFTVmt2LXhzTi1BZ3FlZXE3RFltTGVFNno5c3JwTVFucnV5ZjFFVWZUT096VWVieUE1ZzdQa3ozbTNiMVlKLXJGZF9ldFlBbXBtaFAyclhtTEdPRzB1OF9tdlVUMFNCZkpVSllFUEhDUldFSzN4bkpwLTNJWENKaWY5aEx0RzVUb0hZVUJqdlNYYmtYRUV1RlBpQTlOcEZBNWZSY2RpTnJaMHpKeXc?oc=5",
     "source": "The Times of India",
-    "summary": "Cutting the angles: India's key to fielding success in Auckland The Times of India",
-    "time": "2026-11-03T07:25:00+00:00"
+    "summary": "IND vs NZ 1st ODI Weather: Will rain interrupt India vs New Zealand Auckland match? The Times of India",
+    "time": "2026-11-03T10:16:00+00:00"
    }
   ],
   "Football": [
    {
-    "title": "West Ham sack head coach Nuno Espirito Santo",
+    "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
+    "time": "2026-11-03T16:54:35+00:00"
+   },
+   {
+    "title": "How sporting events are being impacted by Middle East conflict",
+    "link": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
+    "time": "2026-11-03T16:01:24+00:00"
+   },
+   {
+    "title": "Lionesses to face France and Portugal in Nations League",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
+    "time": "2026-11-03T15:39:21+00:00"
+   },
+   {
+    "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
+    "time": "2026-11-03T15:07:49+00:00"
+   },
+   {
+    "title": "Palace launch Mateta red card appeal",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Crystal Palace are appealing against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
+    "time": "2026-11-03T14:54:55+00:00"
+   },
+   {
+    "title": "West Ham approach Parker after sacking boss Nuno",
     "link": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport",
-    "summary": "West Ham United sack head coach Nuno Espirito Santo after their disappointing start to the Championship season.",
-    "time": "2026-11-03T09:29:35+00:00"
+    "summary": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
+    "time": "2026-11-03T12:42:04+00:00"
+   },
+   {
+    "title": "Shaw among big names to miss out on FifPro World XI",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.",
+    "time": "2026-11-03T12:28:26+00:00"
+   },
+   {
+    "title": "McTominay returns as Penrice earns first Scotland call",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.",
+    "time": "2026-11-03T11:29:06+00:00"
    },
    {
     "title": "Boy arrested following Bradley Lowery taunt",
@@ -555,7 +604,7 @@
     "title": "Tenerife striker De Miguel dies after on-field collision",
     "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport",
-    "summary": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match.",
+    "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
     "time": "2026-11-03T09:09:18+00:00"
    },
    {
@@ -592,58 +641,16 @@
     "source": "BBC Sport",
     "summary": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat.",
     "time": "2026-11-02T23:53:46+00:00"
-   },
-   {
-    "title": "From nightmare debut season to Everton hero - Barry's revival",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.",
-    "time": "2026-11-02T23:28:17+00:00"
-   },
-   {
-    "title": "Grealish can still have Everton future - Moyes",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.",
-    "time": "2026-11-02T23:14:27+00:00"
-   },
-   {
-    "title": "Who has made Troy's Premier League team of the week?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8dx37n11kv2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-    "time": "2026-11-02T23:09:36+00:00"
-   },
-   {
-    "title": "Jaissle unhappy with 'clear foul' before Barry goal",
-    "link": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.",
-    "time": "2026-11-02T23:01:13+00:00"
-   },
-   {
-    "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
-    "link": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action.",
-    "time": "2026-11-02T22:54:52+00:00"
-   },
-   {
-    "title": "Everton hold off Newcastle to move into seventh",
-    "link": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
-    "time": "2026-11-02T22:44:30+00:00"
-   },
-   {
-    "title": "Arsenal want Kroupi in January - Tuesday's gossip",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmy83eppjzp4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Arsenal want to boost their striking options with Bournemouth's Eli Junior Kroupi, Manchester United scout Borussia Dortmund quartet, plus more.",
-    "time": "2026-11-02T22:24:56+00:00"
    }
   ],
   "Formula 1": [
+   {
+    "title": "How sporting events are being impacted by Middle East conflict",
+    "link": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
+    "time": "2026-11-03T16:01:24+00:00"
+   },
    {
     "title": "Do Ferrari need rules of engagement? F1 Q&A",
     "link": "https://www.bbc.co.uk/sport/formula1/articles/c862y1en5vrzo?at_medium=RSS&at_campaign=rss",
@@ -741,120 +748,113 @@
     "source": "BBC Sport",
     "summary": "Kimi Antonelli has been crowned Formula 1 world champion - how well do you know the Mercedes driver?",
     "time": "2026-11-01T22:25:21+00:00"
-   },
-   {
-    "title": "Antonelli - the boy 'born in a garage' who became world champion",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
-    "time": "2026-11-01T22:25:01+00:00"
    }
   ],
   "MotoGP": [
    {
-    "title": "Alex Marquez undergoes successful surgery in Madrid - motogp.com",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUWJwY1lzbU5yUDI1WHhkanZvN0V3TUx1ZEdESHRjVndvWEJ2RkpDeTZBQnNQdzVEZlVlVGwtRF9FcjEwYmVRREEtd3p0RUhXdGtpbHYyeGd6enRReVY2bDFXOG5xWlRoeVFwZ2NKTkxQdC01WWlfQ3lSdzduZGhRbm5ISlE0Szh0NUVEVm1pR0E1blA1ak5wRXRQMndOR0JBZ3g4?oc=5",
-    "source": "motogp.com",
-    "summary": "Alex Marquez undergoes successful surgery in Madrid motogp.com",
-    "time": "2026-11-03T09:38:06+00:00"
+    "title": "Francesco Bagnaia counting down days until end of Ducati MotoGP tenure - Motorsport.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2VaTDVPMUU5bnp3Y1gyZXR2TWF3U2ExSkN3OG5DbUxsbjZoY2Y5NWJQZlgzUDZCWVV6dW5pY3d1eFlDTVF0YkhmZm1BZUJzV1cwalJBaVFGXzQtRThsUjZ4bTZuTXR5LXZ4SW5ObjdhWmhCQ0xBRE04R3RsOGs1N2ZneURVUlF5NXBYTWJjT2Y1a1Z1cHdwM3V1NHJzLVh0dlZ1a3NFQlhIM0t0bVBSWGVYX2NhRjk1dXc?oc=5",
+    "source": "Motorsport.com",
+    "summary": "Francesco Bagnaia counting down days until end of Ducati MotoGP tenure Motorsport.com",
+    "time": "2026-11-03T17:36:37+00:00"
    },
    {
-    "title": "Qatar Grand Prix thrown into chaos as stars unite against race - GPblog",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZDBGVkdnUGJvOEJmbHFEN1VIZFZMWU00YlFjeVZ3d2Z1cWlNNGgwdlpheEJHS01iZVZIX1VIM1duN3kwZzZKU1I4bXRCcVhHOUU3bjUyaS1nN21vTmxnVXZNWFVrM1J5NUJ6RGFMVkpBV1FEZWdkOS0wbUVMZHY2ME1JUnZUZUhsU25SOGw3QQ?oc=5",
-    "source": "GPblog",
-    "summary": "Qatar Grand Prix thrown into chaos as stars unite against race GPblog",
-    "time": "2026-11-03T09:25:17+00:00"
+    "title": "MotoGP, Tardozzi: “Marc Marquez isn’t just about his talent—he has the sharpest mind of them all.” - GPOne.com",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0pYaGVwZzlsRWxMdUdFSmxNc2huQWNxaGdKSkNqbjNrZUthTXd5TDZYVnZ0SFEyNEdaX1lqVnY3bkx1RWpUb0hxbU5HeFp2cDBfOGdLSmgyUTNtM0dtTXB2YW5UUjdfSElZRDZuUnJFQlhTQTNZdDd5eVpBTHBqWDlheHM2dHljS1FyOXVFckdsUUgxYWtvR0pydGVrUXl3TkZFbVladG1sTDRvcHVDNmJtZFNtZUhZeGNMZ0VpM0ctS1poMm5DVGVVQURxZw?oc=5",
+    "source": "GPOne.com",
+    "summary": "MotoGP, Tardozzi: “Marc Marquez isn’t just about his talent—he has the sharpest mind of them all.” GPOne.com",
+    "time": "2026-11-03T17:12:00+00:00"
    },
    {
-    "title": "Every MotoGP factory has 'confirmed' if they'll go to Qatar amid Yamaha boycott - MotoGP News",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWDBmdk93R1V5Z1JNQU1QUHZuRzlUOUt2V1FkdDYtdW9nTHI2bVhIZ1ViUkc4RW5pUnYxMEN5Zmdtd21FbEo0Slc2dmlwTExvVEpiZzI4NnZrb3FpSU8wM0JmdkpxVE1TSEJrUE9CeXVFM3NfdDhNekhEUnBFX0NnSUFvdGJsUUtNWDk0WWNSeWY5OGJ0SUpMZV9OT3FFdGMzRlNoS2tGLWdlY2ZxQ19vNkg4bFJFQjJob3psQTlxTFJEWHFwa3ZFQkJxWS1jNEU?oc=5",
-    "source": "MotoGP News",
-    "summary": "Every MotoGP factory has 'confirmed' if they'll go to Qatar amid Yamaha boycott MotoGP News",
-    "time": "2026-11-03T09:00:00+00:00"
-   },
-   {
-    "title": "Marc Marquez ‘most important rider ever’, Ducati says as title chance looms - Crash.net",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPajEzOGphMUJrenN5ZzdKa1RiRlFYZGhWMFhDWUVJU0ptaWZKb0NmZ210UUgzdzYzclQ4bnFLZ21oTmxwaFcxLV9PU0hKUEpiWlNsTnRGNFB3cUUzc2toQ3B5VlhBX3pvZHl1OG9DUkVTOUNQdFJJMExMQTh4YkYyb3k3OGZyYmpuUllTVG1HQjFRY3hibUN0b215Y2Y4Mlp4N1A0alhCaHVUMDQ5SW1RV05oZw?oc=5",
+    "title": "Joan Mir to miss Qatar MotoGP as Honda calls on WorldSBK rider to fill in - Crash.net",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWE3Nm5iTEw0WWtFQWo4ZzBfN0tTUmZKR1B4WU1ieGNPSm9vVkgxck14YVlDZ2cyMG1VZE9vYUx0VXF0SnBFMmdKOFFzUG9UTWE5QnR1Ni1KQ0R5bVJiUFdZU1p6aWh6YXE4ZjBjQU53LWxwTGFLbWs0UWY3VUtXbXo3TGhvNWczc19rRDl1bl82d2tpcTU3ZWhyVGFSa3BOUWJ1Tw?oc=5",
     "source": "Crash.net",
-    "summary": "Marc Marquez ‘most important rider ever’, Ducati says as title chance looms Crash.net",
-    "time": "2026-11-03T08:59:05+00:00"
+    "summary": "Joan Mir to miss Qatar MotoGP as Honda calls on WorldSBK rider to fill in Crash.net",
+    "time": "2026-11-03T16:58:28+00:00"
    },
    {
-    "title": "Qatar MotoGP: the £2 billion rebellion - Motor Sport Magazine",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOemhPNTNhdHM4eVV3X1QyZi13amRsRU1BOTBkOFIwd3VvbVI2Uy0zRGk0N2VwOGVmb0g1SWY0TzJ0X21QOHk0MzFRUUM4ejNGS0F6bExXTGM0X1BmVGJ5bVl5d1FzM0ltTF9wYVRYRlNNYktRN3hCaFR2OVpGRl9rSmRPTl9adk1ESnp6cmgzZlJtZm1uUzQzbnNmSUMyY0ZmTlE?oc=5",
-    "source": "Motor Sport Magazine",
-    "summary": "Qatar MotoGP: the £2 billion rebellion Motor Sport Magazine",
-    "time": "2026-11-03T08:30:34+00:00"
-   },
-   {
-    "title": "SLOWMOTION: The art of speed at Sepang - motogp.com",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeHZSUHdTMmo4akgzNmtfTVRYYnhhNlJYd3NQWC0xWmZoOTJfSU1HMWxZT3NNb09rUUsySTNxbW9BTTdlalJwTk1UR2pfSlpUTFJwUUtlTk9BaDBXZGVGNVdWMkJCQ1hPVmVBZ1pWa2ZSVFAxTWNtb2dZYU9rNEtGT2Q1dXZKQkpNMFdENy1kMDJoMU1LbXI1THFHNjhiTzVuNTdiaXhKdlFOdw?oc=5",
-    "source": "motogp.com",
-    "summary": "SLOWMOTION: The art of speed at Sepang motogp.com",
-    "time": "2026-11-03T08:30:00+00:00"
-   },
-   {
-    "title": "Valentino Rossi on F1 champion Antonelli: “Then I’m not worried” - SPEEDWEEK.com",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMk4tS19vcmgzVFRYbnlud3BFSUU0d1E3OXI2dk5Mek9RWWp5bmlabTJ5cGlUWG40TUc4YnR5NDJnZ3JEMVBrTGxHdkFPRjJneDRjc3BleG1yM3BQejRLNVpSY2xhMUozZjVpcVRFQ0JpSWh4RDRXWDB0SXhqVFVvUk5sY2w?oc=5",
-    "source": "SPEEDWEEK.com",
-    "summary": "Valentino Rossi on F1 champion Antonelli: “Then I’m not worried” SPEEDWEEK.com",
-    "time": "2026-11-03T08:15:00+00:00"
-   },
-   {
-    "title": "Yamaha pulls out of Qatar MotoGP over Middle East crisis | Hindustan Times - Hindustan Times",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbU5jR0c4MFRaenZqaktudVppVzg2R3NzaUd0bnpvdHQzaVBKYmZwbXFNVzhvVnpzRzZYbTV3N1JxWDVBb3VTd1JPZkp2MmpVRmNobUg0ZC1HVXFSWW4teV9QTW9CX1U0RjVNNEc5ZENiWnpOMGcyZG1KM2hBZVY2YlU5bDZLZ0wzWF9MZWdsZ2Z3TGxmV0N1Ny14VnFVdG9HOE4tYXZKWE40ekVPeUJ5cUdHM2xvdVQ20gG-AUFVX3lxTE1IcnVkV3EtYlQzVW9VMklqM283OGpfTkIwblpaTWlRQkQwUGw5OXN5cVdlWnJ1STZneE1nUXJHTVE4eTFsWWozNTBvN1NLVGdEUWYxTXRVX1dYeVdUVnlmN0V4NFRyVDdzeWZubmZPR2x0SDlFbHZ6Wi1aekRnenRvOVlFRUVhYUZHcGlwaWRtMmxlUlpnX3RQelR0ejlUTlBHN2Rub0V2cDBrajJvSE94YjRFRmp1eHpVcVFab0E?oc=5",
-    "source": "Hindustan Times",
-    "summary": "Yamaha pulls out of Qatar MotoGP over Middle East crisis | Hindustan Times Hindustan Times",
-    "time": "2026-11-03T06:08:58+00:00"
-   },
-   {
-    "title": "MotoGP 2027: The 850cc bikes are getting new brake calipers from Brembo - SPEEDWEEK.com",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNHdqQ3o4SkI1bnVUTkZyaXY2aEV4TWw3cWFtaHIwZjQ4eENVR0RwaXl4ZVdETTdfMUQxMkd4YVkzRjF1aE41ZnAzdjRCTGpoVThXSTZSbC1zUzVTU3Y1ZW14Rm5PdWxHbjlmWlBlSWhaTmQwRDRkazBfV2xWaFkxcA?oc=5",
-    "source": "SPEEDWEEK.com",
-    "summary": "MotoGP 2027: The 850cc bikes are getting new brake calipers from Brembo SPEEDWEEK.com",
-    "time": "2026-11-03T05:47:01+00:00"
-   },
-   {
-    "title": "Fantasy MotoGP: what'd be your ultimate 2027 bike and driver combo? - Top Gear",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmhEbndibndyMlFadUU0MDdFb2R4VHlvcXM2dHJpNWNJTmV5OEwtZFdEenVmaEVKTFU1dExWRjJyV3BWNk5yR0NRb19zTHdUd0R2Q2h4dGRJREZKYmEwOG93LWJkcHVEVDQ1UG9FbnJUTFA2VE85ZGgwYkhEdUJCWl95bmNfOVFjaXNJNUI0OVowdzNGZjhlZm1sR01KZDBudGpjUW5QSEp2MzNQ?oc=5",
-    "source": "Top Gear",
-    "summary": "Fantasy MotoGP: what'd be your ultimate 2027 bike and driver combo? Top Gear",
-    "time": "2026-11-03T05:01:56+00:00"
-   },
-   {
-    "title": "Valentino Rossi's team faces Qatar GP withdrawal amid growing safety fears - GPblog",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTQtbUVtUmZfTDhmZkpuMUNmY2Q5UWJfenVTM0J3NEJHVW9qNDRMZUFVWWlTcFpNSkNyc2JIMjJvWmxoeU1faGNyWFZxeUxXaHQ2OXRlT0dWRElPSDRFM1JQWGZhTVkxekV4RUdjbzU1Z0VzMklhYk1ycEdzd1h2Wm9jYkk1N0pNTnBmVVJheFFvZw?oc=5",
-    "source": "GPblog",
-    "summary": "Valentino Rossi's team faces Qatar GP withdrawal amid growing safety fears GPblog",
-    "time": "2026-11-03T03:58:08+00:00"
-   },
-   {
-    "title": "Results - www.motogp.com",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZakhZR21IWG9mN0kxTXhwQ1l6V0RKSTJlQUh3dkwwaFY1OC0yX1N3NTB5WWNkZER4bEhZS2c4NHVzZVhTUWZoOXdXeDJ4WHVaM08tR25uS1hqdG5GLWR5YjdPTUFvcjJEb3p2SE9fd1piX0RTUmUxT093?oc=5",
-    "source": "www.motogp.com",
-    "summary": "Results www.motogp.com",
-    "time": "2026-11-03T02:21:38+00:00"
-   },
-   {
-    "title": "Talking Points: \"I will fight until the end\" - www.motogp.com",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iVVJ3MVBkVWhJQWJVTm1sTW5hazYwcU1XU3FtNm9nMF9RemRCSnRUdzQ5eFJMNV9TWjl6STNteVBURXZnZDVDT1NaRGg5NlVvNXlrdGRhU2UyN09TNlE?oc=5",
-    "source": "www.motogp.com",
-    "summary": "Talking Points: \"I will fight until the end\" www.motogp.com",
-    "time": "2026-11-03T00:19:02+00:00"
-   },
-   {
-    "title": "Yamaha Pulls Out of Qatar MotoGP - Cycle News",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWxaWE1qZjJVM0xGNDBpTm5iczRjSTlxUXNoUUFKOTlheDltamRFWk9HVFNHVnNuZWZxQ1ZzSGUyNXBvYTlqQjZub0FScFlwNnZHUE5ob2ZrbFo5aktId2dXaFhuRlJRRmowSGQ0V21PTG5na09nc1lEUVNSQWNHcA?oc=5",
-    "source": "Cycle News",
-    "summary": "Yamaha Pulls Out of Qatar MotoGP Cycle News",
-    "time": "2026-11-02T22:55:21+00:00"
-   },
-   {
-    "title": "MotoGP faces Qatar showdown: Yamaha boycott, divided riders and Márquez's title chance - Grande Prêmio",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2trREZFVFpLUm5yRG9yRUVoYnRfYzRvY285SzhYX3BxTFltbUZpZXZEU3dWRFZTb3IzajdKeTVPS1JfUjA2ZkRtbFMwQlAzbGFiblowMkJTOHpfZVBDRUxXcDF3ODcxVTVmTVAyYlFlZmdvWmFTZVJ3Y3RUeXhQZ1dzS2pzYVpnYVZma3VTT1dHQVZwQTZOZ1UwY0xJd1NVajNpdEhJMU1wdVZOdWtSQkxpTFZ0Ql9L?oc=5",
+    "title": "Qatar MotoGP grid could shrink to just 13 riders as injuries deepen Yamaha boycott crisis - Grande Prêmio",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjJiWW1UQTZFQzNOalYwNXlOUHExdmY3WkNzLVlyV0gyc1dYZVhfLVlzeTRpZHp3NjdqbUltdjZ2SGdtVFFDOUN0REtOM3F0cXF5eU42UXpqdWp5MmlSMy15c28xR2hyamdsV2VoYjd2WkFsaTNsQkJOU2tSZW9ISVU3VnJuZDRMNTZsWUVYMC1IdnhWdzhNTTVEWUgtTF9XLVBkRTlrbnRSa0NwdmlRUVRSaVF5Z1BpVGs0alpFQmxFV1U?oc=5",
     "source": "Grande Prêmio",
-    "summary": "MotoGP faces Qatar showdown: Yamaha boycott, divided riders and Márquez's title chance Grande Prêmio",
-    "time": "2026-11-02T21:30:00+00:00"
+    "summary": "Qatar MotoGP grid could shrink to just 13 riders as injuries deepen Yamaha boycott crisis Grande Prêmio",
+    "time": "2026-11-03T16:30:00+00:00"
+   },
+   {
+    "title": "Dixon set to replace Mir in Qatar MotoGP round - The Race",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmFlemptOUw1SWQwWTIwcmRSUTRVaElJQnJXbWtfTGppR2M2MzlJdlZ6T0lZVFFRemduS04wOHA0azItOHF2aEZ3TTZRekNYX3lJeWxEdG9pSTdwZFUydnhYeENoY2c4WkZsUHZvQ0hpVVpoTHBVdXN4bjhIWGlDRTcwZ1pGSTZF?oc=5",
+    "source": "The Race",
+    "summary": "Dixon set to replace Mir in Qatar MotoGP round The Race",
+    "time": "2026-11-03T16:23:24+00:00"
+   },
+   {
+    "title": "Iran-linked agency lists hotels used by F1 and MotoGP teams as potential targets - Grande Prêmio",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHZMOWJVcXMwUXJZR0hTSXRrY1RUNXFLcVpJaF80RzB3S0d6QzJGa3p6UTBrVjZKNlFMODdjZC04Qk9nN2FhWFFnbDBCNHllYnRPcGM3WTZMUnlhTHRJT013OFFzSkFzX3lVR1AtYXpNaWNBM1Z6WXd5NnlQNzVVNFYzQVBvYkNRbEVIR05sbm4tYjdqUDN2ZDZSZWNvWDZ1SEg4Z2NWU1RjMEtXZ1ZQQVBn?oc=5",
+    "source": "Grande Prêmio",
+    "summary": "Iran-linked agency lists hotels used by F1 and MotoGP teams as potential targets Grande Prêmio",
+    "time": "2026-11-03T16:15:00+00:00"
+   },
+   {
+    "title": "Marc Marquez could leave MotoGP early as demand on riders increases, series warned - Crash.net",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkNBMWFEOXJvQnNfaDRXOXB5bkpGSzhzQzFkQm8wX2dON3V3M1NiRVpGRHJPR2RIVzAyWTFRVzB5OFlPSE55bUcwT3NNV2JlOEUtaERkOHBuV3VZdHRDbGFnYmNLYzlJbG9xM2kzZXNVNEN0dk1iSEdaZTVHdE1HcGFfWndyVTBNR2FqaDU0LWotV2Z3VHRrSm43cDRUVTc4czlnMzV6eHhjV1NsTDRYVWx1dlpKVnphYjI4?oc=5",
+    "source": "Crash.net",
+    "summary": "Marc Marquez could leave MotoGP early as demand on riders increases, series warned Crash.net",
+    "time": "2026-11-03T15:45:17+00:00"
+   },
+   {
+    "title": "UNSEEN: “Smooth operator” - www.motogp.com",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVRpWG01YXpMNUhLcHNiWkcwZkdxNWRyV1lqUkpLa2JaUWloNjBacW51LXF3bTQwVmRyQ1h6cklFaTIwNFRINnd6N1UzN3c0QlJCZFpFSTg3MzV0R1RzMzZacldDLTVmd0l6TVM1bEUweVFXdjZsOGZyV0trb2J5UXpBOHM4UEluOWVuajJtU3UtVzlOQlE?oc=5",
+    "source": "www.motogp.com",
+    "summary": "UNSEEN: “Smooth operator” www.motogp.com",
+    "time": "2026-11-03T15:05:00+00:00"
+   },
+   {
+    "title": "Marco Bezzecchi not throwing in the towel on MotoGP title fight - Motorsport.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVVDVEtEc1A1TE5RMFE4M25RTmdhV2Y2RDAyV3VBakpFMEJmRzYzY1RPcXU1Ukkwc2NUbi1zUFZMQWZSM2FkNi14cHdWOFJzMmlBdk9uWXp5VlE5elhRVlpCVWV4OERKNHdQeWotSjg3c1ZrelpYNnVuaE9wZVppb3FnNXJmSlRoMVY4b2hNdFE3NW9XZERBSS1UZGpDOGN0SXRGVWVMUXktWVdiR3kydFV3?oc=5",
+    "source": "Motorsport.com",
+    "summary": "Marco Bezzecchi not throwing in the towel on MotoGP title fight Motorsport.com",
+    "time": "2026-11-03T15:01:12+00:00"
+   },
+   {
+    "title": "Hotels used by F1 and MotoGP teams on Iran’s list of potential targets - GPblog",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV3NLRXdDREZVWkRRMDlaTjVWX1FyVElqX05CbmRhcDFkWXNlLXBjM1ZWY204SjA0Nk9ONmM5WUZjbXZvR1B5QnVMaVpWMXRvcEFZRDhOWXhXX2p3M3g3eEtWSXdqMG5XcWo4MG1MUmFmY2cxMXpqX1ZQNEtBQVlnRjRHOWxrZUI3SDVoOElJVUNzV3VQUEFBSnZsRFBGMnNqcV9MRmNlNjZUUkhkRlE?oc=5",
+    "source": "GPblog",
+    "summary": "Hotels used by F1 and MotoGP teams on Iran’s list of potential targets GPblog",
+    "time": "2026-11-03T14:05:00+00:00"
+   },
+   {
+    "title": "5 things to remember before the Qatar GP in Lusail - autohebdof1.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRXpBVmFxZE44VXQ4VVRMZUIxaktfX3pmWWlyZW9vSVVFMEh3ZXdpb2Zhc3pEWGFyNWhZTGlnTHZjVWpENzRvOFNmSU0yc2VjOHhNNHFUWUhESWl5dDRMOFJhV2JrMHVzUWNjemxrVUlkaWFXNGVLSEVPUzdwWllWQmNLM1ExY1pvMU5TUGMtdmd4U2JpdUU3UHZyRQ?oc=5",
+    "source": "autohebdof1.com",
+    "summary": "5 things to remember before the Qatar GP in Lusail autohebdof1.com",
+    "time": "2026-11-03T13:00:43+00:00"
+   },
+   {
+    "title": "MotoGP refuses to back down over Qatar as four manufacturers commit despite Yamaha withdrawal - Grande Prêmio",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0RLbElyMGdOMkFIeVEyWVhmcHJlRUx5R1p3cFpvNXhSWGRGcUFMTVgyQ3FWR0JFSl9CczNValdaUlEwcFdUSnBTMURWUG1pVFloZ19zRHl3QmtaVXV1V2VCNWFOVmdwUU8xdDE4V21Ka01GeVJIeWdsVGd0ZS1rNUUtYTJ2Yy1fb0hiMHg3SXNYaFMybnN5LWp1WGhwWlk2dlhjRER5N0dpT1EyaVpSWkRMcEthUUFNZk93YVQtWQ?oc=5",
+    "source": "Grande Prêmio",
+    "summary": "MotoGP refuses to back down over Qatar as four manufacturers commit despite Yamaha withdrawal Grande Prêmio",
+    "time": "2026-11-03T11:30:00+00:00"
+   },
+   {
+    "title": "2026 MotoGP Malaysia: Who’s leaving happy and who’s disappointed - news.gp",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcUhhaUtLZUcwMVBZSUxYRTNEZ2dKQXN1UFpxRVZTTUNmSWpZMzFxNmJ5akhHbllvX2JBN1Rkd0U0RGQ0ZUx2QkhoYUZQZGxlckVxWjlqSjBBSXd2bGo1eV8xVmltS3NnVDJhSWRtLW16Mm1rLTRYWHhYWHF1YVlQRVJ3eDdJR1piRlZDcXU5QQ?oc=5",
+    "source": "news.gp",
+    "summary": "2026 MotoGP Malaysia: Who’s leaving happy and who’s disappointed news.gp",
+    "time": "2026-11-03T11:04:00+00:00"
+   },
+   {
+    "title": "‘70/30’ blame after Aprilia riders collide in Sepang MotoGP race - Crash.net",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnlleHBkYWlYRkFjUlBJbjZxbWVDZVBNb3BqT05LajhCeFY1RkdxUmdLTDhnOWxHUUFoUUwzVUhJZ2NQWVFyQ0VyUFhjS3ltci14bEZ5elIzay1DNHA1YWJWcFF3UlJKckdQOHdrVl94UUN2Q2hTQ1dkT0VkT0ZFRS1CQmFZd1A0bEdrT0gxSzFNTVM1SHg2Znh4cHdvRU9RMVNwSA?oc=5",
+    "source": "Crash.net",
+    "summary": "‘70/30’ blame after Aprilia riders collide in Sepang MotoGP race Crash.net",
+    "time": "2026-11-03T10:52:23+00:00"
+   },
+   {
+    "title": "US strikes Iranian island as MotoGP heads to Qatar - Crash.net",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdnQ3RHlOSEVBbXVLMU9IRDNEanJORVU5TTF6aFJmN3pBWUZZeGNqUTVzZW40Q29VMm9XT2NXN3BWNEhoT2VkZWJqcXdtaFU1MWxQN21DR0tvNnVHZE81LWxnV19FWkdCS3gyLS1FVjgtTTkybWRNYzhsbGVGajZadkNBSWNsMHpIb1VMbHBzNEZ2UQ?oc=5",
+    "source": "Crash.net",
+    "summary": "US strikes Iranian island as MotoGP heads to Qatar Crash.net",
+    "time": "2026-11-03T10:49:35+00:00"
    }
   ]
  }

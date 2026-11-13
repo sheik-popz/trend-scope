@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-12T20:02:12.242804+00:00",
+ "updated": "2026-11-13T01:10:20.922111+00:00",
  "sections": {
   "Tamil Nadu": [
+   {
+    "title": "Sriperumbudur toll plaza gets MLFF",
+    "link": "https://www.thehindu.com/news/cities/chennai/sriperumbudur-toll-plaza-gets-mlff/article71691119.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "The scanners will read FASTag cards and number plates, and the system will automatically collect the amount due at the toll",
+    "time": "2026-11-13T01:04:12+00:00"
+   },
+   {
+    "title": "TNPDCL seeks nod to procure 3,000 MW",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tnpdcl-seeks-nod-to-procure-3000-mw/article71693793.ece",
+    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
+    "summary": "The TNPDCL, which submitted the proposal to procure 1,500 MW to the Tamil Nadu Electricity Regulatory Commission (TNERC) in February this year, has now doubled the quantum",
+    "time": "2026-11-12T21:35:23+00:00"
+   },
    {
     "title": "Palaniswami rejects speculation of Dhinakaran, Sasikala being readmitted into AIADMK",
     "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-rejects-speculation-of-dhinakaran-sasikala-being-readmitted-into-aiadmk/article71694996.ece",
@@ -92,23 +106,93 @@
     "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
     "summary": "",
     "time": "2026-11-12T18:39:21+00:00"
-   },
-   {
-    "title": "Major gold heist at Tanishq jewellery showroom in Madurai",
-    "link": "https://www.thehindu.com/news/cities/Madurai/major-gold-heist-at-tanishq-jewellery-showroom-in-madurai/article71692891.ece",
-    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "The heist occurred on Wednesday night at the recently opened TATA Tanishq showroom on Bypass Road",
-    "time": "2026-11-12T18:32:43+00:00"
-   },
-   {
-    "title": "Brazil’s WEG chooses Dharmapuri for ₹2,000-crore global manufacturing facility",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/brazils-weg-chooses-dharmapuri-for-2000-crore-global-manufacturing-facility/article71694428.ece",
-    "source": "Tamil Nadu News: Latest News on Politics, Business, Sports, Education & Entertainment | The Hindu",
-    "summary": "The project has the potential to generate around 3,000 jobs",
-    "time": "2026-11-12T18:30:21+00:00"
    }
   ],
   "India": [
+   {
+    "title": "Sriperumbudur toll plaza gets MLFF",
+    "link": "https://www.thehindu.com/news/cities/chennai/sriperumbudur-toll-plaza-gets-mlff/article71691119.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "The scanners will read FASTag cards and number plates, and the system will automatically collect the amount due at the toll",
+    "time": "2026-11-13T01:04:12+00:00"
+   },
+   {
+    "title": "Choosing faith over fear",
+    "link": "https://www.thehindu.com/news/national/west-bengal/choosing-faith-over-fear/article71693306.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "West Bengal has witnessed a sudden, rapid spike in attacks on Christian home fellowships and churches since the summer of 2026, when the BJP government came to power in the State. Senjuti Sengupta and Shiv Sahay Singh report on the fear of ",
+    "time": "2026-11-13T00:26:05+00:00"
+   },
+   {
+    "title": "Sukhbir Badal likely to meet Amit Shah on November 13, SAD-BJP alliance may be announced this month",
+    "link": "https://www.thehindu.com/news/national/punjab/sukhbir-badal-likely-to-meet-amit-shah-on-november-13-sad-bjp-alliance-may-be-announced-this-month/article71694288.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "SAD sources said that Mr. Badal is likely to leave for New Delhi after his rally at Raikot to meet Mr. Shah, with talks on seat sharing and finalising the alliance on the agenda",
+    "time": "2026-11-12T23:28:55+00:00"
+   },
+   {
+    "title": "Punjab Assembly polls: AAP releases second list of candidates",
+    "link": "https://www.thehindu.com/news/national/punjab/punjab-assembly-polls-aap-releases-second-list-of-candidates/article71694535.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "Two sitting AAP Lok Sabha MPs will enter the fray: Raj Kumar Chabbewal from Phagwara and Gurmeet Singh Meet Hayer from Barnala",
+    "time": "2026-11-12T23:13:59+00:00"
+   },
+   {
+    "title": "West Bengal government to appoint coordinators if stay on civic polls not lifted, says CM Adhikari",
+    "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-to-appoint-coordinators-if-stay-on-civic-polls-not-lifted-says-cm-adhikari/article71694684.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "Chief Minister Suvendu Adhikari said that his government would approach the Supreme Court with a Special Leave Petition (SLP) seeking that the stay on holding civic polls be lifted",
+    "time": "2026-11-12T23:05:30+00:00"
+   },
+   {
+    "title": "Kent Mayor discusses trip to India paid by Indian university - Mercer Island Reporter",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnFpTHdOVWpSYUtmWGV6VG5SeGRTQnNXVlVvOElNV19mcTRsLTJWZjZjc1dqVG5QWUd6RTF5Mmk5bnNDYnZEa3RhQTVGaHhCTXl3dHdEbGhfRGlWWWk4NEh3Z0xQZ0d4V2lmcVRGSEE5MEhZMUNKOFphbkZ1LWhhZHRzeC1ndklIekFlRHZweXl0X3c0TXBHTnIyQ195N21GTmc?oc=5",
+    "source": "Mercer Island Reporter",
+    "summary": "Kent Mayor discusses trip to India paid by Indian university Mercer Island Reporter",
+    "time": "2026-11-12T21:51:30+00:00"
+   },
+   {
+    "title": "Bomb threat emails target BMC, Pune civic body, PNB branches; searches find nothing suspicious",
+    "link": "https://www.thehindu.com/news/national/maharashtra/bomb-threat-emails-target-bmc-pune-civic-body-pnb-branches-searches-find-nothing-suspicious/article71694748.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "“A hoax bomb threat email was received at the BMC office and PNB Bank this morning. Nothing suspicious was found. Further legal process is ongoing,” Deputy Commissioner of Police (Zone 2) Raghasudha R. said",
+    "time": "2026-11-12T21:38:57+00:00"
+   },
+   {
+    "title": "TNPDCL seeks nod to procure 3,000 MW",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tnpdcl-seeks-nod-to-procure-3000-mw/article71693793.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "The TNPDCL, which submitted the proposal to procure 1,500 MW to the Tamil Nadu Electricity Regulatory Commission (TNERC) in February this year, has now doubled the quantum",
+    "time": "2026-11-12T21:35:23+00:00"
+   },
+   {
+    "title": "Five held for kidnapping, assaulting youth in Keralam’s Tirur",
+    "link": "https://www.thehindu.com/news/national/kerala/five-held-for-kidnapping-assaulting-youth-in-keralams-tirur/article71694235.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "",
+    "time": "2026-11-12T20:33:42+00:00"
+   },
+   {
+    "title": "Three of Malappuram family killed in Fujairah road crash",
+    "link": "https://www.thehindu.com/news/national/kerala/three-of-malappuram-family-killed-in-fujairah-road-crash/article71694144.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "",
+    "time": "2026-11-12T20:31:19+00:00"
+   },
+   {
+    "title": "Karnataka to write to Prime Minister asking for inclusion of enhanced quota in Ninth Schedule",
+    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-write-to-prime-minister-asking-for-inclusion-of-enhanced-quota-in-ninth-schedule/article71695096.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "After the High Court of Karnataka quashed the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of Appointments or Posts in the Services under the State) Act, 2022, the State government wi",
+    "time": "2026-11-12T20:16:56+00:00"
+   },
+   {
+    "title": "Private passenger ship service between Beypore and Lakshadweep soon",
+    "link": "https://www.thehindu.com/news/national/kerala/private-sector-steps-in-to-resume-beypore-lakshadweep-passenger-ship-service/article71693792.ece",
+    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+    "summary": "As part of the trial, the ship, capable of accommodating 250 passengers, anchored safely at the port wharf. Maiden commercial run anticipated in November",
+    "time": "2026-11-12T19:57:55+00:00"
+   },
    {
     "title": "Kin convicted for raping minor",
     "link": "https://www.thehindu.com/news/cities/Kochi/kin-convicted-for-raping-minor/article71694222.ece",
@@ -129,206 +213,164 @@
     "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
     "summary": "The Ladakh administration shifted the activist from a protest venue to his residence in Leh and has been allegedly restrained from leaving his residence",
     "time": "2026-11-12T19:46:14+00:00"
-   },
-   {
-    "title": "Palaniswami rejects speculation of Dhinakaran, Sasikala being readmitted into AIADMK",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-rejects-speculation-of-dhinakaran-sasikala-being-readmitted-into-aiadmk/article71694996.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "",
-    "time": "2026-11-12T19:44:37+00:00"
-   },
-   {
-    "title": "No government school will be closed due to low enrolment: Minister Rajmohan",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/no-government-school-will-be-closed-due-to-low-enrolment-minister-rajmohan/article71694175.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "",
-    "time": "2026-11-12T19:43:53+00:00"
-   },
-   {
-    "title": "Gang held for possession of 500 kg red sanders near Sholinghur in Ranipet",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/gang-held-for-possession-of-500-kg-red-sanders-near-sholinghur-in-ranipet/article71692863.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "",
-    "time": "2026-11-12T19:42:46+00:00"
-   },
-   {
-    "title": "Dhinakaran urges quality checks on Children’s Day cakes",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-urges-quality-checks-on-childrens-day-cakes/article71692810.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "",
-    "time": "2026-11-12T19:41:20+00:00"
-   },
-   {
-    "title": "CMC to organise exhibition, poster competition to mark World Diabetes Day",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/cmc-to-organise-exhibition-poster-competition-to-mark-world-diabetes-day/article71693998.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "",
-    "time": "2026-11-12T19:37:22+00:00"
-   },
-   {
-    "title": "Encroachments demolished on Ismalaiya College Road in Vaniyambadi to provide easy access for students",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/encroachments-demolished-on-ismalaiya-college-road-in-vaniyambadi-to-provide-easy-access-for-students/article71693860.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "",
-    "time": "2026-11-12T19:34:51+00:00"
-   },
-   {
-    "title": "Five e-scooters catch fire in Ranipet",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/five-e-scooters-catch-fire-in-ranipet/article71693876.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "",
-    "time": "2026-11-12T19:32:42+00:00"
-   },
-   {
-    "title": "SIR: Draft electoral roll released in Vellore, nearby districts",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/sir-draft-electoral-roll-released-in-vellore-nearby-districts/article71693854.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "",
-    "time": "2026-11-12T19:31:35+00:00"
-   },
-   {
-    "title": "Integrated draft electoral rolls released in Cuddalore, Villupuram and Kallakurichi",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/integrated-draft-electoral-rolls-released-in-cuddalore-villupuram-and-kallakurichi/article71692628.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "",
-    "time": "2026-11-12T19:06:35+00:00"
-   },
-   {
-    "title": "Veeramani chargesheet was based on plaint lodged by minor girl",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/veeramani-chargesheet-was-based-on-plaint-lodged-by-minor-girl/article71695362.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "The survivor alleged in her complaint that she was sexually exploited by Veeramani",
-    "time": "2026-11-12T19:06:15+00:00"
-   },
-   {
-    "title": "CPI(M) leader P. Rajeeve flays police action against protesters in Keralam’s Thiruvananthapuram",
-    "link": "https://www.thehindu.com/news/national/kerala/cpim-leader-p-rajeeve-flays-police-action-against-protesters-in-keralams-thiruvananthapuram/article71694561.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "",
-    "time": "2026-11-12T19:00:46+00:00"
-   },
-   {
-    "title": "AU signs MoU with Boston Architectural College",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/au-signs-mou-with-boston-architectural-college/article71693444.ece",
-    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-    "summary": "",
-    "time": "2026-11-12T18:57:34+00:00"
    }
   ],
   "World": [
    {
-    "title": "Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home - WPXI",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmhFZHFlN0ZheENxdFo3ZFJlZmNjYWlXV1FTV1ZZNHNWR3VaM2QwOXRBTVRrckptRkhqY2x4WHI1OUgxZGxYOEZxZ3VybFVpTlJiWjFBTHdxdlU4eFRleGl6eTZwWVRpMnB0TkRPWmJnU2FLX0RDMlN0WkwyRW0xRmFOZDZlS3hTZ2c?oc=5",
-    "source": "WPXI",
-    "summary": "Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home WPXI",
-    "time": "2026-11-12T19:32:37+00:00"
+    "title": "Iran’s nuclear program and regime change: Will the US back Israel? - Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WemZDREJBbmdDVWNwUmZfRGNKM09GOFBvR19IcnkwdkpkU0tXTmkwdHBHQzZQUXIzNmQwdmgtcWJRNEZoLVFnckJScER0MDREUzZfd0Zn?oc=5",
+    "source": "Ynetnews",
+    "summary": "Iran’s nuclear program and regime change: Will the US back Israel? Ynetnews",
+    "time": "2026-11-13T01:05:53+00:00"
+   },
+   {
+    "title": "Trump says no deal needed with Iran, closes down Vance negotiations - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
+    "source": "The Washington Post",
+    "summary": "Trump says no deal needed with Iran, closes down Vance negotiations The Washington Post",
+    "time": "2026-11-13T01:00:56+00:00"
+   },
+   {
+    "title": "Trump says no need for Iran deal as four tankers hit in Hormuz - The New Arab",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2FvbHNob2tDc2pTZGg4V2JtODFPX2xORi00MGxrVG94VFhLR1Z1MHRmdTh0dGt1SjZpR01GMUZ1dzNRRVYtaERvSlQycFVuaHFrTXpXTFQtd2tHd2p5dFRUWUJHeURoUS15NTNwTC1nSmlrTzNGMHZ5V1RnV2RxM25VRWZ5ZUh3?oc=5",
+    "source": "The New Arab",
+    "summary": "Trump says no need for Iran deal as four tankers hit in Hormuz The New Arab",
+    "time": "2026-11-13T00:42:56+00:00"
+   },
+   {
+    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+    "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+    "time": "2026-11-13T00:20:24+00:00"
    },
    {
     "title": "Opinion | The midterms won’t define Trump’s legacy. Iran will. - The Washington Post",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWJEcWFlc0ZRYmJNaWl1WG5xSU5sNzBKVXU0NUhVUGlFNjh4MVFSOW9IeC1sOEtnS21vUjFsZkJnb01aalRwY1NsQXBPTDVsNzdFc3lXRk5hem5NamhUcDZhajVZNEdSNFNkRmhXRC1VM1Vsb1RFdjVkaHFicW5UcTcyTERFN25pVTZlTHg2RlhZUURPWWVIUHZEclJnRHlKeU9PY1VucDF6TDdGYTkw?oc=5",
     "source": "The Washington Post",
     "summary": "Opinion | The midterms won’t define Trump’s legacy. Iran will. The Washington Post",
-    "time": "2026-11-12T19:26:16+00:00"
+    "time": "2026-11-12T23:52:03+00:00"
    },
    {
-    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-    "time": "2026-11-12T19:23:02+00:00"
+    "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+    "time": "2026-11-12T23:34:05+00:00"
    },
    {
-    "title": "Trump and Netanyahu’s Iran gamble: one more strike? - Foundation for Defense of Democracies",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUm9HMzczMmc2REhCaWl3Y1pkLUs3d01CWDYwcmFzZVNSUU1CRXV1bWltRzVkZkRmOV95MDI5dlNfdE5JeEZIOTRCRTJKNlVpOFZOZzY2aUlueE9TUlVDTVNmWkxrTnNTVXlIdzNyQ1phNFhhZDlxeFFYYndRd041eTZBVl9SNUFL?oc=5",
-    "source": "Foundation for Defense of Democracies",
-    "summary": "Trump and Netanyahu’s Iran gamble: one more strike? Foundation for Defense of Democracies",
-    "time": "2026-11-12T18:56:15+00:00"
-   },
-   {
-    "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
-    "time": "2026-11-12T18:47:35+00:00"
-   },
-   {
-    "title": "Eisenkot Meets Netanyahu Behind Closed Doors as Fears Mount of Israeli Strike on Iran - Palestine Chronicle",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1ZnbnoyUlcwNU9CU2ttUWg1aEFuNy1zbXJlXzNud2dScFQyMEJVTzhqTlpkTnd0WnZ4dUFkdl84U3dSREN1QnljZklWWE8wLVRCVjdaQ3h5S2YxWGx4MTFoMTFYSlIxZWh1NmRrVXNZWTlRcjdaRERzQV9FMFF0NmtDZ2NzT0pON1haTFhYM2p3bS1YUkl3Nndqb0ZKSnNnY0tOcTlncTl2RnFyNFQyLWxjdmNjWnpwU2c5Sk93?oc=5",
-    "source": "Palestine Chronicle",
-    "summary": "Eisenkot Meets Netanyahu Behind Closed Doors as Fears Mount of Israeli Strike on Iran Palestine Chronicle",
-    "time": "2026-11-12T18:41:50+00:00"
-   },
-   {
-    "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-    "time": "2026-11-12T18:28:59+00:00"
-   },
-   {
-    "title": "Trump downplays Iran deal prospects; Israel kills 10 in Gaza - The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTdHeXJLLWlPWndrR25BakNYbjZwYlF2b0RRc3NtTEV4THpCcjBNSmJvLXRDYndNWXR5TGpfb0s0ZGVYQ2Y5Z0lEbTNDY0JoZ0FEVlNMMTJuUWxQR1d3TWoza0dTUlZRckE0UlM1dG9wS2NQcFVJYjJWT2h4UVdTOVg4dGlzQmx4QmwyQU1B?oc=5",
-    "source": "The New Arab",
-    "summary": "Trump downplays Iran deal prospects; Israel kills 10 in Gaza The New Arab",
-    "time": "2026-11-12T17:48:08+00:00"
-   },
-   {
-    "title": "Trump ran on a platform of peace. His war may have cost Republicans the midterms | Mohamad Bazzi - The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkp3M2Vsc1lacjEzbVJOOVhnRXIybVgxZktUOUNZQU5LQkJ2elYzZWlmRXdIN2pmVlBPekZPZ1M1ZFNrY1BSYi1mQ3JTam9aSVZibG5Ienh5RHNydmQyXzJSRXRxZUhDVS1NUjZfdjFJY2ZJejRKY094eU4tb2wza2dBMzR2QjlVOEZMSw?oc=5",
-    "source": "The Guardian",
-    "summary": "Trump ran on a platform of peace. His war may have cost Republicans the midterms | Mohamad Bazzi The Guardian",
-    "time": "2026-11-12T17:19:00+00:00"
-   },
-   {
-    "title": "Eisenkot meets Netanyahu in bid to avoid Iran strikes - Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc283SkxNWXZ2S0pLaTJKMTA2cjR3amVxN0xGejJ6a1NLX1l4TEVTWl85dk01NWM2SWpTN3l5OExPT2sya0VmV040S1pKdG10MU5IQTl2cjRhS0V5eC10QkxZX0x1OVIzdGlWYzNPaWh2X3M4bjYyaUdJTFBmYy0wbDFLT01URUtVa1pRa2g5bnpibzV5dmNR?oc=5",
-    "source": "Al-Monitor",
-    "summary": "Eisenkot meets Netanyahu in bid to avoid Iran strikes Al-Monitor",
-    "time": "2026-11-12T17:11:50+00:00"
-   },
-   {
-    "title": "Israel's Eisenkot meets Netanyahu amid reports of possible military action against Iran - Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmhpMHFpakRXQmluQl9NT2RVWndhSmZ0WHV3TjBEd2JVRU5CeUxqcWwzdXB5M0NjWThRV1NnamdoUVhranpNNXQ4Sk91RGZHeEVhTzZXMlRfRlJVcVBtOUl0WENZOUlMZnRlYTZiSWR6R3VLZTVPSUx3OFByRnpQc3hvcl9kbnR3MXptalhwV1hkbGxtNEJ5ZzBtSzhOSl9hZk5OaFJCdXVUbW5CNGU2NkxMc3cwdUNIaFRvWlp2X1FfVlpvNnJqNllBQQ?oc=5",
+    "title": "CENTCOM calls Israeli media report of possible Iran war resumption ‘pure speculation’ - Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUjF6LXZDY2RSWG1xT2xMQ1R6WWowNEJvcTctckR5SGxFZEFoa3RjTUMzMzRrOWJkeXQtbU5mb05oWndIT1VrUVR1dTJBQ2VfbXBVc0RvU3dxUFdOcS1RYmFRMi15OW93a3h2YWVZSm56Q2NmYS04UEVVR3J1SjRFTWs1WV9wM1pDRlFnQjcwS1VkbFFDdExoNlV0cEwxeGhYWGoyOTNZa3hibk4yN2dBMzMzOS03czdTMjk5WDVWa1V6SWtuU1dlTzUyVGw1c1hPS0E?oc=5",
     "source": "Anadolu Ajansı",
-    "summary": "Israel's Eisenkot meets Netanyahu amid reports of possible military action against Iran Anadolu Ajansı",
-    "time": "2026-11-12T17:00:38+00:00"
+    "summary": "CENTCOM calls Israeli media report of possible Iran war resumption ‘pure speculation’ Anadolu Ajansı",
+    "time": "2026-11-12T23:28:56+00:00"
    },
    {
-    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "title": "Why Trump’s Iran war just got a lot more costly - Center for International Policy",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlBBa1dEb3kxLTh3QjRJZEROVGltY2ZsRnBLYXNRUi1uQUI3cloyU0FiOGJtUFZiMlZxUS12d0oyVXZpdklxSUpCVmlsVjNqaWRXRmt3ZG5ZdVBqTTdaMVFqM1JkZUFNd0VvMjBCVkhkcEVCYmdYZ19IZ1p1Z3J5eUpLOXdsYWRkaXR0YnQ3Q3Rac0VqbUx3?oc=5",
+    "source": "Center for International Policy",
+    "summary": "Why Trump’s Iran war just got a lot more costly Center for International Policy",
+    "time": "2026-11-12T23:09:14+00:00"
+   },
+   {
+    "title": "Netanyahu, Eisenkot Hold Security Talks Following Warnings Over Possible Military Action Against Iran - The Media Line",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdERSaDdOZDZ5UVYzaUpEOGl5TXZNYkxiRVNWZGEwZ25Wb1M4N3ZhLWFyR1FxWWExbElVcGdzMlJBWXNaRGgtR1pPYVl4S1NzYTNDQXFFQk9veGZDZURkay04QW1mYUc1R3NsYVFYM1pYV1YwclZDcU1XOEZLNlBxRWUzTDBHNTFORWpxUHNrTnNYRGFzX3c0Y1FKVkJVM1pwSlZuc2dBTjlMTmZ2WDZPVzJEVHVqa2xKYWJjZjRQVzNBY0FDd05zbGpWSjFMV1FiVFE?oc=5",
+    "source": "The Media Line",
+    "summary": "Netanyahu, Eisenkot Hold Security Talks Following Warnings Over Possible Military Action Against Iran The Media Line",
+    "time": "2026-11-12T22:55:01+00:00"
+   },
+   {
+    "title": "How popular is the Iran War? - Silver Bulletin",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+    "source": "Silver Bulletin",
+    "summary": "How popular is the Iran War? Silver Bulletin",
+    "time": "2026-11-12T22:15:53+00:00"
+   },
+   {
+    "title": "Trump takes Vance off Iran talks after months of delegations - The Independent",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmU3X3pXMThITVljMFh3SzRrRXhDcXRIZHRXS09YamZfN0RMMmg1bm4xaTNqTHJpS0R1TEdXemNiRjM0VE1nNnJVRy1mdXdoeEt1QWNjbzBrM1FOOFpNYXpvTUFncW9VRGRCeXJSRDNRaXRmLWNEeHhPakg0T1ZrYzZkNk1WR25KdWZiM1lqQ1Ffd3FianBpeDlfYnJtUkF3aEE?oc=5",
+    "source": "The Independent",
+    "summary": "Trump takes Vance off Iran talks after months of delegations The Independent",
+    "time": "2026-11-12T22:08:00+00:00"
+   },
+   {
+    "title": "US Supreme Court Ruling Makes Upcoming CUSMA Review Even More Critical for Canada - EnergyNow",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUhIZjRDUnRUQUUyWDRCQlBzUVBwS0VKb2tXbTJVM3pqRURJcWQzV0pLN3M1NjVJTUxucHFvMkZOM0R6RDBqZWU3OUFxZTN2T0ltdW8wNEFHd3c3Y0hieXFpOHNqR2xhaml0RXZSM0NmVzZISW9aclhSVmZSWV9GUmphMVVTNGJueUJWUzdWZ0ZQOTNuZUo0dzVFYUg4VzJBZ1g3blYwSy14emkycTdwc3R3b09PdkFTQ200?oc=5",
+    "source": "EnergyNow",
+    "summary": "US Supreme Court Ruling Makes Upcoming CUSMA Review Even More Critical for Canada EnergyNow",
+    "time": "2026-11-12T22:00:06+00:00"
+   },
+   {
+    "title": "Trump says he may use force against Iran 'right now' if US allies and ships are threatened - Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ0t4bWRRUG15cnNuS29ZYm02cVpES1FEWll3dDVtSWFKdE11a3hGVDJzVjZUWldRellYdjRLRzdRYS1HclZCYWR0SXN3cE95am9sUHR3bGl6QnpfT0Qyc3ZHT3l2dXNtMkxGLU5JVktWZnhfWkJtS214YVF4Z1VoMlRGdlA5RHZORXNNcFlBY0N5RzMwQjNEa3NydV9wSVRCMUJSYXcxcWU4cXNYSGJ4UE9Tblc4M3ZkRTdTRTRwVHhGWXhOZDRjWnQ2TURJYlYwQnc?oc=5",
+    "source": "Anadolu Ajansı",
+    "summary": "Trump says he may use force against Iran 'right now' if US allies and ships are threatened Anadolu Ajansı",
+    "time": "2026-11-12T21:49:38+00:00"
+   },
+   {
+    "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-    "time": "2026-11-12T16:54:12+00:00"
+    "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
+    "time": "2026-11-12T21:27:21+00:00"
    },
    {
-    "title": "UK court finds two Iranian men guilty of spying for Iran - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ3F1cE16TmpHTEVmY09GUnBadGhGUXJzaUd3Y2tlaW9ocXJ5UzQycG90QlZ0cnVUZWZ6cy00am5ZSHpWblAyLTRONkstSE5hY2hCa1FsSFJkdUVOQklCTEZTNUdYT21wY010aGFkR19CVUNzbm9fMk9Dczl2RE5kdU9HWjdZbmZLank0a2RDX2VvazdScEc5VnpFSzFQblnSAaQBQVVfeXFMTTN6T1IwSWRwUzRsSUZkRktmcmJkTUlmWFE0aWRHYUZ0WkNYQWtIVTFUNklHcjBqMEdtTHAzOHItbFhBeWRUZHhKa18yVklKeEVoUGx1ZnF0c0padnJPWmtsZjFBWUhFZWlYUFBVVEVFWFZxaWpBN2RzOHd3THdscVB4TDlpWDFmaEhKVm9nM19saFBNdm54dEVublozT2FaSGN6bmM?oc=5",
-    "source": "Al Jazeera",
-    "summary": "UK court finds two Iranian men guilty of spying for Iran Al Jazeera",
-    "time": "2026-11-12T16:06:43+00:00"
-   },
-   {
-    "title": "Trump & Netanyahu's Iran Gamble: One More Strike? - TV7 Israel News",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wNEZFQ3ZEZnoxNEttYkc4eldoNDUteXduaHBpX3JHSG0yQ2todkVKdDFUZGpkeTZOQV9wQ0RVMkxCTlRnWjUwQ0RGcm9TSmwwLThmaFZ5WXNzQ084Nm8xM01nVEJ1b2hfWW1hWTMySDZKR0RyUl8zMVdn?oc=5",
-    "source": "TV7 Israel News",
-    "summary": "Trump & Netanyahu's Iran Gamble: One More Strike? TV7 Israel News",
-    "time": "2026-11-12T16:02:00+00:00"
-   },
-   {
-    "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-    "time": "2026-11-12T15:18:20+00:00"
+    "title": "Trump Bets Shaky Iran Status Quo Will Hold After Midterm Loss - Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVE8zbG1nOS1wbW9jblRMemdVSHZsbkFteVloZWxhZWJJS3pSTWc0VjlFTXd5YVRsSFJmV1JBTW8zRUVReWdzWlBjMzdyRTdvWkNmd2RWcWY5SFVMbFhKeUNpM1pOUlNUR25lZzNQX3EzWVUtZF9rajBuV0dxYkdsQS00N2xLaFJWTE5SY0dNdDV5V0dZRldUZ1NrM3JiRkYwalZFcnVraWgzU2hCWHc5NkpB?oc=5",
+    "source": "Bloomberg.com",
+    "summary": "Trump Bets Shaky Iran Status Quo Will Hold After Midterm Loss Bloomberg.com",
+    "time": "2026-11-12T21:21:11+00:00"
    }
   ],
   "Technology": [
+   {
+    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+    "time": "2026-11-13T00:13:35+00:00"
+   },
+   {
+    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+    "time": "2026-11-12T23:34:05+00:00"
+   },
    {
     "title": "Tesla’s Pivot From Cybertruck Towards AI Stumps Fans - Bloomberg.com",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXRDRDVYUjFfdUhVbmVFUW5FZGkxRllObGhENG81SXBBSS1CZWwzMmtnMzFzV0NzaEpUWFNVWXQwLVJCSlMwQU5sYV9VWElJWC1icDV3R0xsSHk3RDBGYjFjLWIyRk5Tb2FlbUQycXpSdy10THRsVU4tR2ZMVUNQYlNsVXJIYzhzYnFGMC04SFhPT3ZhVTU3SXNoTnRMN0VCNGZfNEs2TkNmNzVabUk3bDVqd3lWRFdFeW56bzVpQzRXUEE?oc=5",
     "source": "Bloomberg.com",
     "summary": "Tesla’s Pivot From Cybertruck Towards AI Stumps Fans Bloomberg.com",
-    "time": "2026-11-12T18:59:25+00:00"
+    "time": "2026-11-12T23:29:26+00:00"
+   },
+   {
+    "title": "Musk extends Cybertruck production, but many buyers face refunds - TheStreet",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQam5YbWRYYk1LU2Q5M2tyWWpLZUFoTi1OVXNra1hNU0ZwZUhNdnJ4NGFYMjdmVUs0dElDX1pwaFpqaG55NXpRN21MUEZwdGNRTDBkMUJHLW1VUWprTGVQeGJSdTB3NjE1VWM4UHA1QzRxWHpvbm9WQVo5WEFPRDdxMjVVbmgyTWpTcWxr?oc=5",
+    "source": "TheStreet",
+    "summary": "Musk extends Cybertruck production, but many buyers face refunds TheStreet",
+    "time": "2026-11-12T22:03:00+00:00"
+   },
+   {
+    "title": "Porsche CEO Takes Swipe at Tesla's Flying Roadster Reveal, Says Company Wants Real Innovation Instead of Shows - AOL.com",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rdXQ4ZnUzaGVoaDZWOGtGUmhjdU1oVHpveWVYcWFmYUNrNmdTMFBhSnlYbm5VLVJ4MFBlaWszRXdlRFI4cWJ1ZWJ2ZWw2Qm9MU0hVdmxXNmdiQk9jWDduMDVONTMzVTZEZnd2NjVULWFWVGlWcXY2Sy01bXgwRjA?oc=5",
+    "source": "AOL.com",
+    "summary": "Porsche CEO Takes Swipe at Tesla's Flying Roadster Reveal, Says Company Wants Real Innovation Instead of Shows AOL.com",
+    "time": "2026-11-12T20:37:11+00:00"
+   },
+   {
+    "title": "Seeing is no longer believing: Why physical witnesses matter more in the age of AI‑generated content - Japan Today",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNXzFNRGNURVZZdnpNMVZLVnd3QkVvdzFNYlpUZU5YcVNiT29NTzJyUkZ3bTNJTUNpQ2R4MmdVTS14YlJqMDRtZTNrSGJncEFqWnMzX1pvMC0wRXNtZmY4c3oyc1ZwMFh2V2R0SDY4bk1NMnk2Wmo4bTlzZTF4T1BHa3M5ck5VVDlGVkZnTjIwVGd6MnR3VUZReDBUVmpzOUNaLW1vYzhySUlIN3NtMi1xNUJ1TjhOR3luYklsVVJlWnZ5ZS04akRVa1hCRUtLTEtVa2ZzcVpodTNUSW55U1RMRFVuQzZBdFZyQ2U3UEt3?oc=5",
+    "source": "Japan Today",
+    "summary": "Seeing is no longer believing: Why physical witnesses matter more in the age of AI‑generated content Japan Today",
+    "time": "2026-11-12T20:10:00+00:00"
+   },
+   {
+    "title": "Elon Musk Hiring NVIDIA’s Jensen Huang To Run Tesla Isn’t The Worst Idea I’ve Ever Heard - The Autopian",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU9EX3R2WFphdWsycXljSmZrdDJtbjVBMVdoU0FfaXNCb2hnbExzWjE3NWRXOGYxZC1TVXg1MWRVaGYyckJNRHdyYmQ3TkhVaUM1NU5LeVltMXhIQ3JJdUZaSm9LZm5zV1h6d2E2TE5IRlM3RDdHbjNRMUdKaGtIOXNURkJEMlJ0NU03T0kyenF5Ykg5LWdpb0VoYWFMdGdFYjBwT0ROc3oxQjA4WVk0d0Z5VkxQbHpLejA4RkY3UnZQbDY4YlVobw?oc=5",
+    "source": "The Autopian",
+    "summary": "Elon Musk Hiring NVIDIA’s Jensen Huang To Run Tesla Isn’t The Worst Idea I’ve Ever Heard The Autopian",
+    "time": "2026-11-12T19:57:38+00:00"
    },
    {
     "title": "Tesla Cybercab tours Europe, the dates and when the robotaxi arrives in the UK - Pasquale Pillitteri",
@@ -359,7 +401,7 @@
     "time": "2026-11-12T16:43:38+00:00"
    },
    {
-    "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+    "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
     "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
@@ -380,56 +422,77 @@
     "time": "2026-11-12T15:10:32+00:00"
    },
    {
-    "title": "Elon Musk Hiring NVIDIA’s Jensen Huang To Run Tesla Isn’t The Worst Idea I’ve Ever Heard - The Autopian",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWNEV1gtN1VEOXFRV09pZngyT1h6VVZ2V2diNm9EUktfUUMwN01hX2lPSnA3TUlVS284azdkQ1k5amNqLVZXeWdsQVROS2cyZ1FpN0Z0SzhlUmpZRjV3dnphNkIwMDJUbzBnMWcyb3NBLWNwMDV3UTZ1Vm0xbnJsRDR1cGtWbWZoVV85ejhZblJYdmFUdy01QjlMcWI1SEVMOWpQMndNZm0zX3dkWDZKQnNralc?oc=5",
-    "source": "The Autopian",
-    "summary": "Elon Musk Hiring NVIDIA’s Jensen Huang To Run Tesla Isn’t The Worst Idea I’ve Ever Heard The Autopian",
-    "time": "2026-11-12T14:15:45+00:00"
-   },
-   {
     "title": "'Elon Musk Is Impatient': Sunil Bharti Mittal On Starlink's India Entry - NDTV",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWS1HZTRraXFXWWxRY1hpTENyYk1aTXNvTjJtWEJlRkhJbkFuRjExd2JKcC14WGRBWHY0aVBKOHN6c210SnNReVFmcFZnTGJpWHp0RS1GcG9UQVdmeFJZdVdWNFJHTFlDNmhFSDREd25yMlh4ZjdSWWlrTWFBbGg5bDhxbmViTFhuVWVjQVB6TWVoTVRrOGRQdEFhQTNsYWhmU1RQc3RB?oc=5",
     "source": "NDTV",
     "summary": "'Elon Musk Is Impatient': Sunil Bharti Mittal On Starlink's India Entry NDTV",
     "time": "2026-11-12T13:38:22+00:00"
-   },
-   {
-    "title": "Nissan’s new 38-mpg SUV comes with a $6,000 catch - TheStreet",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMENDN1BaR2pxb0RpVjAwVUhzbUNPSkhBT3RmWTd5STEyZTRmSldERURhSDVRVDViTVlHWTB3R29MRm9hUjdtXy1ZMjQ0SE5aQ1V3UllBeVlUYVFveEwtME93ZDNJT2JkSWk0U0NLeXpab0ZhMXBIc3dJYUJxbV9kRzkxMXk5bng4X3k5dk55OTh4eHBWcnc?oc=5",
-    "source": "TheStreet",
-    "summary": "Nissan’s new 38-mpg SUV comes with a $6,000 catch TheStreet",
-    "time": "2026-11-12T12:37:00+00:00"
-   },
-   {
-    "title": "Porsche CEO Takes a Swipe at Elon Musk’s Flying Tesla Roadster: ‘We Want to Steer Clear of Effects and Shows’ - Benzinga",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQnZkMllBNFBmNGVRbFlMeVpvalgtbjdFa3pVOVBLM0pvd2ZpZEZOcWxmeERRdE5HUXRIVnZZRXhWTlRpY052QXF0dEhndDI0Z3BqNjhMLXExZDktc3Bld0Rsdlp0OVUxTlhRZDhnREtydjd2LWFyUk82bjVFS0hMcklsWWM0eDZiYVFiYm9BblU5WE1sazR1NTNIdlJhRW9KMlJwNm93MDlvakhSUFppUGxkelVVd2lWdHR6REtCOEo0aWVaWkJjenBCRmVrN1RPWXc2bUdGb3RyUDZ3TnNOX21yTmFUYmtIU0xfVVdNYw?oc=5",
-    "source": "Benzinga",
-    "summary": "Porsche CEO Takes a Swipe at Elon Musk’s Flying Tesla Roadster: ‘We Want to Steer Clear of Effects and Shows’ Benzinga",
-    "time": "2026-11-12T10:27:25+00:00"
-   },
-   {
-    "title": "SpaceX Starship Flight 15 could be a major step toward full rocket reusability and cheaper missions - ABC News - Breaking News, Latest News and Videos",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNlA2V0FhTW5kSHowVThrci1aN09VVDVlR2JPUjhkS3JVQUgxLW83ek1HeTlfOUhWUFNib1lkenFxemtsTE5rbk1RSFJrSVExUDFrRndXTk85NU5XNGlHSUxUdEdDUW1iU3dpWUxFYzlITnc3SDVWaDh2R0hST3UtQzRhU1FybnhFeVBJZ1k5SUpuLV9P0gGaAUFVX3lxTE1wTjhWMWZNeHpSTHVqT1Z3RnJqYmZXUWtBM3d6VGlnblFMZmNpeGdjQUhzTVl2RTFPT3FmNFFHSDIyWWRCYkN3UVluRlhmemJRM1NBeXFfWktlTEs5RGZsdEdMbVNORXRFczg1M2lCbkY0Rm8xNFkxMmx5YXFDcmE0Q0RObVlHQjVLWlYxMWF2cnpFVmxhTXAxdHc?oc=5",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "summary": "SpaceX Starship Flight 15 could be a major step toward full rocket reusability and cheaper missions ABC News - Breaking News, Latest News and Videos",
-    "time": "2026-11-12T10:21:05+00:00"
-   },
-   {
-    "title": "Porsche's Boss Isn't A Fan Of Tesla's Marketing Stunts - Motor1.com",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yTVdkTndMUnk2UzRPNzRIZkFrU1ltWFJyQXM2dm9JWmliQndzUkhZTWxNRTYxc1lmbUgwanNaREQ1YXBvczdOUnh3ZXdwTVlORzN5dE1PdE1Wbm1lVUl0emp2SVgweExHVV92MHBiOGpsS09hT244YVJqN0UzQQ?oc=5",
-    "source": "Motor1.com",
-    "summary": "Porsche's Boss Isn't A Fan Of Tesla's Marketing Stunts Motor1.com",
-    "time": "2026-11-12T07:06:00+00:00"
-   },
-   {
-    "title": "Xpeng's Flying Car Unit Aridge Targets Summer 2027 Commercial Launch; 7,000 Preorders at $300,000 - finance.biggo.com",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01bWRHdWJ6eHY3ZVVfQWxqbTdseDRMb2kxUHdicThfbUt3cllXWU9WLUtZTXliRF81VnUzSjFUNncybnNEWlUyVktzSFR6enJidWNhNWVhSkFRcDM2ejRrQnlTSjdhWVduaE9TVVBGdC1tamFWT0E?oc=5",
-    "source": "finance.biggo.com",
-    "summary": "Xpeng's Flying Car Unit Aridge Targets Summer 2027 Commercial Launch; 7,000 Preorders at $300,000 finance.biggo.com",
-    "time": "2026-11-12T06:05:00+00:00"
    }
   ],
   "Cricket": [
+   {
+    "title": "Cummins: Khawaja's allegations 'complete and utter nonsense'",
+    "link": "https://www.cricinfo.com/ci/content/story/1562419.html?ex_cid=OTC-RSS",
+    "source": "Cricket news from Cricinfo.com",
+    "summary": "Australia captain says Khawaja's suggestion that the entire 2018 Cape Town XI knew that sandpaper was being used on the field is '100% wrong'",
+    "time": "2026-11-13T01:00:58+00:00"
+   },
+   {
+    "title": "Manoj Sharma, the IPS officer behind ‘12th Fail’, takes his story to Mumbai’s cricket dressing room - The Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUVqbF8xa0t3VDdFWWQ1NkxGcU1LRHVRT3FVVW5KLVZjdUtNLUNKQlhqSU1aTmN6N3VCR2MydGpLWXNNX21weVA3c0JfWGJyQnhleFJlbHhNeXJmZGM4RC12Y0lJMUhlOXp5RDA0RnF1RXZ3bVEyR1VFUzF3Z2h6b2p2d1h4RHhSTTlZUzNoRnhUS3ZWMmR6SlJDOUhPMC1FMEHSAagBQVVfeXFMTlV2MF9CNWg1RmktU0g1X0gwRDlNdDN5SXBqUFpjMVl3UFVIc0NxQVpoeHZzeWNMcnlWWjFKd0xjT3V6Z3E0a0pRSnlyLXk3S0x2dGVwbzF0TGRfX1ZjT1c1dXVXNXMwekNqWE9DYWRBOE5nMmoyaWRib3RLWHVQSjlVVER5V2lmbEZIQWI5SWN1X3lqa2Rhdno2TUhZVTh2THp5cmFCUmZo?oc=5",
+    "source": "The Indian Express",
+    "summary": "Manoj Sharma, the IPS officer behind ‘12th Fail’, takes his story to Mumbai’s cricket dressing room The Indian Express",
+    "time": "2026-11-13T00:48:57+00:00"
+   },
+   {
+    "title": "India vs New Zealand, 4th ODI Live Score: Shreyas Iyer takes charge as India look to seal series - India Today",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQmdPWXNRWXc0M19LVU1ZUFUzX25Dcm9EQ25tLWl5RzFuajJCRGxQZjJsbHg4Q21YT0R3NGRYdnpqTUljNXh4NjhZN3RUQWJqYlo0TGhZZ3NuVFlwMVJqVVFWVHBZY25JbWFoS0NCZjJoSDhNTnVhSWpWZ2MxQWxGTmlkblBES2JlZEtoa1BLQ1V0TXQ0aVNUbTZtTUlmNi1UV1BPME9HVmdzSTMwdWdxUlZ4bFRoZmRPTnpJSjhtUm5ZYjI4RUhuNHcxUXBOWnhSa1hJeThrUm1iT2PSAeABQVVfeXFMTl9IWnAtOFBqQzQtRk01M2xQNERacWhvb05idEZ2RkpNam9ITXFObEF2WnhIOEltTmhYTVJQdTJNM3dsVnFnd000X1dxZmxoc2xLOFVCaDQ4Y3ZDQURSR0NaNEtlNFFzRm81bHdDTkw1dkNiMTlXVlVKZjJTdC05OXJ4Wm5IMW9pbkpIc1ZFWG93UUxwMnFIVHcxMDZUUTFSeWJGMGdXV18zMWwzbGZqNHJIX2dTLXI4RWxPcTZTQ2hGNVJlRXpNR3hUdXUtUW1Fd0pCOUFlMGxqRk9oLXQ0T3Y?oc=5",
+    "source": "India Today",
+    "summary": "India vs New Zealand, 4th ODI Live Score: Shreyas Iyer takes charge as India look to seal series India Today",
+    "time": "2026-11-13T00:45:00+00:00"
+   },
+   {
+    "title": "Once coached by Rahul Dravid, Chhattisgarh's Amandeep Khare chases his India dream - India Today",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYlNmclRVOTFxWENfRjZONDJheTdxVlRaU2MydHpMVnhwN2N0dXJSWlp3WlZaZDBSRXZsdzAzeTJHYlBITS1KZVZ1YWxtV0ttOXlfeVBWc0RKN2Z0M3FoSkU0Y3d0aHg5UzNGQUFpUEtCRW9OZEJ4TFJRRWZ1NWVsTF9YOHQwdXZBUWNFN0dYTEJnZW55cGdHV2NVZkIwZTFmRVNQR3lqRkRoQUE4UVAwZVNPMXZfUW5uMFdrZUR1WEtQT1RCdjJv0gHMAUFVX3lxTE1wRzNfZEdkb0Z2WkFBeGtjLVBsSTdNWC01VlM5TFBIdks1Wk5IREpseUxjeDB5OXJKaS1Kdk5jZG42MzlLeDJGRTFodzVvMFByT0JNZ1VSVlRpT0lJa3dXcmE1MU9ua1BtazlTa1lYX0w2UEFxb3Q5cl9qT1VLa0tvaldHZkdGaUxTTUE3WUdVaVpxY2N2cmc5cWNGdWNUUVhDSFdJVEZMN0ViR0V1UkNJZDZGSDEtV0JZVnlLOV9ONFlnbmQwejl4V3pwNg?oc=5",
+    "source": "India Today",
+    "summary": "Once coached by Rahul Dravid, Chhattisgarh's Amandeep Khare chases his India dream India Today",
+    "time": "2026-11-13T00:29:51+00:00"
+   },
+   {
+    "title": "India debutant Auqib Nabi backs skills more than pace after impressive ODI display - Telegraph India",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXNVdGExNVo0M3pvMGh1cVhJV1JCOVJQaEl4cVNUaVNRcjN2Z1VUeDQwYnotbjBEc3FkOWs1amYxUjBhSmVlVHQzZGtWTG96Z1pNUjRTTlUzZ1loNmxfbEhXZmJZR0c2MGR2R3dZLWVPS2tjbFZXc0ctbjVpNTJtUmRIQ1FzeWNoeGVYc2Z3bGt2dTI5NFBrSUpnN21QbmNBNUl5MFRmbWdocWtVUmsyVml2Q3d3eW9STDFmX1ZzWHBDNkp2UXJHVTlYbGU4blhHM21qc2UwY9IB3AFBVV95cUxQVUxXZnlYM2NYUHpDdXZHQ0ozbVg3eE1nenNqU3IzTFJ3OWJUb0RXSElQMEJZclY0UjZHM0pQcGpBOGQ2ZVQxV20zdFlwSmhoOFMwbVZzRl80amIzZWV5cVI1NU5qMlFOWldnT2hXYThIS0VfZXd2WERvSFBwSzh6cTQ4eFpsSGh4MEtnUzBUQTJXYlBPN2ZYRGVxdjdobGNrUFk3VEhGNzBVZDUxTExlRzlJcUo4WFVTaE82N3RmSEdza2oyME5VMHFFRm1OemJKeDNRbWwtSzNvTVJh?oc=5",
+    "source": "Telegraph India",
+    "summary": "India debutant Auqib Nabi backs skills more than pace after impressive ODI display Telegraph India",
+    "time": "2026-11-13T00:22:54+00:00"
+   },
+   {
+    "title": "India vs New Zealand 4th ODI Weather Report: Will Rain Play Spoilsport in Mount Maunganui? - Jagran Josh",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTDRiUmVydi1kcGRsWWxuMmZ2X19VYzFxZXk0aGFzSHc1aW1UTzFUYXNEcUh1Rk9QV1hGWjhMYzRWZ2xySWlsbTBaQWRRYmFodV9OSFp5bEs2WHVxT2hnZkRLNnlRQ04yZFp0SjZSZmtSdjkwSWt6N0VndUdXNlBOanhIcWRFNkY5WldDZkhFREVKdThGZDFWeml6NXQ0bTF2NVhMU1d1dGQweVRwRGZwdWF1U3JFSW5i0gG_AUFVX3lxTE9RQXFiNllQZld2SEhkYzdsdXotLXdNaEUyN2wtVVRGMENDOUxiX3RMUko0QzZsdi1VemExdFUtNHk0X08tcGc4S2gtUUFndXdZRHgyYkZzMEtkUGd0WUJ3cUdkc2tCeU1XZW1TVTdkY1c1VU42RkJRZGxKOTVaN05PNFltX29vSzVuN2NKUnJpMk1PWEJHTXRjWnJCS251QU1FQVpvVHk3TVdZa1dGcDFjZEpxMEFVQWE3Vkk5VE1Z?oc=5",
+    "source": "Jagran Josh",
+    "summary": "India vs New Zealand 4th ODI Weather Report: Will Rain Play Spoilsport in Mount Maunganui? Jagran Josh",
+    "time": "2026-11-13T00:09:00+00:00"
+   },
+   {
+    "title": "TBWA/NZ and ANZ Put Fan Loyalty to the Test in Seven-Part 'Cricket Conundrum' — LBB - LBB - Little Black Book",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WTkdsdS11b1B0ZWk4TUxDTHhPeUJpazVycjVieUpkZ2p0SGc1TFpNZlZ5YVJoS2p0cmpPdUNtRE5KVXJNRHlDRmNwRXVHdkJyYUpOYU9jYUY1TmhJdEw0WG1CSUYwWk45TDB3YnpILWZka2M?oc=5",
+    "source": "LBB - Little Black Book",
+    "summary": "TBWA/NZ and ANZ Put Fan Loyalty to the Test in Seven-Part 'Cricket Conundrum' — LBB LBB - Little Black Book",
+    "time": "2026-11-12T23:21:34+00:00"
+   },
+   {
+    "title": "Cricket match squads | AFG vs IND, 1st T20I, Afghanistan vs India in India 2026 - Cricbuzz",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0F5aUxkQzlaU0NtR0ZqRXRUdDFUNk9KZUVUcUJ1cTJwcGpvN2hHNUNQZi1fX0ZFWFFVME1kOTdlcHhFUnZXU2k0UUNsaWdBY2U2ZUpZSEhlbnlrV1dHdS1HU0Y5S1FsUTRCeUdma0R2eVB5UEo5T1NCSGxJUC1HOHhadTNRWXlCalRaT3p2Y19CU2dtbzFlbEpKZ3ltN1B6Zl9YWllYd0d5R2M?oc=5",
+    "source": "Cricbuzz",
+    "summary": "Cricket match squads | AFG vs IND, 1st T20I, Afghanistan vs India in India 2026 Cricbuzz",
+    "time": "2026-11-12T21:44:33+00:00"
+   },
+   {
+    "title": "[HD LIVE] Cricket India vs Pak Montenegro National Football Team vs Latvia National Football Team ＬＩＶＥ Ｓｔｒｅａｍｉｎｇ - 日本取引所グループ",
+    "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQSFo0aFhBVVZDcW1lOW9DS3JhOTZPYVVCa01WeC1saTVaSkFHVVlIekNBc2tzOFdycVpkZW1la1lMenJDZXQ1dE1qSjBCZ1E0alNqZjMtZ3V3SjlQdDQwd2p6eFpyUWtiZERDM1ctMTdreWdEVW9SRjZQY2daNlZfVTY1ZmxqamNLNHVldlJqWXp1QV9VTUQ2SWszLTRBMEwyU0dtT3JFMVNJVmZRNWxlV1kxQU5hbGpYZ2lBWFZqdFE1ZEpUSjNjSzVfSEFnVWFGZTBtUjhnZHlpRnIxUHozQ2o1dmVHeVpiWmVJZkYtblpqcFJCWFVQa1lYX1JyVVBIMkxzaXdkZTFHT21iVm51YWctamxQbWZyb3F2R19kTEtjR1BJWUNTSnlydkpBbmNJNDgwWi1nV3pvbWpuN0UycXFDekRYRVgtby1jU181TGtoeW93cUNfM3F4aWJlM2x1Q0JWQnNBVUE5ZEprUjlGa0ZtM0Q3Mm5kWU5lc2J5cHlGa09Nb21DTEh4UVVYN1RTUm85bFloOF9MUDlqcGF1ZE93?oc=5",
+    "source": "日本取引所グループ",
+    "summary": "[HD LIVE] Cricket India vs Pak Montenegro National Football Team vs Latvia National Football Team ＬＩＶＥ Ｓｔｒｅａｍｉｎｇ 日本取引所グループ",
+    "time": "2026-11-12T20:35:41+00:00"
+   },
    {
     "title": "2nd Semi-Final, Asian Cricket Council Under-19s Asia Cup at Al Amarat, Nov 12 2026 - ESPN India",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYk1yTmx5bzRVT1ozV0dXSGh6SmxvVVNGNW9lN1dSZkVJcndnaEFpUVFsWlozMWR5VHdnQlp1ekh3Q2V3bDROdVljMDIxWU4tY1N0LUNTeThUcloyS3I4WWxpOUxiVnJMWi0xTjduX0ZYRmhkQmpXektlN241M0tHWVU4dmV5bk9HcGEyNXBmNm1GTUt3djlDNU1aU0lueTY1clJhdkx1UUVHNzBYOV90WU5pb09lM3hiQjNHOEtrYlpFSzYwN2EyaG5jLWIzLUtOVVdvaTZRZFp0VXQ3eGtzU3dmRUZCZXlJa1RJRWh3?oc=5",
@@ -466,77 +529,70 @@
     "time": "2026-11-12T18:16:00+00:00"
    },
    {
-    "title": "Jemimah Rodrigues is Hero Vida brand ambassador - www.motownindia.com",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlDVkJWYlFxTjliTlQ0dHk5c2hjR0l6eEJWdC1aelFldzNOWG1renFZc1dYWUs1MFo2cHF5RTVLWkZGQ045ZF9MRG1UZl9EcDA0QlNwMDJlNnQ0MEF5Q2lORFU4N0RqV2ZvS1YtSXRMMDhtLXBzdko3VnZ2RUpHTlBGWTBUdWJPZDJlQldRbjJCYzdfZWVxc25TdHVVR0VrQWNzTFdGSWhNdHRpOG14N3otM21OX0ZYVDR5TlI5Qm5Nenpk?oc=5",
-    "source": "www.motownindia.com",
-    "summary": "Jemimah Rodrigues is Hero Vida brand ambassador www.motownindia.com",
-    "time": "2026-11-12T17:53:13+00:00"
-   },
-   {
-    "title": "\"Why Not Rishabh Pant And KL Rahul?\": Former India Batter On Delhi Capital's Ideal Opening Pair For IPL 2027 - NDTV Sports",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX2RQTUpxX2Y0M0hlalIzUEtackc3c1VvQ2RMeHowRm1qSVpmc3JjWlhVNll0VGR3U3VsakRmYzJ1RjExNWtYM05YVC1PSzVPVThNcExpclZPTE5jUW5FTmlwQTlnamlWMkZrVjB2djJuMEFXdFkxSFF1Rk54VzJXeUttZ01WM1g4ZEZuLXJOTHJpM0lRSDhGRVptNENNNGtFODFRRUdMSFJjdXdCRU0tNndORzRQbmpydk5SZnNZSmZ2MlZzblpma3BGbExicmlibmVvMlFRano2OTBP?oc=5",
-    "source": "NDTV Sports",
-    "summary": "\"Why Not Rishabh Pant And KL Rahul?\": Former India Batter On Delhi Capital's Ideal Opening Pair For IPL 2027 NDTV Sports",
-    "time": "2026-11-12T16:53:57+00:00"
-   },
-   {
-    "title": "Brook: Rashid is a 'magician' but recall not guaranteed",
-    "link": "https://www.cricinfo.com/ci/content/story/1562408.html?ex_cid=OTC-RSS",
-    "source": "Cricket news from Cricinfo.com",
-    "summary": "Buttler suggests Rashid must be \"bowling at his best\" for England to win 2027 World Cup",
-    "time": "2026-11-12T15:37:14+00:00"
-   },
-   {
-    "title": "Raichandani and Sood set up India-Pakistan final",
-    "link": "https://www.cricinfo.com/ci/content/story/1562389.html?ex_cid=OTC-RSS",
-    "source": "Cricket news from Cricinfo.com",
-    "summary": "India eased past Afghanistan in the semi-final in Al Amerat",
-    "time": "2026-11-12T15:14:56+00:00"
-   },
-   {
-    "title": "India vs New Zealand 4th ODI Playing 11: Kishan and Siraj likely to feature for IND at Mount Maunganui - The Indian Express",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZVMyUVh5bGgxd1ZPbk1nWnhFZTAxNzhmVWE4d0RqTnJUSEhKTnFSMHBHUUlmbDNmcFQ0aG1QcVc0LXh0VmRaYnJPWGpabEhIemFSazY3QTFZd0gtUHZTRkhVNTFsUDRvSU5CbW42N2RSSHhVcGJabVV6UC1BeFpnNVJSdFdDQjhjWXdrREZJZy1OTWd6RmlGeFpLclRlTkFET1F3UHhaMW8wRDY3QXJtV09nZFVtUk9GVXZUZU1vRE5qdmpL0gHLAUFVX3lxTFAyOVV5RjhJQk5TYUl2Nm9fMWNOaFA2bjhzRFVHcXFmQjZSZTlUaWRGR1FuM1hRZHBGTHQ5cGNqNFZPc19MZHZVV3NFR1ZlcUJNNkswd3M4bUp1UDRQQzhoZ3NadGVYQWJ4dFU0ZE5peEw4Vl9mTFpMN0hoVUxkTXlBZmNfdXdZSEdJNXlDUDNTazRvTHlEZlRTa3ZiRHRCdVFDcFFod0FMcU9XVllvMXJIRm9LTFY2cVV2SHpJajA3UGpjckVlZkhNY29z?oc=5",
-    "source": "The Indian Express",
-    "summary": "India vs New Zealand 4th ODI Playing 11: Kishan and Siraj likely to feature for IND at Mount Maunganui The Indian Express",
-    "time": "2026-11-12T14:32:29+00:00"
-   },
-   {
-    "title": "Mitchell Marsh reveals Australia's preferred top six for 2027 ODI World Cup ahead of England series - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZUdJcHdxak9LZE5xUmFFaDlKN1otVE5EVWlZOTBWZXZ5RmhpRzh6SlVzaE1HZ1dHYUpDU3VEbFJHWjQ2RWE1YlJ3cV9MTVlvZ0lDaDlZWXNPblgzaEk1VGt5R1lZaFRBUFVkZmxWOXFjcXRtR2x5bnFUNjNscGM2S3dKMXRKdW1YNVp4VmI1Rmx1UnhoTTg0YVgzVE50WGtYT3dzZVgwaXUtNkpKWC16d0Zwc1lTdjRERldCV3ZGV0NYX2ZrTDVScWQ4aElMTmJRdjlaZ1lWZjd3aDM1N1BfT2FVcnRHYXJFc2d6X09WN1ZyOGc5Q1J2d3dZX1UySjhWOUVNSEo1Zkh6NE560gGSAkFVX3lxTE5icFZmcUctMlFqYm5ReERiSldNeTFXTWJBZUlFYlYyRVBva2FwLVpMMmRZZERiSFZHQi1BLVJEMVo5VjkxZmhfcVZUV1pJWnNUY0d2Sm9KcE14emF5ZFNLSDJyOWk5ZnEwTFhHTnR4bUlXU0NEeXljS1ZVdGlMdUlDMlBEaW40aWV5LWhJcUlQcDIweURQZFZfVXpqR1ZRenFUQV96OWQxZ05zWVpwZGdVbzhSNDRNeGhFeERZZmpHdjhqc2FFRk5NcnZjSFNWTnJfZF9PMkpQbmFEUDJYUlNGcWVfemg3dlF1ME5IUjl5M3o1akNJZ0ZBZlZGQ3A1NEd3eWJFc2pNRXJtS1Q4b0JoZkE?oc=5",
-    "source": "The Times of India",
-    "summary": "Mitchell Marsh reveals Australia's preferred top six for 2027 ODI World Cup ahead of England series The Times of India",
-    "time": "2026-11-12T14:31:00+00:00"
-   },
-   {
-    "title": "\"We will certainly miss his upright seam position\": Former India chief selector Chetan Sharma on Mohammed Shami's Test retirement - ANI News",
-    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTDVqTndNaTJNVGZyWW5kT1ZaQnZiTC01TWJHM3R4aXc0Z3NtQndaWHJTbUM4c2xydjlHZ3dzV0lSZS03ckRSclduT3JrRlhnTzM3dU9jQVpya3VhVTBJemV6dUNYNFYzSzgybG9pMzM0bG85aGhVN1NPZElBaVgyRkVmb3V5UE9GNGtETFhYYVY5Y3pmcFJSWmFMOUcxaGNGWGdkV1R6U1liek5VVUhjSy1Ca05Ld1g4UlkyR09XZzBxOVJReVc2bjBqeVhTWERDVmNWck1EQmh0QjR2OWVnZVdETEVKdGh2V1NZMWs5QkJxczJlOVJEVDVRN0JSVWFuS3FTUW5BSko3WmN1bGFV?oc=5",
-    "source": "ANI News",
-    "summary": "\"We will certainly miss his upright seam position\": Former India chief selector Chetan Sharma on Mohammed Shami's Test retirement ANI News",
-    "time": "2026-11-12T14:14:00+00:00"
-   },
-   {
-    "title": "Cricket match squads | AFG vs IND, 1st T20I, Afghanistan vs India in India 2026 - Cricbuzz",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0F5aUxkQzlaU0NtR0ZqRXRUdDFUNk9KZUVUcUJ1cTJwcGpvN2hHNUNQZi1fX0ZFWFFVME1kOTdlcHhFUnZXU2k0UUNsaWdBY2U2ZUpZSEhlbnlrV1dHdS1HU0Y5S1FsUTRCeUdma0R2eVB5UEo5T1NCSGxJUC1HOHhadTNRWXlCalRaT3p2Y19CU2dtbzFlbEpKZ3ltN1B6Zl9YWllYd0d5R2M?oc=5",
-    "source": "Cricbuzz",
-    "summary": "Cricket match squads | AFG vs IND, 1st T20I, Afghanistan vs India in India 2026 Cricbuzz",
-    "time": "2026-11-12T13:56:51+00:00"
-   },
-   {
-    "title": "ICC proposes greater control over T20 franchise leagues",
-    "link": "https://www.cricinfo.com/ci/content/story/1562388.html?ex_cid=OTC-RSS",
-    "source": "Cricket news from Cricinfo.com",
-    "summary": "If the recommendations of the review group are passed by the ICC, leagues like the ILT20 and MLC could be severely impacted",
-    "time": "2026-11-12T13:50:06+00:00"
-   },
-   {
-    "title": "BCCI Sponsors Air Fare For India's Visually Challenged Cricket Squad - NDTV Sports",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnlUbXBVVVZBYUZUcEt1QU9QZkZHNEJTbTBjZ09BSWpkaTI2SHRPYzFCeElMY1NUOXZiLWV2cVZ1dVlNUHdmai00MXdFQTBTN01JY2xfalRRSWJ5MTZxR2xocHhDMmt3SUVYbnFYU2JxM0R6RENGd2hzMVZzdExHa2YxRl9GZmZQdUJ2M3pVTnVTX0N1eW9PZTdzeUNueHRFbUlBOTRPdE41VFJT?oc=5",
-    "source": "NDTV Sports",
-    "summary": "BCCI Sponsors Air Fare For India's Visually Challenged Cricket Squad NDTV Sports",
-    "time": "2026-11-12T13:41:42+00:00"
+    "title": "Testing times for cricket and the Raj - The Spectator",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jdzl5S0EwQVlmNmc5dWNxQUxaaUNjSERlbnBESHN0ckNhMjFEZmNDYUI3TFEwVVlXTnBLQktxVzV0V2xnZnJ0ZV9qSHVkREJwZ2JVNm43blJqQVVMVjMtRkxfQ0hSVHRkd1VQMnN3LVVBYXBCckZr?oc=5",
+    "source": "The Spectator",
+    "summary": "Testing times for cricket and the Raj The Spectator",
+    "time": "2026-11-12T16:04:56+00:00"
    }
   ],
   "Football": [
+   {
+    "title": "Football Daily",
+    "link": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Harry Kane becomes the most-capped England men's player in history.",
+    "time": "2026-11-12T23:37:00+00:00"
+   },
+   {
+    "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+    "time": "2026-11-12T23:09:07+00:00"
+   },
+   {
+    "title": "Grealish apologises for absence after breach of discipline",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue.",
+    "time": "2026-11-12T22:10:13+00:00"
+   },
+   {
+    "title": "Where does Kane rank among all-time England greats?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
+    "time": "2026-11-12T22:09:59+00:00"
+   },
+   {
+    "title": "Gritty Arsenal show different side in Barcelona draw",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
+    "time": "2026-11-12T21:50:59+00:00"
+   },
+   {
+    "title": "Kane scores winner but who else made an impression? England player ratings",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
+    "time": "2026-11-12T21:47:36+00:00"
+   },
+   {
+    "title": "Man Utd & Man City in Gusto battle - Friday's gossip",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Manchester United and Manchester City are going head-to-head for Chelsea defender Malo Gusto and Leeds United pursue Will Lankshear, plus more.",
+    "time": "2026-11-12T21:13:59+00:00"
+   },
+   {
+    "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
+    "link": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. The point moves Renee Slegers' side into the top four, putting them ",
+    "time": "2026-11-12T20:09:07+00:00"
+   },
    {
     "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
     "link": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
@@ -545,25 +601,11 @@
     "time": "2026-11-12T19:53:40+00:00"
    },
    {
-    "title": "Quiz: Name England's all-time leading appearance makers",
+    "title": "Quiz: Name England men's all-time leading appearance makers",
     "link": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport",
     "summary": "Can you name every England men's player who has at least 60 caps?",
     "time": "2026-11-12T19:47:16+00:00"
-   },
-   {
-    "title": "SFA in talks with Boston officials over biannual friendly match",
-    "link": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
-    "time": "2026-11-12T18:35:31+00:00"
-   },
-   {
-    "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Jordan Ayew has a first-half penalty saved as Ghana secure a comfortable 2-0 home win over Somalia to kick-start their Afcon 2027 qualifying campaign.",
-    "time": "2026-11-12T18:12:55+00:00"
    },
    {
     "title": "Crystal Palace sack boss Sage after 16 games",
@@ -578,13 +620,6 @@
     "source": "BBC Sport",
     "summary": "FC Andorra manager Carles Manso says goalkeeper Jesus Owono is yet to decide whether he will return to playing action following the death of Tenerife forward Jesus de Miguel.",
     "time": "2026-11-12T16:41:49+00:00"
-   },
-   {
-    "title": "Football Daily",
-    "link": "https://www.bbc.co.uk/sounds/play/m0034dz1?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Simon Stone, Jay Motty & Tom Allnutt join Rick & Lloyd for reaction to Carrick’s sacking.",
-    "time": "2026-11-12T16:31:00+00:00"
    },
    {
     "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
@@ -606,41 +641,6 @@
     "source": "BBC Sport",
     "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
     "time": "2026-11-12T10:21:29+00:00"
-   },
-   {
-    "title": "Young duo at heart of Nations League's meanest defence",
-    "link": "https://www.bbc.co.uk/sport/articles/cw24epvmq96lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "With Northern Ireland yet to concede a goal in the 2026-27 Nations League, young defenders Ruairi McConville and Tom Atcheson have been impressing for Michael O'Neill's side.",
-    "time": "2026-11-12T08:17:52+00:00"
-   },
-   {
-    "title": "USA withdraw from U17 World Cup",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "The USA pull out of the Under-17 World Cup, which starts in Qatar next week, because of the risk of armed conflict.",
-    "time": "2026-11-12T07:44:21+00:00"
-   },
-   {
-    "title": "Robertson set to make history, but hero Dalglish will always be King",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English.",
-    "time": "2026-11-12T07:19:57+00:00"
-   },
-   {
-    "title": "England's Blues brothers - how the Bellinghams helped save Birmingham",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years.",
-    "time": "2026-11-12T07:12:41+00:00"
-   },
-   {
-    "title": "How 'Barca way' continues despite big-name exits",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
-    "time": "2026-11-12T06:41:09+00:00"
    }
   ],
   "Formula 1": [
@@ -752,6 +752,27 @@
   ],
   "MotoGP": [
    {
+    "title": "MotoGP U.S. Rights Head to ESPN in Deal With Liberty Media - IMDb",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Cdlppc0VfbWJWcENhWEhYeVJ5akpRZTU0MnhZcVNFcVJqNS12VnJ2dTBvbXdpdm5EVXlQZXBTdENIaGhIZWVMejdJVHlqcThMakNlbFB6Y2R5ODVTY2hNTVdlOFpLQQ?oc=5",
+    "source": "IMDb",
+    "summary": "MotoGP U.S. Rights Head to ESPN in Deal With Liberty Media IMDb",
+    "time": "2026-11-12T22:38:23+00:00"
+   },
+   {
+    "title": "ESPN to broadcast MotoGP in the United States and Latin America from 2027 - GPOne.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjRWWGpDeGd3d3B0MVZtSDR5RE1OTTIwRm5JaWlUUnNXSzBGbTRZTzlPcnIwU2FrNUlvSV95R0phb2kxSEhTQnBuLUZTOGFRenAxc0dDSmpNS2wwcldyYm1NaUNyTElCdzRPQUxUNGxocUNYVXVLR2ZZd1Jacjg4SWpndDR0cWRzY21TTXY3N21FMDZCbi1BeU9tVVRaUmxSRlg2LWNrX2dNQXZLdzJXV2NzWHBvNUw5UzRhYjZB?oc=5",
+    "source": "GPOne.com",
+    "summary": "ESPN to broadcast MotoGP in the United States and Latin America from 2027 GPOne.com",
+    "time": "2026-11-12T21:01:04+00:00"
+   },
+   {
+    "title": "MotoGP, Bulega fastest on the Ducati 850 in Jerez testing: Savadori and Aprilia 316 thousandths behind - GPOne.com",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMlN5NGkzWjlXTmY4dG1IYzd0d2hKcXhLWkF0dUlHenM3Y2lNcFVyVFMtSWhWYkYtN1Y0LW9sZTktUFd1SkxlSXAzYVhnVnBMZ3Rsc0xaa0JNRlNtNklmcFBsQWFnNUQ0b0JBeTFBT0xwdUpnWUdFeGZrZ3BJd1VQVmQxOVhwS1Y2QzRuTkp0ZVJ1RlhUSHBjSnViX3BSM05qa295MmtYT3B4dTdXVjhVSmlBT2QxMHNEa0NRY0U5dzN6b0NidlY1dHZ1VUxVQnFycXRQSVljbTU?oc=5",
+    "source": "GPOne.com",
+    "summary": "MotoGP, Bulega fastest on the Ducati 850 in Jerez testing: Savadori and Aprilia 316 thousandths behind GPOne.com",
+    "time": "2026-11-12T20:58:30+00:00"
+   },
+   {
     "title": "Why Maverick Vinales may have already raced for the final time in MotoGP - Crash.net",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRDZKbFNWQnoyaVRIX1p5T0ctT1I4OVhtaFZtSmhiMEQ5SGRqbW5ZTjF1Qk1haC1Rd3NZZW0zWVRGTzhNZ3hrdWJfQ2h2TXR3eVVwZnRYMDBBSGVVSkoxV0RHeFBRMU9rVWxZaVFfM3AwemtHSURmekxnN1dGUHc2dVFvbmFCaTQ4VERkR3lZNWRkZWFzNTZjOWd3SU5TOE83NFg1aVc0VUE?oc=5",
     "source": "Crash.net",
@@ -766,18 +787,18 @@
     "time": "2026-11-12T18:45:00+00:00"
    },
    {
+    "title": "Ducati responds to Aprilia's Marc Marquez claim: “It's the package that wins” - Crash.net",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3lwVm1vN0lQbWlsZEhmcjgzVlVOVmw4NjJUYTN3UnVEajlnQ2RKZkVMaFZwWW1zTS12aUtlSUdYODdxTXVWRndUMk9fbEJ2WHdXRWJ3RzdyMzIwbzFJWk1RM3JubHY4T09EZDM3Y1VuMW9YQWN3dllkOFIyVVdCQ0JFdlNvX21DSm9XeXZEMHd0alR0TFdad2N5cFVCTmVmUEpfMGVuSQ?oc=5",
+    "source": "Crash.net",
+    "summary": "Ducati responds to Aprilia's Marc Marquez claim: “It's the package that wins” Crash.net",
+    "time": "2026-11-12T18:29:24+00:00"
+   },
+   {
     "title": "Dall’Igna’s analysis: “An opportunity Marc didn’t let slip by!” - SPEEDWEEK.com",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVFWbTJjZ09zR0NpWDBzT096S1NYZW5sVmVwbW1Ock92ZV9aOVdVbFhjcl9iZmRPTndzZC14U0I3YVR3bHZUeVlyNlJZOVhCR3otbm9PN2VxTFJnVnpGanFfcW9Ta2NwZXJBTHdiWWhiWW04Sjk1SGpZOWFiQktmLTd5ZjhnUG15?oc=5",
     "source": "SPEEDWEEK.com",
     "summary": "Dall’Igna’s analysis: “An opportunity Marc didn’t let slip by!” SPEEDWEEK.com",
     "time": "2026-11-12T18:25:01+00:00"
-   },
-   {
-    "title": "MotoGP U.S. Rights Head to ESPN in Deal With Liberty Media - IMDb",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ueHB1d2ROcFFtQU05ZGZua0EyWFZMNlFwVE5fSXp3WHN3V19lWnpNeGNwd3pHOVBzR05HS1ZiQlNBVGdROXFacHhzZFNHdDVjUEs1akwzWXF6TlQ0dEY3MlBIZUpxTE5KSGc?oc=5",
-    "source": "IMDb",
-    "summary": "MotoGP U.S. Rights Head to ESPN in Deal With Liberty Media IMDb",
-    "time": "2026-11-12T18:12:49+00:00"
    },
    {
     "title": "The “weak link” that helped derail one 2026 MotoGP title charge - Crash.net",
@@ -787,25 +808,11 @@
     "time": "2026-11-12T18:10:15+00:00"
    },
    {
-    "title": "An unlikely race on an icy track: a MotoGP bike beats a Formula 1 car! - SPEEDWEEK.com",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3dnQnJpTE1kUl96c0l6aFI0dEUyRGtJLVB3anl5bHh4eTZnVE51Mm9PTV9ycUNDcG92TFUzWVJtZkJsbmJwQ1dnT2lKWjEtWnFrY1VUUVlMM3RPdDczVzAwZFVaUkN0RjEtUktJekZ4Nm5DQ0JDNW1wbEdWdXRSZ19lZmw3Wlg2SEp3Yg?oc=5",
-    "source": "SPEEDWEEK.com",
-    "summary": "An unlikely race on an icy track: a MotoGP bike beats a Formula 1 car! SPEEDWEEK.com",
-    "time": "2026-11-12T18:00:01+00:00"
-   },
-   {
     "title": "Moto - News, On the bookshelves: Ducati - The One and Only, MotoGP, Superbike, 100 years of history - GPOne.com",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdHpmdW53ZFZqbG1CZ2VYeWhlbzNSdER4YmlCMHNDNUJnMUxzRk5HMW5mV184ZGszNEljemdnOTJNMkdNeFoxclkxOGVHaVBHTlh5LUcwbktrSXU5NkUxUFR0d2RzLUdTWk5qcjhnM2VteGxIQkJtYVZFejRmREZCTWE3d0p1bFR6NHpiQnRsaGJvUzVTTkdKTU5Kc1JOcV9uT2xDT040TWJSTmZVSlJhN1ZWRmExdEFKeWZVRHRZOWY3SlMyOHYyX092QQ?oc=5",
     "source": "GPOne.com",
     "summary": "Moto - News, On the bookshelves: Ducati - The One and Only, MotoGP, Superbike, 100 years of history GPOne.com",
     "time": "2026-11-12T17:41:34+00:00"
-   },
-   {
-    "title": "MotoGP makes major US TV step with ESPN deal - The Race",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY2VubDl5eFhYdXJSM1U0bHpMYjVzenJGbldkYVFwSENTaE13b3l6aGd6SVJNalFpQUxLcDRPRDN1bTZFVVNXMFdYQUVtdDE2bjhYR2xRb3liNURTd2t2NzVYNWdlc3pVM3EyVkI0dldRdXhoY21NNmpnOHp3bHBDZktFdXNHdw?oc=5",
-    "source": "The Race",
-    "summary": "MotoGP makes major US TV step with ESPN deal The Race",
-    "time": "2026-11-12T17:32:48+00:00"
    },
    {
     "title": "MotoGP U.S. Rights Head to ESPN in Deal With Liberty Media - The Hollywood Reporter",
@@ -819,7 +826,7 @@
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGJINUdGd0JnWi12MW5Nb2ZvM3NpN05CY2V2dDVvMk1FS1lyRm5YVDVqXzFaOWxsUjNuQmhYM296VXViMFROVG5ZZXVVM1RtWVNfRVVwdFR2Tk5Ba0d4RmZYcngyc1J4VkNRVUNHSERlT0RwS0VYRkFoQTFDLWVabG1scGxqNGVtdlF5cGVYSXBoTlVJbUhiWmNBSS1HOXl4SG1tUXpkMXRsdEJQSmw0cWphTFFQR19oSGdVUFg1dHlUanpJQnlibFRBbEltUXpxREJwUUhmSW1yZF9jTkF6M3FR?oc=5",
     "source": "motogp.com",
     "summary": "MotoGP and ESPN announce multi-year broadcast agreement across the United States and Latin America motogp.com",
-    "time": "2026-11-12T17:15:00+00:00"
+    "time": "2026-11-12T17:16:06+00:00"
    },
    {
     "title": "MotoGP announces major new US broadcast deal with ESPN - Crash.net",
@@ -836,18 +843,11 @@
     "time": "2026-11-12T16:55:23+00:00"
    },
    {
-    "title": "MotoGP, Marquez and Acosta, Ducati's new pairing to be unveiled on January 18th, 2027 at Campioni in Pista - GPOne.com",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX0NOdDlySlZoQl82WllUS0FTa0RsdnpOeXdnWjBhTzBQeFN1bjJjQUtEUXFuMGV5Wkh1UVNCbnBqTjU3Y21hWXJBNGZUZUhBYkN6dDlIUFNMMXJxUXZOXzB3WUpxdTVvM0FNSlBPQm1ucDRlZ2ZXZXBQTXJiMFdQbU1hXzNSbERmRWo1Ni1ZZzdNV0dNa3hEZVlDYlZ3UHZ4S2JNVW5CeExqTUljd3pxZlRVMWRRTjVOUHFmNXh2VnpMY2JhN2tldlRXcFpBRUFYSUF2bnVhUmVkS1k?oc=5",
-    "source": "GPOne.com",
-    "summary": "MotoGP, Marquez and Acosta, Ducati's new pairing to be unveiled on January 18th, 2027 at Campioni in Pista GPOne.com",
-    "time": "2026-11-12T16:44:34+00:00"
-   },
-   {
-    "title": "How can Martin stay in Championship contention? - www.motogp.com",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tZXEtMVkwLWlSOHkzZFR3amZGNUo3b2RXOE4yVlNzZUJyRUtPU2JLVnlBV2UwdEt4bTZVV2c4T19iS25tWjRkZ3I3YTYzVE1rRXJQQWtONHpmRUY0TFBn?oc=5",
-    "source": "www.motogp.com",
-    "summary": "How can Martin stay in Championship contention? www.motogp.com",
-    "time": "2026-11-12T16:38:09+00:00"
+    "title": "Pol Espargaro leads Nicolo Bulega as rain disrupts Jerez 850cc MotoGP test - Crash.net",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGFIOHgzeVdzUlN5ckhBRWtKNDNibWEtNUtvOGtMZ29zSGxUM21EQ1E0X2RCclU0ZUpMNnZFcEdmUVkzb0hSbGZKUEFBNjBULVp6RFpEZHhfdE0wZzFCTmFVQTUwUEVpVkpTYjhGYVQtM3dIYktkRFNOUzNRb0ZMVjlHVHBFX0hTeWxJcGRpU2hTR2VUM09CbTN6ZVNxU0g3LVhIS1RrSjdEdWc0c3FXLWFZWFFFQQ?oc=5",
+    "source": "Crash.net",
+    "summary": "Pol Espargaro leads Nicolo Bulega as rain disrupts Jerez 850cc MotoGP test Crash.net",
+    "time": "2026-11-12T16:45:58+00:00"
    },
    {
     "title": "Jorge Lorenzo: Valentino Rossi not part of GOAT debate if Marc Marquez wins 2026 title - Crash.net",
